@@ -40,7 +40,7 @@ In order to make it easier for you to understand maritime and related market inf
 
 Marine Online provided eight marine tools, including: 
 1. Vessel Search: Enquiry for 100,000+ commercial vessels’ basic information (ship’s particulars), real-time position tracking worldwide;
-2. Port Search: Inquire about the port guides, berth information, port agents, etc. of about 3,000 ports around the world; 
+2. Port Search: Enquire about the port guides, berth information, port agents, etc. of about 3,000 ports around the world; 
 3. Distance Calculator:  Estimate the distance between world’s main ports and voyage period;
 4. Equipment Search: Convenient and Intuitive purchase enquiry for the common spare parts equipment and suppliers based on five different types of vessels such as oil tankers, dry bulk cargo and etc.;
 5. Port Cost Calculator: Estimate the comprehensive cost of port charges in advance;
