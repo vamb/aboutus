@@ -18,21 +18,30 @@ name: Contact Us
 
 **Email: [chartering@emarineonline.com](mailto:chartering@emarineonline.com)**
 
-Bunkering Department
-+65 6571 5968
-bunker@emarineonline.com
-Ship Supply Department
-+65 6571 5833
-supplies@emarineonline.com	Port Agency Department
-+65 6571 5843
-agency@emarineonline.com
-Crewing Department
-+65 6571 5934
-crewing@emarineonline.com	Insurance Department
-+65 6571 5824
-insurance@emarineonline.com
-SNP Department
-+65 6571 8989
-snp@emarineonline.com	Marketing Department
-+65 6571 5902
-marketing@emarineonline.com
+**Bunkering Department: +65 6571 5968**
+
+**Email: [bunker@emarineonline.com](mailto:bunker@emarineonline.com)**
+
+**Ship Supply Department: +65 6571 5833**
+
+**Email:supplies@emarineonline.com(mailto:supplies@emarineonline.com)**	
+
+**Port Agency Department: +65 6571 5843**
+
+**Email:agency@emarineonline.com(mailto:agency@emarineonline.com)**	
+
+**Crewing Department: +65 6571 5934**
+
+**Email:crewing@emarineonline.com(mailto:crewing@emarineonline.com)**	
+
+**Insurance Department: +65 6571 5824**
+
+**Email:insurance@emarineonline.com(mailto:insurance@emarineonline.com)**	
+
+**SNP Department: +65 6571 8989**
+
+**Email:snp@emarineonline.com(mailto:snp@emarineonline.com)**	
+
+**Marketing Department: +65 6571 5902**
+
+**Email:marketing@emarineonline.com(mailto:marketing@emarineonline.com)**	
