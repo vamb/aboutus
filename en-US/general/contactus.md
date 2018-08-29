@@ -14,11 +14,11 @@ name: Contact Us
 
 ## Other Departments
 
-**Chartering Department: +65 6571 8937**
+## Chartering Department: +65 6571 8937
 
 **Email: [chartering@emarineonline.com](mailto:chartering@emarineonline.com)**
 
-**Bunkering Department: +65 6571 5968**
+## Bunkering Department: +65 6571 5968
 
 **Email: [bunker@emarineonline.com](mailto:bunker@emarineonline.com)**
 
