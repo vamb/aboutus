@@ -61,3 +61,7 @@ name: Contact Us
 **Contact No.: +65 6571 5902**
 
 **Email: [marketing@emarineonline.com](mailto:marketing@emarineonline.com)**	
+
+# Address
+**10 Pasir Panjang Road #15/16-01/02**
+**Mapletree Business City Singapore 117438**
