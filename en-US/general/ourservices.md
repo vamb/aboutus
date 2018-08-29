@@ -1,64 +1,56 @@
 ---
-name: RFQ (Request For Quotation)
+name: Our Services
 ---
 
-# RFQ (Request For Quotation)
+# Our Services
 
-##  How to send a RFQ (Request For Quotation)?
+##  The main management team of Marine Online comes from the maritime company, so we feel the same with shipowners of the problems encountered in their daily management. In order to build a more efficient, transparent and economical global maritime service system, we designed “7+2” a total of 9 marine services. Chartering services focus on allowing shipowners able to find cargoes faster, reduce the waiting time and gain more profit; other six services such as ship supply are aimed at making shipowners more convenient to find the best suppliers; the industry news and inquiry tools focus on providing shipowners a wealth of market information and scientific data support for better business decisions. The services are described as follows:
 
-MOL’s RFQ (Request For Quotation) had been designed to satisfy the Buyers (primarily Shipowners) maritime business operations, improve efficiency and productivity. The RFQ is a high-end request for quotation service which as a buyer, you will only need to fill up a simple request form specifying your requirements. MOL will send your RFQ automatically to the group of Suppliers whom match your requirements. You will be able to receive multiple quotations to compare the prices, payment methods/ terms and shortlist your supplier to complete the transaction. To make use of the RFQ Function, you may go to MOL’s homepage, under Marine Online’s logo > Click “Place an order” > Select the Platform to send the RFQ. Alternatively, you may go to the individual platform’s homepage by clicking “Send Enquiry/ Send RFQ/ Get a Quote/ Send Purchase Enquiry/ Add Cargo” (For Chartering platform only) to send the RFQ.
+**Chartering**
 
+Inspired by the online car-hailing services model, we strive to make the chartering process easier and cheaper. When a charterer issues the cargo information, we match the cargo according to the vessel type (cargo type), deadweight (cargo volume) and ship open information (loading port and laycan). The eligible shipowner will receive the cargo information and make quotation, the charterer can choose one or more shipowners to do direct negotiation and make a deal in a short time, which also improved the efficiency of chartering; at the same time, before each voyage completed, shipowners will receive a list of cargos that match their vessel type in advance, which greatly improves the efficiency of finding cargoes and the utilization rate of the ship, thus obtaining more freight income.
+Port Agency
+Find the port agency company provides good service with low price in a short time is the ideal of every shipowner or charterer. Marine Online is such a platform which provides you what you looking for. We have more than 400 port agency companies opened “flagship store” on the platform dividend by their port location and respective services. When the shipowners need to entrust the ship, they can fill one inquiry form and receive quotations from various port agents. The shipowner will find the ideal port agency company according to the costs, payment terms and the company profile (Such as the introduction, qualification, past cases, customer evaluations and etc.).
 
-##  My RFQ (Request For Quotation) will be send to who? Can I choose to send to a particular supplier?
+**Bunkering**
 
-Your RFQ (Request For Quotation) will automatically filter out the matching Suppliers based on the service category and port/ location. You may click the “RFQ Open Range” in the RFQ form to view all the matched Suppliers; you may select or unselect the Supplier(s) from the list and click Submit before sending your RFQ.
+Fuel cost is one of the most important costs for each shipowner, and to allow our customer to add more quality fuel at a lower price is the goal of our bunkering team. We have selected a number of fuel suppliers in major ports around the world and are ready to provide bunkering services to shipowners any time anywhere. You only need to provide your voyage plan and bunkering demand on our platform in advance. Marine Online will organize local oil suppliers to provide you with a quotation within the specified time. You can choose the most suitable suppliers according to the fuel price, payment terms, supplier strength and other factors.
 
-##  What kind of information do I need to provide in the RFQ?
+**Ship Supply**
 
-To simplify the RFQ’s form, MOL only retain the necessary information to ensure that the Suppliers will be able to provide the quotation accurately based on the information you provided.
+Providing spare parts, provisions,  lubricants, food and other marine supplies for vessels is one of the most important components of ship management, and it is also the most time-consuming and labor-intensive step. Vessels traveling between global ports, it is necessary to have a strong supply system to distribute dozens of kinds of ship supplies in a short port-to-end cycle. In the current industry background, many shipowners have to give priority to guarantee the efficiency of ship operations by accepting the high supply cost. We feel the helplessness and we launched a ship supply solution based on the e-commerce model: we invited the world's major manufacturers of spare parts, ship stores, and lubricants to the platform to open their online store; parts of the products are directly sold from Marine Online, and parts of the products are directly sold by the manufacturers. It minimizes the intermediate links to improve efficiency and reduce costs. In order to solve the problem of logistics and the last mile of delivery, the platform cooperates with internationally renowned logistics companies and the shipping networks of various ports to provide comprehensive services such as warehousing, customs declaration and distribution to ensure the accurate delivery of products. As a shipowner, you can either directly search for products and add into the shopping cart to purchase, or you can send an inquiry directly to ship suppliers for quotation, and then choose from several quotes based on factors such as price, payment terms, supplier rating, etc. to make the deal. After the transaction is completed, you can also rate and comment on the supplier's product quality, service level, and distribution efficiency to create a more realistic and high-quality service system.
 
-Please provide the RFQ information as specific as possible. You can enter the information by manual entry based on the individual platforms or by upload file using the Attachments function in the RFQ form.
+**Crewing**
 
-##  How to set the RFQ Validity/ Cargo Expiry Date?
+As the crew plays a vital role in the actual management and operation of the ship. Makes the rapid and low-cost recruitment of crew members and the training of crew members become one of the most important parts of ship management. Marine Online has provided two specialized services for crew recruitment and crew training. For crew recruitment, we collected and compiled more than 130,000 crew resumes through the platform. The shipowners can directly contact the crew to recruit (Need an upgrade to Premium Member) or choose from hundreds of manning agencies that have opened an online store on Marine Online platform. If you would like to choose the manning agencies’ service, you only need to issue an inquiry request form; the platform will organize qualified agencies to provide you with a centralized quotation based on factors such as quotation level, payment terms, and company strength. For crew training, the platform has invited hundreds of crew training centers around the world to publish their training courses online. You can conveniently select the required training courses and put them into the shopping cart to request quotation or reservation.
 
-**RFQ Validity Date:**
+**Marine Insurance**
 
-It can be set under the RFQ Validity section in the RFQ form. There are two options:
+In order to meet diversified insurance needs and insurance scenarios, we have joined forces with the world's leading marine insurance companies provide you with new insurance services based on the e-commerce model. On the one hand, the platform develops standardized insurance products based on online transaction big data with leading insurance companies. For example, cargo insurance allows you to directly purchase the insurance in the process of chartering with one-click; on the other hand, for the vessel-related insurance which need to be considered “case by case”, we also provide the smart matching model of “one inquiry, multiple quotations”. Let you easily find the best insurer.
 
--	Enter “days”, “hours” and “minutes”
--	Others, select calendar date and time
+**Ship Sale and Purchase**
 
-**Cargo Expiry Date: (For Chartering platform only)**
+In addition to providing you with services related to ship operations management, if you need to sell ships or purchase second-hand ships, Marine Online can also provide different online trading services to fit your needs. Our service advantages are mainly reflected in three aspects. First, Marine Online as the largest service platform for ships and shipowners with a large number of ship trading information, you will be easy to find the right match of your needs in the shortest time; this is the e-commerce platform’s advantage. Secondly, Marine Online gathers a large number of ship inspection agencies, ship financing institutions, maritime lawyers and other service providers and makes Marine Online able to provide one-stop service for your ship trading; Third advantage is that through the Marine Online professional ship sale and purchase team, we only charge about 50% of the market price of the transaction service fee, further reducing your transaction costs.
 
-It can be set under the Cargo Expiry section in the Add Cargo form. There are six options:
+**Marine News**
 
--	15 Days
--	7 Days
--	3 Days
--	1 Day
--	12 hours
--	Others, manual enter the expiry time
+In order to make it easier for you to understand maritime and related market information, we have set up a professional market analysis team to collect key industry news and hot topics around the world every day and provide you with scientific decision support with real market data.  In addition, Marine Online, as an important trading hub in the industry, will also provide your company with branding promotion, new product/service release, company major event report, media support for exhibition activities, etc., further contributing to the growing of the company.
 
-##  What is the payment method of the RFQ?
+**Marine Tools**
 
-As a buyer (Shipowner), you can manually enter your payment requirement or expectation in the RFQ form, so the Suppliers will be able to know your requirement and decide if they can support your requirement in their quotation. This can be one of the considering factors before you select the Supplier.
+Marine Online provided eight marine tools, including: 
+1. Vessel Search: Inquiry for 100,000+ commercial vessels’ basic information (ship’s particulars), real-time position tracking worldwide;
+2. Port Search: Inquire about the port guides, berth information, port agents, etc. of about 3,000 ports around the world; 
+3. Distance Calculator:  Estimate the distance between world’s main ports and voyage period;
+4. Equipment Search: Convenient and Intuitive purchase inquiry for the common spare parts equipment and suppliers based on five different types of vessels such as oil tankers, dry bulk cargo and etc.;
+5. Port Cost Calculator: Estimate the comprehensive cost of port charges in advance;
+6. Voyage Estimator: Calculate the profit of a single voyage based on the conditions of the rental fee, fuel consumption, and agent fee;
+7. Crew Budget Calculator: Calculate the crew recruitment cost according to the vessel type, number of employees, position, nationality, etc.;
+8. Vessel Valuator: Calculate the current transaction price and future estimated price for the vessel based on big data of the market transaction; 
 
-##  Can I hide my company information in the RFQ?
+**Member Service**
 
-You will be able to hide your company information in the RFQ by tick on the option, “Hide Information” under Company Information section. However, hiding your company information may cause you to receive lesser quotations.
-
-##  After I send the RFQ, how do I manage it? Can I make amendment or delete it?
-
-You will be able to manage your RFQ under Order Management after you had sent it to the Suppliers. 
-
--	To amend the RFQ (without appointed a Quotation): Go to My MOL > My Enquiry > Open tab > Click Modify
-
-	Note: If there is a Quotation already appointed, you will not be allowed to modify the RFQ. 
-
--	To delete the RFQ, Go to My MOL > My Enquiry > Open/ Appointed/ Completed/ Cancelled/ Expired/ All tab > Click Cancel Order
-
-	Note: For Open RFQ, you may cancel the order anytime. For Appointed RFQ, you will need to have mutual agreement with the Supplier to cancel the order, otherwise it may lead to dispute.
-
-
-
-
+Marine Online designed three types of membership packages as below: 
+Registered Member (Free): Corporate users have registered their member accounts on Marine Online, but have not provided company authenticity certification materials or members who have provided materials but have not yet passed the verification. Such members can only view limited platform information and free upgrades to the verified members recommended;
+Verified Member (Free): Members who provided the company's business license and other materials to Marine Online and passed the authenticity verification. Such members can set up an online store, publish products, issue inquiry or quotation, and make deals through our platform; However, they can only check the companies’ contact information that already had transactions before, and their contact information can only be inquired and contacted by Premium Members as well;
+Premium Member: Verified members who have purchased specific services. Such members can use all the services they have purchased, and able to directly contact suppliers or customers to communicate before the transaction is completed. Marine Online will also provide more display and recommendation opportunities to help Premium Members get more orders.
