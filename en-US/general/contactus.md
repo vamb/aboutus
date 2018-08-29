@@ -24,24 +24,24 @@ name: Contact Us
 
 **Ship Supply Department: +65 6571 5833**
 
-**Email:supplies@emarineonline.com(mailto:supplies@emarineonline.com)**	
+**Email:[supplies@emarineonline.com](mailto:supplies@emarineonline.com)**	
 
 **Port Agency Department: +65 6571 5843**
 
-**Email:agency@emarineonline.com(mailto:agency@emarineonline.com)**	
+**Email:[agency@emarineonline.com](mailto:agency@emarineonline.com)**	
 
 **Crewing Department: +65 6571 5934**
 
-**Email:crewing@emarineonline.com(mailto:crewing@emarineonline.com)**	
+**Email:[crewing@emarineonline.com](mailto:crewing@emarineonline.com)**	
 
 **Insurance Department: +65 6571 5824**
 
-**Email:insurance@emarineonline.com(mailto:insurance@emarineonline.com)**	
+**Email:[insurance@emarineonline.com](mailto:insurance@emarineonline.com)**	
 
 **SNP Department: +65 6571 8989**
 
-**Email:snp@emarineonline.com(mailto:snp@emarineonline.com)**	
+**Email:[snp@emarineonline.com](mailto:snp@emarineonline.com)**	
 
 **Marketing Department: +65 6571 5902**
 
-**Email:marketing@emarineonline.com(mailto:marketing@emarineonline.com)**	
+**Email:[marketing@emarineonline.com](mailto:marketing@emarineonline.com)**	
