@@ -1,5 +1,5 @@
 ---
-name: Get to know us
+name: About Marine Online
 ---
 
 # About Marine Online
