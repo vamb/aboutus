@@ -12,7 +12,7 @@ Marine Online revolves around the seven services required for the day-to-day man
 
 ## **Multiple Transaction Model:**
 
-In order to facilitate the shipowner and the supplier to reach a deal, Marine Online has designed two transaction models. The first model is just as simple as online shopping, it makes Shipowner actively search for the required product or supplier, put it into the shopping cart to purchase and closes the deal; the second model let the shipowner directly issue an enquiry form through the platform, the system will automatically push the qualified suppliers to provide the quotation according to the unified format. It will help the shipowner comprehensively compares the price, payment terms, supplier’s credit and other factors to quickly reach the best deal.
+In order to facilitate the Shipowner and the Supplier to reach a deal, Marine Online has designed two transaction models. The first model is just as simple as online shopping, it makes Shipowner actively search for the required product or supplier, put it into the shopping cart to purchase and closes the deal; the second model let the shipowner directly issue an enquiry form through the platform, the system will automatically push the qualified suppliers to provide the quotation according to the unified format. It will help the shipowner comprehensively compares the price, payment terms, supplier’s credit and other factors to quickly reach the best deal.
 
 ## **Reliable Platform Support:**
 
