@@ -14,11 +14,11 @@ To learn more about how to register and setup Store to display the Products/ Ser
 
 To allow you to receive more orders, MOL had designed two types of transaction models:
 
-1st Model: Shopping Cart
+**1st Model: Shopping Cart**
 
 We recommend you to publish as many as possible of your company’s hot selling Products/ Services into the Store. For example, publish every Product/ Service with the details information and photos, in this case, when the Shipowners are searching for the required Products/ Services, they will have more chances to find your Products/ Services and add into the Shopping Cart or to send enquiry to you. You will need to confirm the orders in time on the final price and logistics information in order to be awarded the order.
 
-2nd Model: Request For Quotation (RFQ)
+**2nd Model: Request For Quotation (RFQ)**
 
 Based on the Maritime’s industry transactions habits, most of the Shipowners prefer to send an enquiry to get the Quotations for the Products/ Services.  MOL’s platform will auto send the Shipowners’ RFQs to the qualified Suppliers for the Quotations. We encourage you to send the Quotations promptly based on the Shipowners’ requirements with competitive prices, reasonable payment terms, and Products/ Services details in order to win the order among the multiple Quotations from other Suppliers.
 
