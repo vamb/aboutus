@@ -4,13 +4,13 @@ name: Supplier: How to make money on MOL?
 
 # Supplier: How to make money on MOL?
 
-**Setup Store and display Products and Services for free**
+## Setup Store and display Products and Services for free
 
 MOL provides the Suppliers with a free display on the Company information, displaying the hot selling Products and Services on their Stores on MOL’s platform. You will be able to register for free, become a verified Supplier and setup a free Store to input your company’s information and add your hot selling Products/ Services into the worldwide biggest maritime Suppliers’ databases to accept the Shipowners’ enquiries, requests and ultimately be awarded the orders.
 
 To learn more about how to register and setup Store to display the Products/ Services on the MOL’s platform, please access [Help Centre](http://emarineonline.com)
 
-**No Transaction, No Payment**
+## No Transaction, No Payment
 
 To allow you to receive more orders, MOL had designed two types of transaction models:
 
