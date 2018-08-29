@@ -16,7 +16,7 @@ name: Contact Us
 
 ## Chartering
 
-**Contact No.: +65 6571 8937
+**Contact No.: +65 6571 8937**
 
 **Email: [chartering@emarineonline.com](mailto:chartering@emarineonline.com)**
 
