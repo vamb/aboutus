@@ -51,6 +51,7 @@ Marine Online provided eight marine tools, including:
 **Member Service**
 
 Marine Online designed three types of membership packages as below: 
+
 **Registered Member (Free):** Corporate users have registered their member accounts on Marine Online, but have not provided company authenticity certification materials or members who have provided materials but have not yet passed the verification. Such members can only view limited platform information and free upgrades to the verified members recommended;
 
 **Verified Member (Free):** Members who provided the company's business license and other materials to Marine Online and passed the authenticity verification. Such members can set up an online store, publish products, issue enquiry or quotation, and make deals through our platform; However, they can only check the companies’ contact information that already had transactions before, and their contact information can only be inquired and contacted by Premium Members as well;
