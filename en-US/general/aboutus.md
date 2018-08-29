@@ -4,7 +4,7 @@ name: About Marine Online
 
 # About Marine Online
 
-Marine Online is a one-stop integrated maritime platform for global Shipowners and Suppliers. We introduce advanced e-commerce model into the shipping industry and establish a safe online payment and guarantee system, credit evaluation system and logistics support system, so Shipowners and Suppliers are able to easily match, build trust and make deals with each other. And eventually, help Shipowners save money and help Suppliers make money. 
+**Marine Online is a one-stop integrated maritime platform for global Shipowners and Suppliers. We introduce advanced e-commerce model into the shipping industry and establish a safe online payment and guarantee system, credit evaluation system and logistics support system, so Shipowners and Suppliers are able to easily match, build trust and make deals with each other. And eventually, help Shipowners save money and help Suppliers make money.** 
 
 ## Full-Service Coverage:
 
