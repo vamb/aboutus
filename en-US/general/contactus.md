@@ -12,7 +12,7 @@ name: Contact Us
 
 **Operating hours: 8am to 9.30pm, Monday to Friday (except Saturday, Sunday and Public Holidays)**
 
-## Other Departments
+# Other Departments
 
 ## Chartering
 
