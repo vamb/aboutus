@@ -1,64 +1,22 @@
 ---
-name: RFQ (Request For Quotation)
+name: About Marine Online
 ---
 
-# RFQ (Request For Quotation)
+# About Marine Online
 
-##  How to send a RFQ (Request For Quotation)?
+##  Marine Online is a one-stop integrated maritime platform for global shipowners and suppliers. We introduce advanced e-commerce model into the shipping industry and establish a safe online payment and guarantee system, credit evaluation system and logistics support system, so shipowners and suppliers are able to easily match, build trust and make deals with each other. And eventually, help shipowners save money and help suppliers make money. 
 
-MOL’s RFQ (Request For Quotation) had been designed to satisfy the Buyers (primarily Shipowners) maritime business operations, improve efficiency and productivity. The RFQ is a high-end request for quotation service which as a buyer, you will only need to fill up a simple request form specifying your requirements. MOL will send your RFQ automatically to the group of Suppliers whom match your requirements. You will be able to receive multiple quotations to compare the prices, payment methods/ terms and shortlist your supplier to complete the transaction. To make use of the RFQ Function, you may go to MOL’s homepage, under Marine Online’s logo > Click “Place an order” > Select the Platform to send the RFQ. Alternatively, you may go to the individual platform’s homepage by clicking “Send Enquiry/ Send RFQ/ Get a Quote/ Send Purchase Enquiry/ Add Cargo” (For Chartering platform only) to send the RFQ.
+## **Full-Service Coverage:**
 
+Marine Online revolves around the seven services required for the day-to-day management of shipowners, including chartering, bunkering, ship supply, port agency, crewing, ship sale and purchase and marine insurance. We invite more than 10,000 suppliers worldwide set up their online store on our platform to provide their services and products for different categories and ports. It will form the world’s largest shipping supplies database and shipping products/services database. Shipowners can quickly search for the qualified suppliers relying on this huge database and to make an online purchase and make deals efficiently.
 
-##  My RFQ (Request For Quotation) will be send to who? Can I choose to send to a particular supplier?
+## **Multiple Transaction Model:**
 
-Your RFQ (Request For Quotation) will automatically filter out the matching Suppliers based on the service category and port/ location. You may click the “RFQ Open Range” in the RFQ form to view all the matched Suppliers; you may select or unselect the Supplier(s) from the list and click Submit before sending your RFQ.
+In order to facilitate the shipowner and the supplier to reach a deal, Marine Online has designed two transaction models. The first model is just as simple as online shopping, it makes shipowner can actively search for the required product or supplier, put it into the shopping cart to purchase and close the deal; the second model let the shipowner can directly issue an inquiry form through the platform, the system will automatically push the qualified suppliers to provide the quotation according to the unified format. It will help the shipowner comprehensively compares the price, payment terms, supplier’s credit and other factors to quickly reach the best deal.
 
-##  What kind of information do I need to provide in the RFQ?
+## **Reliable Platform Support:**
 
-To simplify the RFQ’s form, MOL only retain the necessary information to ensure that the Suppliers will be able to provide the quotation accurately based on the information you provided.
-
-Please provide the RFQ information as specific as possible. You can enter the information by manual entry based on the individual platforms or by upload file using the Attachments function in the RFQ form.
-
-##  How to set the RFQ Validity/ Cargo Expiry Date?
-
-**RFQ Validity Date:**
-
-It can be set under the RFQ Validity section in the RFQ form. There are two options:
-
--	Enter “days”, “hours” and “minutes”
--	Others, select calendar date and time
-
-**Cargo Expiry Date: (For Chartering platform only)**
-
-It can be set under the Cargo Expiry section in the Add Cargo form. There are six options:
-
--	15 Days
--	7 Days
--	3 Days
--	1 Day
--	12 hours
--	Others, manual enter the expiry time
-
-##  What is the payment method of the RFQ?
-
-As a buyer (Shipowner), you can manually enter your payment requirement or expectation in the RFQ form, so the Suppliers will be able to know your requirement and decide if they can support your requirement in their quotation. This can be one of the considering factors before you select the Supplier.
-
-##  Can I hide my company information in the RFQ?
-
-You will be able to hide your company information in the RFQ by tick on the option, “Hide Information” under Company Information section. However, hiding your company information may cause you to receive lesser quotations.
-
-##  After I send the RFQ, how do I manage it? Can I make amendment or delete it?
-
-You will be able to manage your RFQ under Order Management after you had sent it to the Suppliers. 
-
--	To amend the RFQ (without appointed a Quotation): Go to My MOL > My Enquiry > Open tab > Click Modify
-
-	Note: If there is a Quotation already appointed, you will not be allowed to modify the RFQ. 
-
--	To delete the RFQ, Go to My MOL > My Enquiry > Open/ Appointed/ Completed/ Cancelled/ Expired/ All tab > Click Cancel Order
-
-	Note: For Open RFQ, you may cancel the order anytime. For Appointed RFQ, you will need to have mutual agreement with the Supplier to cancel the order, otherwise it may lead to dispute.
-
-
-
-
+In order to help buyers and sellers to further build trust and make deals, the platform provided three platform services including online payment and guarantee system; credit evaluation system and logistics support system. 
+The online payment and guarantee system allows the shipowner to pay the funds to the platform first, and then informs the platform to release the money to the supplier after the service is satisfied. On the one hand, the shipowner can obtain satisfactory service; on the other hand, the supplier can receive the payment after the service is completed to solve the problem of trust. 
+The credit evaluation system allows shipowners and suppliers to provide evaluations to each other after the service is completed, and urges both parties to continually improve their credit levels on the basis of honesty and trustworthiness to obtain more trading opportunities. 
+The logistics support system is provided by the platform and the selected third-party logistics company to provide professional warehousing, logistics, customs declaration and distribution on board services for both shipowners and suppliers. It reduces intermediate links and helps shipowners and suppliers directly reach deals.
