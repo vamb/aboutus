@@ -14,15 +14,12 @@ name: Contact Us
 
 # Other Departments
 
-| Chartering Department |      Are      |  Cool |
-| +65 6571 8937 |  left-aligned | $1600 |
-| chartering@emarineonline.com |  left-aligned | $1600 |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
     
-
+|Chartering Department|Self-hosted|Multi-language|Real-time Sync|Static HTML|Versionable|
+|+65 6571 8937|Self-hosted|Multi-language|Real-time Sync|Static HTML|Versionable|
+|chartering@emarineonline.com|Self-hosted|Multi-language|Real-time Sync|Static HTML|Versionable|
+|:--:|:---------:|:------------:|:------------:|:---------:|:---------:|
+|Peach|✅|✅|✅|✅(cachable)|[Roadmap](/docs/intro/roadmap)|
 
 
 
