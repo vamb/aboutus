@@ -22,7 +22,9 @@ name: Contact Us
 |Peach|✅|✅|✅|✅(cachable)|[Roadmap](/docs/intro/roadmap)|
 
 
-
+|Name|Self-hosted|Multi-language|Real-time Sync|Static HTML|Versionable|
+|:--:|:---------:|:------------:|:------------:|:---------:|:---------:|
+|Peach|✅|✅|✅|✅(cachable)|[Roadmap](/docs/intro/roadmap)|
 
 
 
