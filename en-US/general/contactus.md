@@ -16,11 +16,11 @@ name: Contact Us
 
     
 |Chartering Department<br>+65 6571 8937<br>+65 6571 8937|Self-hosted|
-|:--:|:--:|
+|---|---|
 |Peach|✅|
-|:--:|:--:|
+|---|---|
 |Peach|✅|
-|:--:|:--:|
+|---|---|
 |Peach|✅|
 
 
