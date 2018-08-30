@@ -15,14 +15,14 @@ name: Contact Us
 # Other Departments
 
     
-
-
-|<br>Ship Supply<br>Contact No.:+65 6571 5833<br>Email: [supplies@emarineonline.com](mailto:supplies@emarineonline.com)|Port Agency<br>Contact No.: +65 6571 5843<br>Email: [agency@emarineonline.com](mailto:agency@emarineonline.com)|
+|Chartering<br>Contact No.: +65 6571 8937<br>Email: [chartering@emarineonline.com](mailto:chartering@emarineonline.com)|Bunkering<br>Contact No.: +65 6571 5968<br>Email: [bunker@emarineonline.com](mailto:bunker@emarineonline.com)|
+|---|---|
+|Ship Supply<br>Contact No.:+65 6571 5833<br>Email: [supplies@emarineonline.com](mailto:supplies@emarineonline.com)|Port Agency<br>Contact No.: +65 6571 5843<br>Email: [agency@emarineonline.com](mailto:agency@emarineonline.com)|
 
 |<br>Ship Supply<br>Contact No.:+65 6571 5833<br>Email: [supplies@emarineonline.com](mailto:supplies@emarineonline.com)|Port Agency<br>Contact No.: +65 6571 5843<br>Email: [agency@emarineonline.com](mailto:agency@emarineonline.com)|
 |---|---|
 
-|Chartering<br>Contact No.: +65 6571 8937<br>Email: [chartering@emarineonline.com](mailto:chartering@emarineonline.com)|Bunkering<br>Contact No.: +65 6571 5968<br>Email: [bunker@emarineonline.com](mailto:bunker@emarineonline.com)|
+
 
 
 
