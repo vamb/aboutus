@@ -63,9 +63,9 @@ name: Contact Us
 **Email: [marketing@emarineonline.com](mailto:marketing@emarineonline.com)**	
 
 # Address
-**10 Pasir Panjang Road #15/16-01/02**
+**10 Pasir Panjang Road #15&#47;16-01/02**
 <div  markdown="1">
-  <strong>10 Pasir Panjang Road #15&#8722;16-01/02</strong>
+  <strong>10 Pasir Panjang Road #15&#47;16-01/02</strong>
 </div>
 
 **Mapletree Business City Singapore 117438**
