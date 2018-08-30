@@ -15,7 +15,8 @@ name: Contact Us
 # Other Departments
 
     
-|Chartering<br>Contact No.: +65 6571 8937<br>Email: [chartering@emarineonline.com](mailto:chartering@emarineonline.com)|Self-hosted|
+|Chartering<br>Contact No.: +65 6571 8937<br>Email: [chartering@emarineonline.com](mailto:chartering@emarineonline.com)
+|Chartering<br>Contact No.: +65 6571 8937<br>Email: [chartering@emarineonline.com](mailto:chartering@emarineonline.com)|
 |---|---|
 |Peach|✅|
 |Peach|✅|
