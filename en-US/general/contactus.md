@@ -17,7 +17,7 @@ name: Contact Us
     
 |Chartering<br>Contact No.: +65 6571 8937<br>Email: [chartering@emarineonline.com](mailto:chartering@emarineonline.com)|Bunkering<br>Contact No.: +65 6571 5968<br>Email: [bunker@emarineonline.com](mailto:bunker@emarineonline.com)|
 |---|---|
-|Chartering<br>Contact No.: +65 6571 8937<br>Email: [chartering@emarineonline.com](mailto:chartering@emarineonline.com)|Bunkering<br>Contact No.: +65 6571 5968<br>Email: [bunker@emarineonline.com](mailto:bunker@emarineonline.com)|
+|Ship Supply<br>Contact No.:+65 6571 5833<br>Email: [supplies@emarineonline.com](mailto:supplies@emarineonline.com)|Bunkering<br>Contact No.: +65 6571 5968<br>Email: [bunker@emarineonline.com](mailto:bunker@emarineonline.com)|
 |---|---|
 
 |Peach|✅|
