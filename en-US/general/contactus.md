@@ -15,12 +15,7 @@ name: Contact Us
 # Other Departments
 
     
-|Chartering Department<br>+65 6571 8937\+65 6571 8937|Self-hosted|Multi-language|Real-time Sync|Static HTML|Versionable|
-|:--:|:---------:|:------------:|:------------:|:---------:|:---------:|
-|Peach|✅|✅|✅|✅(cachable)|[Roadmap](/docs/intro/roadmap)|
-
-
-|Name|Self-hosted|Multi-language|Real-time Sync|Static HTML|Versionable|
+|Chartering Department<br>+65 6571 8937<br>+65 6571 8937|Self-hosted|Multi-language|Real-time Sync|Static HTML|Versionable|
 |:--:|:---------:|:------------:|:------------:|:---------:|:---------:|
 |Peach|✅|✅|✅|✅(cachable)|[Roadmap](/docs/intro/roadmap)|
 
