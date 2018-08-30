@@ -64,8 +64,4 @@ name: Contact Us
 
 # Address
 **10 Pasir Panjang Road #15&#47;16-01/02**
-<div  markdown="1">
-  <strong>10 Pasir Panjang Road #15&#47;16-01/02</strong>
-</div>
-
 **Mapletree Business City Singapore 117438**
