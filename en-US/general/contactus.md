@@ -18,7 +18,7 @@ name: Contact Us
 |:---|:---|
 |**Ship Supply<br>Contact No.:+65 6571 5833<br>Email: [supplies@emarineonline.com](mailto:supplies@emarineonline.com)**|**Port Agency<br>Contact No.: +65 6571 5843<br>Email: [agency@emarineonline.com](mailto:agency@emarineonline.com)**|
 |**Crewing<br>Contact No.: +65 6571 5934<br>Email: [crewing@emarineonline.com](mailto:crewing@emarineonline.com)**|**Insurance<br>Contact No.: +65 6571 5824<br>Email: [insurance@emarineonline.com](mailto:insurance@emarineonline.com)**|
-|**SNP<br>Contact No.: +65 6571 8989<br>Email: [snp@emarineonline.com](mailto:snp@emarineonline.com)|Marketing<br>Contact No.: +65 6571 5902<br>Email: [marketing@emarineonline.com](mailto:marketing@emarineonline.com)|**
+**|SNP<br>Contact No.: +65 6571 8989<br>Email: [snp@emarineonline.com](mailto:snp@emarineonline.com)|Marketing<br>Contact No.: +65 6571 5902<br>Email: [marketing@emarineonline.com](mailto:marketing@emarineonline.com)|**
 
 
 ## Chartering
