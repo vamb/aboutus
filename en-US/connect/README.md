@@ -1,3 +1,3 @@
 ---
-name: Get to know us 
+name: Connect with MOL 
 ---
