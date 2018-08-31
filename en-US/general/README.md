@@ -1,3 +1,3 @@
 ---
-name: About Us 
+name: Get to know us 
 ---
