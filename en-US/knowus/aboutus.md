@@ -17,6 +17,9 @@ In order to facilitate the Shipowner and the Supplier to reach a deal, Marine On
 ### Reliable Platform Support
 
 In order to help buyers and sellers to further build trust and make deals, the platform provides three services which are online payment and guarantee system, credit evaluation system and logistics support system. 
+
 The online payment and guarantee system allows the Shipowner to pay the funds to the platform first, and then inform the platform to release the money to the Supplier after the service is satisfied. On one aspect, the Shipowner can obtain satisfactory services, and on the other aspect, the Supplier can receive the payment after the service is completed to solve the problem of trust. 
+
 The credit evaluation system allows shipowners and suppliers to provide evaluations to each other after the service is completed, and urges both parties to continually improve their credit levels on the basis of honesty and trustworthiness to obtain more trading opportunities. 
+
 The logistics support system is provided by the platform and the selected third-party logistics company to provide professional warehousing, logistics, customs declaration and distribution on board services for both Shipowners and Suppliers. It reduces intermediate links and helps Shipowners and Suppliers directly reach deals.
