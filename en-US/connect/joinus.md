@@ -2,6 +2,6 @@
 name: Job Opportunities
 ---
 
-# Job Opportunities
+## Job Opportunities
 
 Under Construction
