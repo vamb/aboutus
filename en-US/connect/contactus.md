@@ -2,9 +2,9 @@
 name: Contact Us 
 ---
 
-# Contact Us 
+## Contact Us 
 
-## Customer Service
+### Customer Service
 
 **Customer Service Hotline: +65 6571 5888**
 
@@ -12,7 +12,7 @@ name: Contact Us
 
 **Operating hours: 8am to 9.30pm, Monday to Friday (except Saturday, Sunday and Public Holidays)**
 
-# Other Departments
+### Other Departments
 
 |Chartering<br>Contact No.: +65 6571 8937<br>Email: [chartering@emarineonline.com](mailto:chartering@emarineonline.com)|Bunkering<br>Contact No.: +65 6571 5968<br>Email: [bunker@emarineonline.com](mailto:bunker@emarineonline.com)|
 |:---|:---|   
@@ -20,7 +20,7 @@ name: Contact Us
 |**Crewing<br>Contact No.: +65 6571 5934<br>Email: [crewing@emarineonline.com](mailto:crewing@emarineonline.com)**|**Insurance<br>Contact No.: +65 6571 5824<br>Email: [insurance@emarineonline.com](mailto:insurance@emarineonline.com)**|
 |**SNP<br>Contact No.: +65 6571 8989<br>Email: [snp@emarineonline.com](mailto:snp@emarineonline.com)**|**Marketing<br>Contact No.: +65 6571 5902<br>Email: [marketing@emarineonline.com](mailto:marketing@emarineonline.com)**|
 
-# Address
+### Address
 **10 Pasir Panjang Road #15&#47;16-01/02**
 
 **Mapletree Business City Singapore 117438**
