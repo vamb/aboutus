@@ -25,6 +25,7 @@ Operating hours: 8am to 9.30pm, Monday to Friday (except Saturday, Sunday and Pu
 Operating hours: 9am to 5.30pm, Monday to Friday (except Saturday, Sunday and Public Holidays)
 
 <br>
+
 ### Address
 10 Pasir Panjang Road #15&#47;16-01/02
 
