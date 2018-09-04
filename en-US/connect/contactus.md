@@ -13,6 +13,7 @@ Email: [customercare@emarineonline.com](mailto:customercare@emarineonline.com)
 Operating hours: 8am to 9.30pm, Monday to Friday (except Saturday, Sunday and Public Holidays)
 
 <br>
+
 ### Other Departments
 
 |Chartering<br>Contact No.: **+65 6571 8937**<br>Email: [chartering@emarineonline.com](mailto:chartering@emarineonline.com)|Bunkering<br>Contact No.: **+65 6571 5968**<br>Email: [bunker@emarineonline.com](mailto:bunker@emarineonline.com)|
@@ -29,4 +30,4 @@ Operating hours: 9am to 5.30pm, Monday to Friday (except Saturday, Sunday and Pu
 
 Mapletree Business City Singapore 117438
 
-![https://www.google.com/maps/place/Marine+Online+Pte+Ltd/@1.275582,103.804224,18z/data=!4m5!3m4!1s0x0:0xc3548d29a24a902e!8m2!3d1.2752786!4d103.8042496?hl=en-US](http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/Map.png)
+![](http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/Map.png)
