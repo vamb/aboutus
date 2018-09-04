@@ -6,7 +6,7 @@ name: Contact Us
 
 ### Customer Service
 
-Customer Service Hotline: **+65 6571 5888**
+**Customer Service Hotline: +65 6571 5888**
 
 Email: [customercare@emarineonline.com](mailto:customercare@emarineonline.com)
 
