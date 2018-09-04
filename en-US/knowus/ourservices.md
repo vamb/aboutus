@@ -57,9 +57,7 @@ Marine Online provided eight marine tools, including:
 
 7. Crew Budget Calculator: Calculate the crew recruitment cost according to the vessel type, number of employees, position, nationality, etc.
 
-8. Vessel Valuator: Calculate the current transaction price and future estimated price for the vessel based on big data of the market transaction. 
-
-[Back to Top](ourservices#)
+8. Vessel Valuator: Calculate the current transaction price and future estimated price for the vessel based on big data of the market transaction.  [Back to Top](ourservices#)
 
 ### Member Service
 
@@ -69,6 +67,4 @@ Marine Online designed three types of membership packages as below:
 
 **Verified Member (Free):** Members who provided the company's business license and other materials to Marine Online and passed the authenticity verification. Such members can set up an online store, publish products, issue enquiry or quotation, and make deals through our platform; However, they can only check the companies’ contact information that already had transactions before, and their contact information can only be enquired and contacted by Premium Members as well.
 
-**Premium Member:** Verified members who have purchased specific services. Such members can use all the services they have purchased, and able to directly contact suppliers or customers to communicate before the transaction is completed. Marine Online will also provide more display and recommendation opportunities to help Premium Members get more orders.
-
-[Back to Top](ourservices#)
+**Premium Member:** Verified members who have purchased specific services. Such members can use all the services they have purchased, and able to directly contact suppliers or customers to communicate before the transaction is completed. Marine Online will also provide more display and recommendation opportunities to help Premium Members get more orders.  [Back to Top](ourservices#)
