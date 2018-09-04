@@ -20,10 +20,10 @@ Operating hours: 8am to 9.30pm, Monday to Friday (except Saturday, Sunday and Pu
 |Ship Supply<br>Contact No.:**+65 6571 5833**<br>Email: [supplies@emarineonline.com](mailto:supplies@emarineonline.com)|Port Agency<br>Contact No.: **+65 6571 5843**<br>Email: [agency@emarineonline.com](mailto:agency@emarineonline.com)|
 |Crewing<br>Contact No.: **+65 6571 5934**<br>Email: [crewing@emarineonline.com](mailto:crewing@emarineonline.com)|Insurance<br>Contact No.: **+65 6571 5824**<br>Email: [insurance@emarineonline.com](mailto:insurance@emarineonline.com)|
 |SNP<br>Contact No.: **+65 6571 8989**<br>Email: [snp@emarineonline.com](mailto:snp@emarineonline.com)|Marketing<br>Contact No.: **+65 6571 5902**<br>Email: [marketing@emarineonline.com](mailto:marketing@emarineonline.com)|
-<br> 
-Operating hours: 9am to 5.30pm, Monday to Friday (except Saturday, Sunday and Public Holidays)
-<br>
 
+Operating hours: 9am to 5.30pm, Monday to Friday (except Saturday, Sunday and Public Holidays)
+
+<br>
 ### Address
 10 Pasir Panjang Road #15&#47;16-01/02
 
