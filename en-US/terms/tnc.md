@@ -29,7 +29,7 @@ Unless otherwise defined, the definitions and provisions in respect of interpret
 
 (b) use the Platform or Services for illegal purposes;
 
-(c) attempt to gain unauthorized access to or otherwise interfere or disrupt other computer systems or networks connected to the Platform or Services;
+(&#99;) attempt to gain unauthorized access to or otherwise interfere or disrupt other computer systems or networks connected to the Platform or Services;
 
 (d) post, promote or transmit through the Platform or Services any Prohibited Materials;
 
