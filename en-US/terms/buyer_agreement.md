@@ -1,8 +1,8 @@
 ---
-name: Buyer's Agreements 
+name: Buyer's Agreement 
 ---
 
-## Buyer's Agreements 
+## Buyer's Agreement 
 
 Welcome to the www.emarineonline.com website and/or the Marine Online mobile app. 
 
