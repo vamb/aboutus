@@ -47,7 +47,7 @@ Unless otherwise defined, the definitions and provisions in respect of interpret
 
 (b) prevent or restrict access of any Customer to the Platform and/or the Services;
 
-(c) report any activity it suspects to be in violation of any applicable law, statute or regulation to the appropriate authorities and to co-operate with such authorities; and/or
+(&#99;) report any activity it suspects to be in violation of any applicable law, statute or regulation to the appropriate authorities and to co-operate with such authorities; and/or
 
 (d) to request any information and data from you in connection with your use of the Services and/or access of the Platform at any time and to exercise our right under this paragraph if you refuse to divulge such information and/or data or if you provide or if we have reasonable grounds to suspect that you have provided inaccurate, misleading or fraudulent information and/or data.
 
@@ -102,7 +102,7 @@ You agree to be bound by any access of the Platform and/or use of any Services (
 
 (b) that the Platform, the Services or that any of the Materials will be provided uninterrupted, secure or free from errors or omissions, or that any identified defect will be corrected;
 
-(c) that the Platform, the Services or the Materials are free from any computer virus or other malicious, destructive or corrupting code, agent, program or macros; and
+(&#99;) that the Platform, the Services or the Materials are free from any computer virus or other malicious, destructive or corrupting code, agent, program or macros; and
 
 (d) the security of any information transmitted by you or to you through the Platform or the Services, and you accept the risk that any information transmitted or received through the Services or the Platform may be accessed by unauthorized third parties and/or disclosed by us or our officers, employees or agents to third parties purporting to be you or purporting to act under your authority. Transmissions over the Internet and electronic mail may be subject to interruption, transmission blackout, delayed transmission due to internet traffic or incorrect data transmission due to the public nature of the Internet.
 
@@ -112,7 +112,7 @@ You agree to be bound by any access of the Platform and/or use of any Services (
 
 (b) reliance on any data or information made available through the Platform and/or through the Services. You should not act on such data or information without first independently verifying its contents;
 
-(c) any system, server or connection failure, error, omission, interruption, delay in transmission, computer virus or other malicious, destructive or corrupting code, agent program or macros; and
+(&#99;) any system, server or connection failure, error, omission, interruption, delay in transmission, computer virus or other malicious, destructive or corrupting code, agent program or macros; and
 
 (d) any use of or access to any other website or webpage linked to the Platform, even if we or our officers or agents or employees may have been advised of, or otherwise might have anticipated, the possibility of the same.
 
@@ -218,7 +218,7 @@ You agree to be bound by any access of the Platform and/or use of any Services (
 1.14 “Prohibited Material” means any information, graphics, photographs, data and/or any other material that:
 (a) contains any computer virus or other invasive or damaging code, program or macro;
 (b) infringes any third-party Intellectual Property or any other proprietary rights;
-(c) is defamatory, libellous or threatening;
+(&#99;) is defamatory, libellous or threatening;
 (d) is obscene, pornographic, indecent, counterfeited, fraudulent, stolen, harmful or otherwise illegal under the applicable law (including without limitation the provisions of the Singapore Broadcasting Authority (Class Licence) Notification 1996); and/or
 (e) is or may be construed as offensive and/or otherwise objectionable, in our sole opinion.
 
