@@ -231,7 +231,7 @@ Call: +65 6571 5888 (Customer Service Hotline)
 
 Data Protection Officer
 
-10, Paris Panjang Road, #15/16-01/02,
+10, Paris Panjang Road,  #15&#47;16-01/02,
 
 Mapletree Business City, Singapore, 117438
 
