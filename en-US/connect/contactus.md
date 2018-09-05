@@ -28,7 +28,7 @@ Operating hours: 9am to 5.30pm, Monday to Friday (except Saturday, Sunday and Pu
 
 ### Address
 
-Marine Online Pte Ltd
+**Marine Online Pte Ltd**
 
 10 Pasir Panjang Road #15&#47;16-01/02
 
