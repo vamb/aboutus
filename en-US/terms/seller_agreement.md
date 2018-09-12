@@ -4,6 +4,8 @@ name: Seller's Agreement
 
 ## Seller's Agreement
 
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/seller_agreement.jpg)
+
 Welcome to the www.emarineonline.com website and/or the Marine Online mobile app. 
 
 **Please read these terms and conditions carefully.**
