@@ -4,6 +4,8 @@ name: Transaction Support Services
 
 ## Transaction Support Services
 
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/transaction.jpg)
+
 In order to enable the Buyers and Suppliers to settle the transactions securely in a trustworthy manner, MOL’s platform had provided the three main types of services namely, Payment and Guarantee System, Credit Evaluation System and Logistics Support System:
 
 ### Payment and Guarantee System
