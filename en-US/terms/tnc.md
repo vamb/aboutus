@@ -4,6 +4,8 @@ name: Terms of Use
 
 ## Terms of Use
 
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/terms_of_use)
+
 Welcome to the www.emarineonline.com website and/or the Marine Online mobile app. 
 
 **Please read these terms and conditions carefully.**
