@@ -4,6 +4,8 @@ name: Contact Us
 
 ## Contact Us 
 
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/contact.jpg)
+
 ### Customer Service
 
 **Customer Service Hotline: +65 6571 5888**
