@@ -4,6 +4,8 @@ name: Shipowner: How to save money and time on MOL?
 
 ## Shipowner: How to save money and time on MOL?
 
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/shipowner.jpg)
+
 ###  More Cargoes, More Money Generation
 
 MOL’s platform uses high technology in matching the Cargoes and Vessels together. As a Shipowner, after you had registered your Vessel’s open information on MOL’s platform, the system will auto matched the cargoes for you based on these 4 main information: Vessel Type, Deadweight, Open Dates and Open Positions. If your Vessel Type, Quoted Price and Payment Terms matched the Charterer’s requirements, you will be awarded the order. Do remember to register the Open Dates and Open Positions in advance before you finish the current voyage, in this case, you will be able to view the auto-matched cargoes in advance which helps in the high productivity of the Vessels operations and in turn translate into more chartering businesses and more earnings.
