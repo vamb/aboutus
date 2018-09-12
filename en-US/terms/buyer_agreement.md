@@ -4,6 +4,8 @@ name: Buyer's Agreement
 
 ## Buyer's Agreement 
 
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/buyer_agreement.jpg)
+
 Welcome to the www.emarineonline.com website and/or the Marine Online mobile app. 
 
 **Please read these terms and conditions carefully.**
