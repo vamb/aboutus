@@ -36,4 +36,4 @@ Operating hours: 9am to 5.30pm, Monday to Friday (except Saturday, Sunday and Pu
 
 Mapletree Business City Singapore 117438
 
-![](http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/map.png)
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/map.png)
