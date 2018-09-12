@@ -4,6 +4,8 @@ name: Privacy Policy
 
 ## Privacy Policy 
 
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/privacy_policy.jpg)
+
 Your Personal Data is valuable and important to us. 
 The purpose of this document ("Privacy Statement") is to inform you of how the Marine Online manages Personal Data which is subject to the Singapore Personal Data Protection Act (No. 26 of 2012) ("the Act"). 
 
