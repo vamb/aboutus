@@ -26,4 +26,4 @@ Based on the Maritime’s industry transactions habits, most of the Shipowners p
 
 MOL practices the principle of “No Transaction, No Fee”. When your order has not been transacted on MOL, we will not collect any fee from you. Only when you had been appointed by the Shipowner as the Supplier for an order transacted successfully at MOL’s platform, we will collect the Platform Service fee from you based on the total transaction amount. For more information about the Platform Service Fee, please click [here](https://aboutus.emarineonline.com/docs/terms/seller_agreement).
 
-To learn more about the questions on how the Supplier uses the MOL’s platform, please access [Help Centre].(http://docs.emarineonline.com/docs).
+To learn more about the questions on how the Supplier uses the MOL’s platform, please access [Help Centre](http://docs.emarineonline.com/docs).
