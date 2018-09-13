@@ -15,7 +15,7 @@ By interacting with us, submitting information to us, enrolling or signing up fo
 
 This Privacy Policy supplements but does not supersede nor replace any other consent you may have previously provided to Marine Online in respect of your Personal Data, and your consents herein are additional to any rights which to any of the Companies may have at law to collect, use or disclose your Personal Data.
 
-Marine Online may from time to time update this Privacy Statement to ensure that this Privacy Statement is consistent with our future developments, industry trends and/or any changes in legal or regulatory requirements. Subject to your rights at law, you agree to be bound by the prevailing terms of this Privacy Statement as updated from time to time on our website https://www.emarineonline.com/sg/en/privacy-and-security-policy.html. Please check back regularly for updated information on the handling of your Personal Data.
+Marine Online may from time to time update this Privacy Statement to ensure that this Privacy Statement is consistent with our future developments, industry trends and/or any changes in legal or regulatory requirements. Subject to your rights at law, you agree to be bound by the prevailing terms of this Privacy Statement as updated from time to time on our website https://aboutus.emarineonline.com/docs/terms/policy. Please check back regularly for updated information on the handling of your Personal Data.
 
 ### 1.  Personal Data
 
