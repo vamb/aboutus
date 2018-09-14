@@ -225,7 +225,7 @@ Please contact **Marine Online Pte Ltd** as follows:
 
 Email: [customercare@emarineonline.com](mailto:test@test.com)
 
-**Call: +65 6571 5888 (Customer Service Hotline)**
+Call: +65 6571 5888 (Customer Service Hotline)
 
 <br>
 
