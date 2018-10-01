@@ -53,7 +53,7 @@ Marine Online provided eight marine tools, including:
 
 3. Distance Calculator:  Estimate the distance between world’s main ports and voyage period.
 
-4. Equipment Search: Convenient and Intuitive purchase enquiry for the common spare parts equipment and suppliers based on five different types of vessels such as oil tankers, dry bulk cargo and etc.
+4. Equipment Search: Convenient and Intuitive purchase enquiry for the common spare parts equipment and suppliers based on five different types of vessels such as oil tankers, dry bulk cargo etc.
 
 5. Port Cost Calculator: Estimate the comprehensive cost of port charges in advance.
 
