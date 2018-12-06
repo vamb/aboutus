@@ -40,7 +40,7 @@ name: Transaction Services Agreement
   
   (b)	may be in breach of any applicable policies which deal with the product listing or third party intellectual property rights; or
 
-  (c)	may be in breach of other terms of this Agreement.
+  (&#99;)	may be in breach of other terms of this Agreement.
 
 MOL shall have the right to refuse or cancel any Online Transaction in breach of this clause 2.4 and shall not be liable to any Verified Member for such refusal or cancellation.
 
@@ -98,7 +98,7 @@ MOL does not guarantee the identity of any Verified Member nor shall it be liabl
 
   (b)	all information and material it provides in connection with the Transaction Services is true, lawful and accurate, and is not false, misleading or deceptive;
 
-  (c)	it will not use the Transaction Services to defraud MOL, other Verified Members or other users of the Platform; or engage in other unlawful activities (including but not limited to dealing in Products prohibited by law); and
+  (&#99;)	it will not use the Transaction Services to defraud MOL, other Verified Members or other users of the Platform; or engage in other unlawful activities (including but not limited to dealing in Products prohibited by law); and
 
   (d)	in the capacity of a Seller, it
 
@@ -174,7 +174,7 @@ MOL does not guarantee the identity of any Verified Member nor shall it be liabl
 
   (b)	Paragraph and sub-paragraph headings shall be ignored in construing this Agreement.
 	
-  (c)	The words "include" and "including" are to be construed without limitation.
+  (&#99;)	The words "include" and "including" are to be construed without limitation.
 	
   (d)	A reference to a "law" includes common or customary law and any constitution, decree, judgment, legislation, order, ordinance, regulation, statute, treaty, or other legislative measure, in each case of any jurisdiction whatever (and "lawful" and "unlawful" shall be construed accordingly).
 
