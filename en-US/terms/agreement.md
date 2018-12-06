@@ -36,11 +36,11 @@ name: Transaction Services Agreement
 
 2.4 Lawful Items. The products or services of an Online Transaction using the Transaction Services must be lawful items and must not be otherwise prohibited or restricted by this clause 2.4.  You shall not use the Transaction Services in connection with any Online Transaction that:
 
-  (a) may infringe MOL’s or any third party’s legitimate rights including but not limited to copyright, trademark right, patent or other intellectual property rights;
+  (a)	may infringe MOL’s or any third party’s legitimate rights including but not limited to copyright, trademark right, patent or other intellectual property rights;
   
-  (b) may be in breach of any applicable policies which deal with the product listing or third party intellectual property rights; or
+  (b)	may be in breach of any applicable policies which deal with the product listing or third party intellectual property rights; or
 
-  (c) may be in breach of other terms of this Agreement.
+  (c)	may be in breach of other terms of this Agreement.
 
 MOL shall have the right to refuse or cancel any Online Transaction in breach of this clause 2.4 and shall not be liable to any Verified Member for such refusal or cancellation.
 
@@ -48,9 +48,9 @@ MOL shall have the right to refuse or cancel any Online Transaction in breach of
 
 2.6 Payment and Other Services.
 
-  (a) MOL may, through its Affiliates or third party services providers, provide payment services for some Online Transactions (“Payment  Services”). These Payment Services will enable Verified Members to make and/or receive Payment on the Platform for the Online Transactions. 
+  (a)	MOL may, through its Affiliates or third party services providers, provide payment services for some Online Transactions (“Payment  Services”). These Payment Services will enable Verified Members to make and/or receive Payment on the Platform for the Online Transactions. 
 
-  (b) MOL may provide Buyer protection plans for certain Online Transactions.  In case of Seller who has received an offer from MOL to  subscribe to a buyer protection plan, upon entering into a separate agreement with MOL, Seller may be required to provide deposits using the methods as designated by MOL on the Platform to secure Seller’s due performance of obligations under the relevant buyer protection plan. Seller agrees to permit and hereby authorize MOL to deduct, withhold and dispose any deposits provided in accordance with the terms under the relevant buyer protection plan. Buyer acknowledges and agrees that the protection afforded to it under any buyer protection plan applies to those Online Transactions where the Seller has subscribed to such plan and the purchase falls within the buyer protection plan’s scope and (i) Payment Services under any applicable the Payment Services agreement and (ii) under any supplemental services agreement will not be applicable to you for such Online Transactions if Seller subscribed to buyer protection plan and such plan already covers your purchase. Buyer acknowledges and agrees MOL will add guarantees for the Seller on such Online Transactions within the scope of buyer protection plan. The guarantee service will be performed according to the agreement reached between the guarantee service provider and the Seller.
+  (b)	MOL may provide Buyer protection plans for certain Online Transactions.  In case of Seller who has received an offer from MOL to  subscribe to a buyer protection plan, upon entering into a separate agreement with MOL, Seller may be required to provide deposits using the methods as designated by MOL on the Platform to secure Seller’s due performance of obligations under the relevant buyer protection plan. Seller agrees to permit and hereby authorize MOL to deduct, withhold and dispose any deposits provided in accordance with the terms under the relevant buyer protection plan. Buyer acknowledges and agrees that the protection afforded to it under any buyer protection plan applies to those Online Transactions where the Seller has subscribed to such plan and the purchase falls within the buyer protection plan’s scope and (i) Payment Services under any applicable the Payment Services agreement and (ii) under any supplemental services agreement will not be applicable to you for such Online Transactions if Seller subscribed to buyer protection plan and such plan already covers your purchase. Buyer acknowledges and agrees MOL will add guarantees for the Seller on such Online Transactions within the scope of buyer protection plan. The guarantee service will be performed according to the agreement reached between the guarantee service provider and the Seller.
 
 2.7 General powers.  MOL shall have the full power, authority and discretion to reject or cancel an Online Transaction and to make a determination on any dispute between buyer and seller including the remittance of the funds under an online transaction that are held by MOL in accordance with this Agreement and the relevant Transaction Terms. MOL may, in the relevant Transaction Terms impose such additional restrictions, limitations and prohibitions as well as penalties for any violations as it deems fit in its sole discretion.
 
@@ -68,9 +68,9 @@ In the case an Online Transaction that adopts the Payment Services, the payment 
 
 Notwithstanding the provision of Payment Services, nothing in this Agreement is intended, to be construed as and in fact, neither is MOL
 
-  (a) a bank and the Payment Services should in no way be construed as the provision of banking services; or
+  (a)	a bank and the Payment Services should in no way be construed as the provision of banking services; or
 
-  (b) acting as a trustee, fiduciary or escrow agent with respect to a Verified Member’s funds and MOL does not have control of, nor shall it be liability for the Products that are paid for with the Payment Services.  
+  (b)	acting as a trustee, fiduciary or escrow agent with respect to a Verified Member’s funds and MOL does not have control of, nor shall it be liability for the Products that are paid for with the Payment Services.  
 
 MOL does not guarantee the identity of any Verified Member nor shall it be liable to ensure that a Buyer or a Seller will complete a transaction on Platform.  
 
@@ -94,19 +94,19 @@ MOL does not guarantee the identity of any Verified Member nor shall it be liabl
 
 5.2 Representations and Warranties.  Each Verified Member represents and warrants that each time it uses the Platform:
 
-  (a) it will only use the Transaction Services in good faith and in compliance with all applicable laws，including laws related to anti-money laundering and counter-terrorism financing；
+  (a)	it will only use the Transaction Services in good faith and in compliance with all applicable laws，including laws related to anti-money laundering and counter-terrorism financing；
 
-  (b) all information and material it provides in connection with the Transaction Services is true, lawful and accurate, and is not false, misleading or deceptive;
+  (b)	all information and material it provides in connection with the Transaction Services is true, lawful and accurate, and is not false, misleading or deceptive;
 
-  (c) it will not use the Transaction Services to defraud MOL, other Verified Members or other users of the Platform; or engage in other unlawful activities (including but not limited to dealing in Products prohibited by law); and
+  (c)	it will not use the Transaction Services to defraud MOL, other Verified Members or other users of the Platform; or engage in other unlawful activities (including but not limited to dealing in Products prohibited by law); and
 
-  (d) in the capacity of a Seller, it
+  (d)	in the capacity of a Seller, it
 
-   (i) has the right to sell, distribute or export the Products using the Transaction Services and such Products do not infringe any third party’s legal rights;
+   (i)		has the right to sell, distribute or export the Products using the Transaction Services and such Products do not infringe any third party’s legal rights;
     
-   (ii) has good title to the Products supplied to a Buyer and the Products meet the agreed description and specfications; and
+   (ii)		has good title to the Products supplied to a Buyer and the Products meet the agreed description and specfications; and
     
-   (iii) it will provide the services ordered with reasonable care and skill.
+   (iii)	it will provide the services ordered with reasonable care and skill.
 
 5.3 Breach. If, in MOL’s reasonable opinion, a Verified Member does not act in good faith in the use of the Platform, abuses the Transaction Services, or is otherwise in breach of this Agreement, MOL shall have the right to cancel the relevant Online Transaction(s).  MOL also reserves the right to impose any penalty, or to temporarily suspend or terminate a Verified Member’s use of some or all of the functionality of the Platform.  MOL also reserves the right to (i) temporarily suspend the transaction functionalities of your account with MOL. MOL may also publish its findings, penalties and other records regarding the breaches on the Platform without specifically identifying any Verified Member.
 
@@ -137,8 +137,8 @@ MOL does not guarantee the identity of any Verified Member nor shall it be liabl
 **9.  Notices**
 
 9.1 Notices. Except as expressly stated otherwise, any notices to be served on MOL or a Verified Member pursuant to this Agreement may be sent by email to 
-(a) the address stated in a Verified Member’s membership profile on the Platform or 
-(b) to the address provided for contacting MOL as stated on the Platform, as the case may be.  
+(a)	the address stated in a Verified Member’s membership profile on the Platform or 
+(b)	to the address provided for contacting MOL as stated on the Platform, as the case may be.  
 
 **10.  Governing Law and Dispute Resolution**
 
