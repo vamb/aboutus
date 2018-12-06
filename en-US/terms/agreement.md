@@ -40,7 +40,7 @@ name: Transaction Services Agreement
   
   (b)	may be in breach of any applicable policies which deal with the product listing or third party intellectual property rights; or
 
-  (c)	may be in breach of other terms of this Agreement.
+  (c )	may be in breach of other terms of this Agreement.
 
 MOL shall have the right to refuse or cancel any Online Transaction in breach of this clause 2.4 and shall not be liable to any Verified Member for such refusal or cancellation.
 
