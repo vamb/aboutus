@@ -56,7 +56,7 @@ MOL shall have the right to refuse or cancel any Online Transaction in breach of
 
 2.8 MOL’s Records. In the event of any Dispute, MOL’s records shall take precedence over any similar records submitted by a Verified Member and save for any manifest error in MOL’s records, these shall be conclusive of any of the facts stated therein.
 
-**3.  Transactions between Verified Members **
+**3.  Transactions between Verified Members**
 
 3.1 Online Orders.  Verified Members may transact with each other by way of one or more Online Transactions for Products by completing, submitting and accepting an order online using the applicable standard order form on the Platform.  Seller and Buyer shall be responsible inter se for ensuring that they have agreed to, and specified, all the relevant terms and conditions for the Products in the relevant online order form, including but not limited to the price, payment terms, quantity, specifications, quality standards, inspection, shipping etc.  MOL may cancel or refuse to process any Online Transaction which in MOL’s reasonable opinion, has insufficient information to constitute a legally-binding contract.
 
@@ -102,9 +102,11 @@ MOL does not guarantee the identity of any Verified Member nor shall it be liabl
 
   (d) in the capacity of a Seller, it
 
-    (i) has the right to sell, distribute or export the Products using the Transaction Services and such Products do not infringe any third party’s legal rights; 
-    (ii) has good title to the Products supplied to a Buyer and the Products meet the agreed description and specfications; and 
-    (iii) it will provide the services ordered with reasonable care and skill.
+   (i) has the right to sell, distribute or export the Products using the Transaction Services and such Products do not infringe any third party’s legal rights;
+    
+   (ii) has good title to the Products supplied to a Buyer and the Products meet the agreed description and specfications; and
+    
+   (iii) it will provide the services ordered with reasonable care and skill.
 
 5.3 Breach. If, in MOL’s reasonable opinion, a Verified Member does not act in good faith in the use of the Platform, abuses the Transaction Services, or is otherwise in breach of this Agreement, MOL shall have the right to cancel the relevant Online Transaction(s).  MOL also reserves the right to impose any penalty, or to temporarily suspend or terminate a Verified Member’s use of some or all of the functionality of the Platform.  MOL also reserves the right to (i) temporarily suspend the transaction functionalities of your account with MOL. MOL may also publish its findings, penalties and other records regarding the breaches on the Platform without specifically identifying any Verified Member.
 
