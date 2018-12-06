@@ -170,13 +170,13 @@ MOL does not guarantee the identity of any Verified Member nor shall it be liabl
 
 11.7 Interpretation. In Agreement unless the context requires otherwise:
 	
-  ( a ) References in the singular shall include references in the plural and vice versa, words denoting gender shall include any other gender and words denoting natural persons shall include any other Persons.
+  (a)	References in the singular shall include references in the plural and vice versa, words denoting gender shall include any other gender and words denoting natural persons shall include any other Persons.
 
-  ( b ) Paragraph and sub-paragraph headings shall be ignored in construing this Agreement.
+  (b)	Paragraph and sub-paragraph headings shall be ignored in construing this Agreement.
 	
-  ( c ) The words "include" and "including" are to be construed without limitation.
+  (c)	The words "include" and "including" are to be construed without limitation.
 	
-  ( d ) A reference to a "law" includes common or customary law and any constitution, decree, judgment, legislation, order, ordinance, regulation, statute, treaty, or other legislative measure, in each case of any jurisdiction whatever (and "lawful" and "unlawful" shall be construed accordingly).
+  (d)	A reference to a "law" includes common or customary law and any constitution, decree, judgment, legislation, order, ordinance, regulation, statute, treaty, or other legislative measure, in each case of any jurisdiction whatever (and "lawful" and "unlawful" shall be construed accordingly).
 
 11.8 Definitions. Capitalised words and phrases in this Agreement which have not already been defined above shall have the meanings as set out below:
 
