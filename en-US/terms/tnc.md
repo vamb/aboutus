@@ -55,7 +55,7 @@ Unless otherwise defined, the definitions and provisions in respect of interpret
 
 2.5 Privacy Policy: Your use of the Services and/or access to the Platform is also subject to the Privacy Policy as set out at [https://aboutus.emarineonline.com/docs/terms/policy](https://aboutus.emarineonline.com/docs/terms/policy).
 
-2.6 Terms & Conditions of Sale and Voucher Terms & Conditions: Purchases of any Product would be subject to the Terms & Conditions of Sale as set out at [https://aboutus.emarineonline.com/docs/terms/buyer_agreement](https://aboutus.emarineonline.com/docs/terms/buyer_agreement).
+2.6 Terms & Conditions of Sale and Voucher Terms & Conditions: Purchases of any Product would be subject to the Terms & Conditions of Sale as set out at [https://aboutus.emarineonline.com/docs/terms/agreement](https://aboutus.emarineonline.com/docs/terms/agreement).
 
 2.7 Additional terms: In addition to these Terms of Use, the use of specific aspects of the Materials and Services, more comprehensive or updated versions of the Materials offered by us or our designated sub-contractors, may be subject to additional terms and conditions, which will apply in full force and effect.
 
@@ -228,7 +228,7 @@ You agree to be bound by any access of the Platform and/or use of any Services (
 
 1.16 “Submission” is as defined in Clause 8.1 of these Terms of Use.
 
-1.17 “Terms & Conditions of Sale” means the terms and conditions governing a Customer’s purchase of the Products and are set out at [https://aboutus.emarineonline.com/docs/terms/buyer_agreement](https://aboutus.emarineonline.com/docs/terms/buyer_agreement).
+1.17 “Terms & Conditions of Sale” means the terms and conditions governing a Customer’s purchase of the Products and are set out at [https://aboutus.emarineonline.com/docs/terms/agreement](https://aboutus.emarineonline.com/docs/terms/agreement).
 
 1.18 “Terms of Use” means the recitals, Clauses 1 to 11 and any Schedules to these terms and conditions.
 
