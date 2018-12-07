@@ -8,4 +8,4 @@ You may download our LOA Template from **[HERE](https://bwec-file.oss-cn-hongkon
 
 **Preview**
 
-![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/3a0cfa80-f9eb-11e8-8535-97a67f84562c.jpg)
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/919ef700-f9f8-11e8-8535-97a67f84562c.jpg)
