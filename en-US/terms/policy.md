@@ -221,7 +221,7 @@ iii.	would like to obtain access and make corrections to your Personal Data reco
 
 <br>
 
-Please contact **Marine Online Pte Ltd** as follows:
+Please contact **Marine Online Pte. Ltd.** as follows:
 
 Email: [customercare@emarineonline.com](mailto:customercare@emarineonline.com)
 
