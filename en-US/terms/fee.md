@@ -28,59 +28,56 @@ As a supplier, you are entitled to a complimentary online store set up including
             <td rowspan=1>1</td>
             <td rowspan=1>Ship Supplies</td>
             <td>Basic Transaction Fee<br>- 3% of the transaction amount</td>
-            <td>Including all transactions about spare parts, stores, lub oil and provisions</td>
+            <td>Including all transactions about spare parts, marine store, lubricant oil, services and provision.</td>
         </tr>
         <tr>
             <td rowspan=2>2</td>
             <td rowspan=2>Bunker Supplies</td>
-            <td>Transaction Fee<br>- $1 pmt for gas oil<br>- $0.5 pmt for fuel oil</br>- Minimun $200/transaction</td>
-            <td></td>
+            <td>Transaction Fee<br>- $1 pmt for gasoil<br>- $0.5 pmt for fuel oil</br>- Minimun $200/transaction</td>
+            <td rowspan=2>Including all transactions about fuel oil, gas oil and risk management services.</td>
         </tr>
         <tr>
             <td>Referral Fee<br>- From Surveyor: $50<br>- From Quality Tester: $50<br>- Minimum Transaction Fee $200</td>
-            <td></td>
         </tr>
         <tr>
             <td rowspan=1>3</td>
             <td rowspan=1>Chartering</td>
             <td>Transaction/Operation Fee<br>- FOC</td>
-            <td></td>
+            <td>Applies to all chartering transactions.</td>
         </tr>
         <tr>
             <td rowspan=1>4</td>
             <td rowspan=1>Port Agency</td>
             <td>Transaction Fee<br>- $50/transaction</td>
-            <td></td>
+            <td>Applies to all port agent services.</td>
         </tr>
         <tr>
             <td rowspan=2>5</td>
             <td rowspan=2>Crew Services - B2B</td>
             <td>Online Transaction Fee<br>- $100/transaction</td>
-            <td></td>
+            <td>Applies to all manning services.</td>
         </tr>
         <tr>
             <td>Member Fee<br>- FOC</td>
-            <td></td>
+            <td>Including both direct and indirect recruitment.</td>
         </tr>
         <tr>
             <td rowspan=1>6</td>
             <td rowspan=1>Insurance</td>
             <td>Transaction Fee<br>- FOC (Prices may subject change without prior notice.)</td>
-            <td></td>
+            <td>Applies to all insurances/policies.</td>
         </tr>
         <tr>
             <td rowspan=3>7</td>
             <td rowspan=3>SNP</td>
             <td>Sales Commission Rate<br>- 0.5% of the sale price</td>
-            <td></td>
+            <td rowspan=3>Including:<br>- Vessel listings for sale<br>- Vessel listing for purchase<br>- Vessel inspection report & past incident record<br>- Vessel finance consultants<br>- Vessel inspection<br>- Underwater divers</td>
         </tr>
         <tr>
             <td>Service Fee<br>- For Comprehensive Vessel Valuation Report: $500</td>
-            <td></td>
         </tr>
         <tr>
             <td>Referral Fee<br>- For Surveyor Job: $500 each<br>- For Underwater Inspection: $250 each<br>(Prices may subject change without prior notice.)</td>
-            <td></td>
         </tr>
     </tbody>
 </table>
