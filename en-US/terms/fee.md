@@ -17,10 +17,10 @@ As a supplier, it's also free to set up an online store and display products and
 <table>
     <thead>
         <tr>
-            <th>S/N</th>
-            <th>SERVICE</th>
-            <th>RATE (USD)</th>
-            <th>REMARK</th>
+           <th>S/N</th>
+           <th>SERVICE</th>
+           <th>RATE (<i>USD</i>)</th>
+           <th>REMARK</th> 
         </tr>
     </thead>
     <tbody>
