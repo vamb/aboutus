@@ -65,7 +65,7 @@ As a supplier, it's also free to set up an online store and display products and
         <tr>
             <td rowspan=1>6</td>
             <td rowspan=1>Insurance</td>
-            <td>Transaction Fee<br>- FOC (*Prices may subject change without <br>prior notice.*)</td>
+            <td>Transaction Fee<br>- FOC (*Prices may subject change without prior notice.*)</td>
             <td></td>
         </tr>
         <tr>
@@ -75,11 +75,11 @@ As a supplier, it's also free to set up an online store and display products and
             <td></td>
         </tr>
         <tr>
-            <td>Service Fee<br>- For Comprehensive Vessel <br>Valuation Report: $500</td>
+            <td>Service Fee<br>- For Comprehensive Vessel Valuation Report: $500</td>
             <td></td>
         </tr>
         <tr>
-            <td>Referral Fee<br>- For Surveyor Job: $500 each<br>- For Underwater Inspection: $250 each<br>(*Prices may subject change without <br>prior notice.*)</td>
+            <td>Referral Fee<br>- For Surveyor Job: $500 each<br>- For Underwater Inspection: $250 each<br>(*Prices may subject change without prior notice.*)</td>
             <td></td>
         </tr>
     </tbody>
