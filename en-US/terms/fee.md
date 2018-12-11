@@ -19,7 +19,7 @@ As a supplier, it's also free to set up an online store and display products and
         <tr>
             <th>S/N</th>
             <th>SERVICE</th>
-            <th>RATE (*USD*)</th>
+            <th>RATE (USD)</th>
             <th>REMARK</th>
         </tr>
     </thead>
@@ -65,7 +65,7 @@ As a supplier, it's also free to set up an online store and display products and
         <tr>
             <td rowspan=1>6</td>
             <td rowspan=1>Insurance</td>
-            <td>Transaction Fee<br>- FOC (*Prices may subject change without prior notice.*)</td>
+            <td>Transaction Fee<br>- FOC (Prices may subject change without prior notice.)</td>
             <td></td>
         </tr>
         <tr>
@@ -79,7 +79,7 @@ As a supplier, it's also free to set up an online store and display products and
             <td></td>
         </tr>
         <tr>
-            <td>Referral Fee<br>- For Surveyor Job: $500 each<br>- For Underwater Inspection: $250 each<br>(*Prices may subject change without prior notice.*)</td>
+            <td>Referral Fee<br>- For Surveyor Job: $500 each<br>- For Underwater Inspection: $250 each<br>(Prices may subject change without prior notice.)</td>
             <td></td>
         </tr>
     </tbody>
