@@ -8,11 +8,11 @@ name: Service Fee Schedule
 
 ### No Transaction, No Fee 
 
-As a shipowner/ship management company, you don't need to pay any service fee to the platform for a third party transaction.
+As a shipowner/ship management company, you are exempted from paying any service fee to the platform for a third party transaction.
 
-As a supplier, it's also free to set up an online store and display products and services on the platform until you get an order online, you only need to pay a small percentage of Transaction Service Fee based on the transaction amount. 
+As a supplier, you are entitled to a complimentary online store set up including displaying of products and services on the platform until you get an order online, you are only required to pay a small percentage of Transaction Service Fee based on the total transaction amount. 
 
-**The fee schedule is as follows:**
+**The fee schedule as follow :**
 
 <table>
     <thead>
