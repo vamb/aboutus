@@ -28,7 +28,7 @@ As a supplier, it's also free to set up an online store and display products and
             <td rowspan=1>1</td>
             <td rowspan=1>Ship Supplies</td>
             <td>Basic Transaction Fee<br>- 3% of the transaction amount</td>
-            <td>Including all transactions about spare parts, <br>stores, lub oil and provisions</td>
+            <td>Including all transactions about spare parts, stores, lub oil and provisions</td>
         </tr>
         <tr>
             <td rowspan=2>2</td>
