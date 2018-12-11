@@ -12,7 +12,7 @@ As a shipowner/ship management company, you are exempted from paying any service
 
 As a supplier, you are entitled to a complimentary online store set up including displaying of products and services on the platform until you get an order online, you are only required to pay a small percentage of Transaction Service Fee based on the total transaction amount. 
 
-**The fee schedule as follow :**
+**The fee schedule as follows:**
 
 <table>
     <thead>
