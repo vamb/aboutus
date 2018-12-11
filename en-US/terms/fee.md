@@ -19,7 +19,7 @@ As a supplier, it's also free to set up an online store and display products and
         <tr>
            <th>S/N</th>
            <th>SERVICE</th>
-           <th>RATE (<i>USD</i>)</th>
+           <th>RATE (USD)</th>
            <th>REMARK</th> 
         </tr>
     </thead>
