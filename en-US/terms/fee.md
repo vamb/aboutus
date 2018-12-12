@@ -28,7 +28,7 @@ As a supplier, you are entitled to a complimentary online store set up including
             <td rowspan=1>1</td>
             <td rowspan=1>Ship Supplies</td>
             <td>3%</td>
-            <td>Applies To The Transaction Amount For <br>All Items Including Spare Parts, Marine Store, Lubricant Oil, Provision And Services.</td>
+            <td>Applies To The Transaction Amount For <br>All Items Including Spare Parts, Marine Store, <br>Lubricant Oil, Provision And Services.</td>
         </tr>
         <tr>
             <td rowspan=4>2</td>
