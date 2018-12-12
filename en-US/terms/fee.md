@@ -19,7 +19,7 @@ As a supplier, you are entitled to a complimentary online store set up including
         <tr>
            <th>S/N</th>
            <th>SERVICE</th>
-           <th>RATE (USD)</th>
+           <th>RATE(USD)</th>
            <th>REMARK</th> 
         </tr>
     </thead>
