@@ -17,7 +17,6 @@ As a supplier, you are entitled to a complimentary online store set up including
 <table>
     <thead>
         <tr>
-           <th>S/N</th>
            <th>SERVICE</th>
            <th>RATE(USD)</th>
            <th>REMARK</th> 
@@ -25,13 +24,11 @@ As a supplier, you are entitled to a complimentary online store set up including
     </thead>
     <tbody>
         <tr>
-            <td rowspan=1>1</td>
             <td rowspan=1>Ship Supplies</td>
             <td>3%</td>
             <td>Applies To The Transaction Amount For <br>All Items Including Spare Parts, Marine Store, <br>Lubricant Oil, Provision And Services.</td>
         </tr>
         <tr>
-            <td rowspan=4>2</td>
             <td rowspan=4>#Bunker Supplies</td>
             <td>$1</td>
             <td>For Gasoil. (pmt)</td>
@@ -49,19 +46,16 @@ As a supplier, you are entitled to a complimentary online store set up including
             <td>From Quality Tester. (per)</td>
         </tr>
         <tr>
-            <td rowspan=1>3</td>
             <td rowspan=1>Chartering</td>
             <td>FOC</td>
             <td>Applies To All Chartering Services.</td>
         </tr>
         <tr>
-            <td rowspan=1>4</td>
             <td rowspan=1>Port Agency</td>
             <td>$50</td>
             <td>Applies To All Port Agent Services. (per)</td>
         </tr>
         <tr>
-            <td rowspan=2>5</td>
             <td rowspan=2>Crew Services</td>
             <td>$100</td>
             <td>Applies To All Manning Services. (per)</td>
@@ -71,13 +65,11 @@ As a supplier, you are entitled to a complimentary online store set up including
             <td>Member Service Including Both Direct And Indirect Recruitment.</td>
         </tr>
         <tr>
-            <td rowspan=1>6</td>
             <td rowspan=1>Insurance</td>
             <td>FOC</td>
             <td>Applies To All Insurances/Policies Services.</td>
         </tr>
         <tr>
-            <td rowspan=4>7</td>
             <td rowspan=4>SNP</td>
             <td>0.5%</td>
             <td>Based On Sale Price.</td>
