@@ -32,7 +32,7 @@ As a supplier, you are entitled to a complimentary online store set up including
         </tr>
         <tr>
             <td rowspan=4>2</td>
-            <td rowspan=4>Bunker Supplies<br><i>*Minimun $200/Transaction</i></td>
+            <td rowspan=4>Bunker Supplies**#**</td>
             <td>$1</td>
             <td>For Gasoil. (pmt)</td>
         </tr>
@@ -96,6 +96,8 @@ As a supplier, you are entitled to a complimentary online store set up including
         </tr>
     </tbody>
 </table>
+
+<i>**#Minimun $200/Transaction**</i>
 
 **FOC** - Free Of Charge
 
