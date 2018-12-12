@@ -52,13 +52,13 @@ As a supplier, you are entitled to a complimentary online store set up including
             <td rowspan=1>3</td>
             <td rowspan=1>Chartering</td>
             <td>FOC</td>
-            <td>Applies To All Chartering Transactions.</td>
+            <td>Applies To All Chartering Services.</td>
         </tr>
         <tr>
             <td rowspan=1>4</td>
             <td rowspan=1>Port Agency</td>
             <td>$50</td>
-            <td>Applies To All Port Agent Services' Transaction. (per)</td>
+            <td>Applies To All Port Agent Services. (per)</td>
         </tr>
         <tr>
             <td rowspan=2>5</td>
@@ -68,13 +68,13 @@ As a supplier, you are entitled to a complimentary online store set up including
         </tr>
         <tr>
             <td>FOC</td>
-            <td>Member Service Including Both Firect And Indirect Recruitment.</td>
+            <td>Member Service Including Both Direct And Indirect Recruitment.</td>
         </tr>
         <tr>
             <td rowspan=1>6</td>
             <td rowspan=1>Insurance</td>
             <td>FOC</td>
-            <td>Applies To All Insurances/Policies.</td>
+            <td>Applies To All Insurances/Policies Services.</td>
         </tr>
         <tr>
             <td rowspan=4>7</td>
