@@ -103,6 +103,6 @@ As a supplier, you are entitled to a complimentary online store set up including
 
 If you are interested in advertising with Marine Online or wish to enquire more information, please contact us [HERE](https://aboutus.emarineonline.com/docs/connect/contactus).
 
-Transaction Fee information is for reference only and is valid until 31st Dec 2019. <i>*Term and Conditions apply.</i>
+Transaction Fee information is for reference only and is valid until 31st Dec 2019. <i>*T&C Apply.</i>
 
 **T&C:** Marine Online (“Marine Online Pte Ltd”) reserves the right to amend the service details and transaction fee/rate according to economic conditions/behavior. Please refer to Marine Online platform Service Agreement and other types of the agreement acknowledged by you and Marine Online for details of the specific tariff.
