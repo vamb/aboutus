@@ -62,7 +62,7 @@ As a supplier, you are entitled to a complimentary online store set up including
         </tr>
         <tr>
             <td rowspan=2>5</td>
-            <td rowspan=2>Crew Services - B2B</td>
+            <td rowspan=2>Crew Services</td>
             <td>$100</td>
             <td>Applies To All Manning Services. (per)</td>
         </tr>
