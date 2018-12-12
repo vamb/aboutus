@@ -26,7 +26,7 @@ As a supplier, you are entitled to a complimentary online store set up including
         <tr>
             <td rowspan=1>Ship Supplies</td>
             <td>3%</td>
-            <td>Applies To The Transaction Amount For All Items Including Spare Parts, Marine Store, Lubricant Oil, Provision And Services.</td>
+            <td>Applies To The Transaction Amount <br>For All Items Including Spare Parts, <br>Marine Store, Lubricant Oil, Provision And Services.</td>
         </tr>
         <tr>
             <td rowspan=4>#Bunker Supplies</td>
@@ -62,7 +62,7 @@ As a supplier, you are entitled to a complimentary online store set up including
         </tr>
         <tr>
             <td>FOC</td>
-            <td>Member Service Including Both Direct And Indirect Recruitment.</td>
+            <td>Member Service Including <br>Both Direct And Indirect Recruitment.</td>
         </tr>
         <tr>
             <td rowspan=1>Insurance</td>
