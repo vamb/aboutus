@@ -1,8 +1,8 @@
 ---
-name: Supplier: How to make money on MOL?
+name: Supplier: How To Make Money On MOL?
 ---
 
-## Supplier: How to make money on MOL?
+## Supplier: How To Make Money On MOL?
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/supplier.jpg)
 
