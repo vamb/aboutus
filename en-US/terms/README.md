@@ -1,3 +1,3 @@
 ---
-name: Terms and Agreements 
+name: TERMS AND AGREEMENTS
 ---
