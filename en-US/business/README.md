@@ -1,3 +1,3 @@
 ---
-name: Do Businesses on MOL
+name: DO BUSINESSES ON MOL
 ---
