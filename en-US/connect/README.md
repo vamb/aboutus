@@ -1,3 +1,3 @@
 ---
-name: Connect with MOL 
+name: CONNECT WITH MOL
 ---
