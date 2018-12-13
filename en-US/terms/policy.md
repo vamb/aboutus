@@ -248,3 +248,6 @@ Mapletree Business City, Singapore, 117438
 ### 10.  Governing Law
 
 10.1 This Privacy Statement and your use of this website shall be governed in all respects by the laws of Singapore.
+
+ [Back to Top](policy#)
+ 
