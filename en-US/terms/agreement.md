@@ -311,3 +311,6 @@ Capitalised words and phrases in this Agreement which have not already been defi
 “**US$**” means the lawful currency of the United States of America.
 
 “**Verified Member**” means only those users of the Platform who have the right to buy and sell Products on the Platform.
+
+ [Back to Top](agreement#)
+ 
