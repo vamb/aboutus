@@ -251,3 +251,6 @@ You agree to be bound by any access of the Platform and/or use of any Services (
 2.4 Clause headings are inserted for convenience only and shall not affect the interpretation of these Terms of Use. 
 
 2.5 In the event of a conflict or inconsistency between any two or more provisions under these Terms of Use, whether such provisions are contained in the same or different documents, such conflict or inconsistency shall be resolved in favour of Marine Online and the provision which is more favourable to Marine Online shall prevail.
+
+ [Back to Top](tnc#)
+ 
