@@ -1,8 +1,8 @@
 ---
-name: Shipowner: How to save money and time on MOL?
+name: Shipowner: How To Save Money And Time On MOL?
 ---
 
-## Shipowner: How to save money and time on MOL?
+## Shipowner: How To Save Money And Time On MOL?
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/shipowner.jpg)
 
