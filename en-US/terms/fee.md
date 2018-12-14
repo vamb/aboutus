@@ -67,29 +67,29 @@ As a supplier, you are entitled to a complimentary online store set up including
         <tr>
             <td rowspan=1>Insurance</td>
             <td>FOC</td>
-            <td>Applies To All Insurances/Policies Services.</td>
+            <td>Applies To Marine Insurances/Policies Services Including:<br>- Transactional Insurances<br>- Annual Policies<br><br>*Other General Insurances.</td>
         </tr>
         <tr>
             <td rowspan=4>SNP</td>
             <td>0.5%</td>
-            <td>Based On Sale Price.</td>
+            <td>Based On Every Successful Ship Sales' Transaction Price.</td>
         </tr>
         <tr>
             <td>$500</td>
-            <td>For Comprehensive Vessel Valuation Report.</td>
+            <td>For Each Comprehensive Vessel Valuation Report.</td>
         </tr>
         <tr>
             <td>$500</td>
-            <td>For Surveyor Job. (per)</td>
+            <td>For Every Successful Referred Surveyor Job.</td>
         </tr>
         <tr>
             <td>$250</td>
-            <td>For Underwater Inspection. (per)</td>
+            <td>For Every Successful Referred Underwater Inspection.</td>
         </tr>
     </tbody>
 </table>
 
-<i>**#Minimun $200/Transaction**</i>
+<i>**#Minimun $200/Transaction**</i><br><i>***Please check with our insurance team for more information.**</i>
 
 **FOC** - Free Of Charge
 
