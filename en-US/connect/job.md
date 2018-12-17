@@ -17,6 +17,6 @@ name: Open Positions
 
 Interested candidates are invited to email your comprehensive resume at [hr@emarineonline.com](mailto:hr@emarineonline.com).
 
-For more open positions, please click [here](https://aboutus.emarineonline.com/docs/connect/job).
+For more open positions, please click [here](https://www.jobstreet.com.sg/en/job-search/jobs-at-marine-online-pte-ltd/?ojs=15).
 
 *We regret only shortlisted candidates will be notified.
