@@ -17,4 +17,6 @@ name: Open Positions
 
 Interested candidates are invited to email your comprehensive resume at [hr@emarineonline.com](mailto:hr@emarineonline.com).
 
+For more open positions, please click [here](https://aboutus.emarineonline.com/docs/connect/job).
+
 *We regret only shortlisted candidates will be notified.
