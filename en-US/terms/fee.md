@@ -62,7 +62,7 @@ As a supplier, you are entitled to a complimentary online store set up including
         </tr>
         <tr>
             <td>FOC</td>
-            <td>Member Service Including Both <br>Direct And Indirect Recruitment.</td>
+            <td>Member Service Including Both Direct And Indirect Recruitment.</td>
         </tr>
         <tr>
             <td rowspan=1>Insurance</td>
