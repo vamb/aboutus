@@ -93,7 +93,7 @@ As a supplier, you are entitled to a complimentary online store set up including
 
 **FOC** - Free Of Charge
 
-If you are interested in advertising with Marine Online or wish to enquire more information, please contact us [HERE](https://aboutus.emarineonline.com/docs/connect/contactus).
+If you are interested in advertising with Marine Online or wish to enquire more information, please contact us [HERE](https://aboutus.emarineonline.com/docs/connect/contactus).<a href="https://aboutus.emarineonline.com/docs/connect/contactus" target="_blank">Hello, world!</a>
 
 Transaction Fee information is for reference only and is valid until 31st Dec 2019. <i>*T&C Apply.</i>
 
