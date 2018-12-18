@@ -26,39 +26,39 @@ As a supplier, you are entitled to a complimentary online store set up including
         <tr>
             <td rowspan=1>Ship Supplies</td>
             <td>3%</td>
-            <td>Applies To The Transaction Amount <br>For All Items Including Spare Parts, <br>Marine Store, Lubricant Oil, Provision <br>And Services.</td>
+            <td>Applies To Every Successful Purchasing Transaction Including Spare Parts, Marine Store, Lubricant Oil, Provision And Services.</td>
         </tr>
         <tr>
             <td rowspan=4>#Bunker Supplies</td>
-            <td>$1</td>
-            <td>For Gasoil. (pmt)</td>
+            <td>$1 PMT</td>
+            <td>Applies to Each Completed Transactions For Gasoil.</td>
         </tr>
         <tr>
-            <td>$0.5</td>
-            <td>For Fuel Oil. (pmt)</td>
-        </tr>
-        <tr>
-            <td>$50</td>
-            <td>From Surveyor. (per)</td>
+            <td>$0.5 PMT</td>
+            <td>Applies to Each Completed Transactions For Fuel Oil.</td>
         </tr>
         <tr>
             <td>$50</td>
-            <td>From Quality Tester. (per)</td>
+            <td>Applies To Each Successful Transaction From Surveyor.</td>
+        </tr>
+        <tr>
+            <td>$50</td>
+            <td>Applies To Each Successful Transaction From Quality Tester.</td>
         </tr>
         <tr>
             <td rowspan=1>Chartering</td>
             <td>FOC</td>
-            <td>Applies To All Chartering Services.</td>
+            <td>Applies To Chartering Services Including Vessel Location & Information, Smart Matching for Vessel & Cargo, Logistic Tracking And More.</td>
         </tr>
         <tr>
             <td rowspan=1>Port Agency</td>
             <td>$50</td>
-            <td>Applies To All Port Agent Services. (per)</td>
+            <td>For Every Successful Port Agent Service.</td>
         </tr>
         <tr>
             <td rowspan=2>Crew Services</td>
             <td>$100</td>
-            <td>Applies To All Manning Services. (per)</td>
+            <td>For Every Successful Manning Services Transaction.</td>
         </tr>
         <tr>
             <td>FOC</td>
