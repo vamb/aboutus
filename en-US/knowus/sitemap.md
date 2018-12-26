@@ -13,15 +13,12 @@ name: Site Map
     <td></td>
   </tr>
   <tr>
-    <td rowspan="9"><b>PRODUCTS</b></td>
-    <td rowspan="3"><b>1. Ship Supply</b></td>
+    <td rowspan="8"><b>PRODUCTS</b></td>
+    <td rowspan="2"><b>1. Ship Supply</b></td>
     <td>a. <a href="https://www.emarineonline.com/#/product/search?cateId=220388697768460300&catePid=220387843036413964&cateGid=220385573683068940">Spare Parts</a><br></td>
   </tr>
   <tr>
     <td>b. <a href="https://www.emarineonline.com/#/product/search?cateId=220388697768460300&catePid=220387843036413964&cateGid=220385573683068940">Lubricant Oil</a></td>
-  </tr>
-  <tr>
-    <td>c. Ship Store<br>d. Provision</td>
   </tr>
   <tr>
     <td rowspan="4"><b>2. Insurance</b></td>
