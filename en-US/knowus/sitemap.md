@@ -14,7 +14,7 @@ name: Site Map
   </tr>
   <tr>
     <td rowspan="9"><b>PRODUCTS</b></td>
-    <td rowspan="3">Ship Supply</td>
+    <td rowspan="3"><b>Ship Supply</b></td>
     <td><a href="https://www.emarineonline.com/#/product/search?cateId=220388697768460300&catePid=220387843036413964&cateGid=220385573683068940">Spare Parts</a><br></td>
   </tr>
   <tr>
@@ -24,7 +24,7 @@ name: Site Map
     <td>Ship Store<br>Provision</td>
   </tr>
   <tr>
-    <td rowspan="4">Insurance</td>
+    <td rowspan="4"><b>Insurance</b></td>
     <td><a href="https://www.emarineonline.com/#/product/search?cateId=220388697768460300&catePid=220387843036413964&cateGid=220385573683068940">Corporate</a><br></td>
   </tr>
   <tr>
@@ -37,11 +37,11 @@ name: Site Map
     <td><a href="https://www.emarineonline.com/#/product/search?cateId=220388697768460300&catePid=220387843036413964&cateGid=220385573683068940">Employee Benefits</a></td>
   </tr>
   <tr>
-    <td>Bunkering</td>
+    <td><b>Bunkering</b></td>
     <td><a href="https://www.emarineonline.com/#/product/search?cateId=220388697768460300&catePid=220387843036413964&cateGid=220385573683068940">Bunkering Product</a></td>
   </tr>
   <tr>
-    <td>Crewing</td>
+    <td><b>Crewing</b></td>
     <td><a href="https://www.emarineonline.com/#/product/search?cateId=220388697768460300&catePid=220387843036413964&cateGid=220385573683068940">Training</a></td>
   </tr>
   <tr>
