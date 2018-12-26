@@ -12,6 +12,6 @@ name: Media Centre
     <td><span style="font-weight:bold">FUTURE-GAZING: THE MARITIME INDUSTRY IN 2050</span></td>
   </tr>
   <tr>
-    <td>The shipping industry has tended to evolve very slowly, albeit<br>with occasional massive disruptions, from the end of the age<br>of sail to containerisation in the 1970s. Some experts believe<br>that the industry is now entering into another such period of change, as the maritime industry embraces a digital transformation that will leave it fundamentally different by the middle of this century.</td>
+    <td>The shipping industry has tended to evolve very slowly, albeit<br>with occasional massive disruptions, from the end of the age<br>of sail to containerisation in the 1970s. Some experts believe<br>that the industry is now entering into another such<br>period of change, as the maritime industry embraces a digital transformation that will leave it fundamentally different by the middle of this century.</td>
   </tr>
 </table>
