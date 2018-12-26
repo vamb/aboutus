@@ -6,11 +6,9 @@ name: Media Centre
 
 ### December 2018
 
-[![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/fb300ff0-08b3-11e9-b48e-d596b0a9acb5.png)](https://www.emarineonline.com/#/news/228607828053458956)
-
 <table>
   <tr>
-    <td rowspan="2"><img src="https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/fb300ff0-08b3-11e9-b48e-d596b0a9acb5.png" alt="FUTURE-GAZING: THE MARITIME INDUSTRY IN 2050" style="width:234px;height:109px;"></td>
+    <td rowspan="2"><img src="https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/fb300ff0-08b3-11e9-b48e-d596b0a9acb5.png" alt="FUTURE-GAZING: THE MARITIME INDUSTRY IN 2050" style="width:312px;height:147px;"></td>
     <td><span style="font-weight:bold">FUTURE-GAZING: THE MARITIME INDUSTRY IN 2050</span></td>
   </tr>
   <tr>
