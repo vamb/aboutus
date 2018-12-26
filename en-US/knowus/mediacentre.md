@@ -8,7 +8,7 @@ name: Media Centre
 
 <table>
   <tr>
-    <td rowspan="2"><img src="https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/fb300ff0-08b3-11e9-b48e-d596b0a9acb5.png" alt="FUTURE-GAZING: THE MARITIME INDUSTRY IN 2050" style="60%;"></td>
+    <td rowspan="2"><a href="https://www.emarineonline.com/#/news/228607828053458956" target="_blank"><img src="https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/fb300ff0-08b3-11e9-b48e-d596b0a9acb5.png" alt="FUTURE-GAZING: THE MARITIME INDUSTRY IN 2050" style="60%;"></a></td>
     <td><a href="https://www.emarineonline.com/#/news/228607828053458956" target="_blank"><span style="font-weight:bold">FUTURE-GAZING: THE MARITIME INDUSTRY IN 2050</span></a></td>
   </tr>
   <tr>
