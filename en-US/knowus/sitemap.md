@@ -9,7 +9,7 @@ name: Site Map
 <table>
   <tr>
     <td><a href="https://www.emarineonline.com/#/service/search"><b>OUR SERVICES</b></a></td>
-    <td>1. <a href="https://www.emarineonline.com/#/service-info/chartering">Chartering</a><br>2. <a href="https://www.emarineonline.com/#/service-info/insurance">Insurance</a><br>3. <a href="https://www.emarineonline.com/#/service-info/logistics">Logistics</a><br>4. <a href="https://www.emarineonline.com/#/service-info/ship-supply">Ship Supply</a><br>5. <a href="https://www.emarineonline.com/#/service-info/bunkering">Bunkering</a><br>6. <a href="https://www.emarineonline.com/#/service-info/crewing">Crewing</a><br>7. <a href="https://www.emarineonline.com/#/service-info/port-agency">Port Agency</a><br>8. <a href="https://www.emarineonline.com/#/service-info/ship-snp">Ship SNP</a></td>
+    <td><a href="https://www.emarineonline.com/#/service-info/chartering">1. Chartering</a><br><a href="https://www.emarineonline.com/#/service-info/insurance">2. Insurance</a><br><a href="https://www.emarineonline.com/#/service-info/logistics">3. Logistics</a><br><a href="https://www.emarineonline.com/#/service-info/ship-supply">4. Ship Supply</a><br><a href="https://www.emarineonline.com/#/service-info/bunkering">5. Bunkering</a><br><a href="https://www.emarineonline.com/#/service-info/crewing">6. Crewing</a><br><a href="https://www.emarineonline.com/#/service-info/port-agency">7. Port Agency</a><br><a href="https://www.emarineonline.com/#/service-info/ship-snp">8. Ship SNP</a></td>
     <td></td>
   </tr>
   <tr>
@@ -43,27 +43,27 @@ name: Site Map
   </tr>
   <tr>
     <td rowspan="6"><a href="https://www.emarineonline.com/#/company/search?bizType=supplier"><b>SUPPLIER</b></a></td>
-    <td>1. <span style="font-weight:600">Port Agency</span></td>
+    <td><span style="font-weight:600">1. Port Agency</span></td>
     <td>a. Cargo Operations<br>b. Husbandry Matters<br>c. Other Agency Services</td>
   </tr>
   <tr>
-    <td>2. <span style="font-weight:600">Ship Supply</span></td>
+    <td><span style="font-weight:600">2. Ship Supply</span></td>
     <td>a. Ship Store<br>b. Provision<br>c. Spare Parts<br>d. Lubricant Oil<br>e. Marine Survey<br>f. Cargo Inspection</td>
   </tr>
   <tr>
-    <td>3. <span style="font-weight:600">Bunkering</span></td>
+    <td><span style="font-weight:600">3. Bunkering</span></td>
     <td>a. Bunkering<br>b. Surveyor<br>c. Oil Tester</td>
   </tr>
   <tr>
-    <td>4. <span style="font-weight:600">Crewing</span></td>
+    <td><span style="font-weight:600">4. Crewing</span></td>
     <td><a href="http://www.emarineonline.com/#/company/search?bizType=manning_agency&category=CWMAN">a. Crew Manning</a><br><a href="https://www.emarineonline.com/#/company/search?name=training">b. Crew Training</a></td>
   </tr>
   <tr>
-    <td>5. <span style="font-weight:600">Insurance</span></td>
+    <td><span style="font-weight:600">5. Insurance</span></td>
     <td></td>
   </tr>
   <tr>
-    <td>6. <span style="font-weight:600">Ship SNP</span></td>
+    <td><span style="font-weight:600">6. Ship SNP</span></td>
     <td>a. Pre-Purchase Inspection<br>b. Underwater Diving Inspection</td>
   </tr>
   <tr>
@@ -83,15 +83,15 @@ name: Site Map
   </tr>
   <tr>
     <td rowspan="3"><b><a href="https://docs.emarineonline.com/docs">Help Centre</a></b></td>
-    <td>1. <span style="font-weight:bold">For Buyer</span></td>
+    <td><span style="font-weight:bold">1. For Buyer</span></td>
     <td>a. <a href="https://docs.emarineonline.com/docs/buyer/mol_prod_ser_overview">MOL’s Products And Services Overview</a><br>b. <a href="https://docs.emarineonline.com/docs/buyer/search_sup_prod_ser">Search For Suppliers, Products And Services</a><br>c. <a href="https://docs.emarineonline.com/docs/buyer/rfq">RFQ (Request For Quotation)</a><br>d. <a href="https://docs.emarineonline.com/docs/buyer/shopping_cart">Shopping Cart</a><br>e. <a href="https://docs.emarineonline.com/docs/buyer/quotation_and_order">Quotation And Order</a><br>f. <a href="https://docs.emarineonline.com/docs/buyer/payment">Payment</a><br>g. <a href="https://docs.emarineonline.com/docs/buyer/logistics_delivery">Logistics Delivery</a><br>h. <a href="https://docs.emarineonline.com/docs/buyer/complaints_and_disputes">Complaints And Disputes</a></td>
   </tr>
   <tr>
-    <td>2. <span style="font-weight:bold">For Supplier</span></td>
+    <td><span style="font-weight:bold">2. For Supplier</span></td>
     <td>a. <a href="https://docs.emarineonline.com/docs/supplier/mol_prod_ser_overview">MOL’s Products And Services Overview</a><br>b. <a href="https://docs.emarineonline.com/docs/supplier/register_setup_store">Registration And Setup Store</a><br>c. <a href="https://docs.emarineonline.com/docs/supplier/search_rfqs_create_quotations">Search For RFQs And Create Quotations</a><br>d. <a href="https://docs.emarineonline.com/docs/supplier/mol_service_fee">MOL’s Service Fee</a><br>e. <a href="https://docs.emarineonline.com/docs/supplier/payment">Payment</a><br>f. <a href="https://docs.emarineonline.com/docs/supplier/logistics_delivery">Logistics Delivery</a><br>g. <a href="https://docs.emarineonline.com/docs/supplier/order">Order</a><br>h. <a href="https://docs.emarineonline.com/docs/supplier/refunds_disputes">Refunds Or Disputes</a></td>
   </tr>
   <tr>
-    <td>3. <span style="font-weight:bold">Frequently Asked Questions (FAQ)</span></td>
+    <td><span style="font-weight:bold">3. Frequently Asked Questions (FAQ)</span></td>
     <td>a. <a href="https://docs.emarineonline.com/docs/faq/reg_verify">Registration And Verification</a><br>b. <a href="https://docs.emarineonline.com/docs/faq/currency_mol">What Currency Can I Use To Buy And Sell In MOL?</a><br>c. <a href="https://docs.emarineonline.com/docs/faq/mol_data_protection_privacy">MOL’s Data Protection And Privacy Policy</a></td>
   </tr>
 </table>
