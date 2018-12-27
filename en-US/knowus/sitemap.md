@@ -42,7 +42,7 @@ name: Site Map
     <td>a. <a href="https://www.emarineonline.com/#/product/search?cateId=222845074709445633&catePid=220392733796204556&cateGid=220385573716688908">Training</a></td>
   </tr>
   <tr>
-    <td rowspan="6"><a href="https://www.emarineonline.com/#/company/search?bizType=manning_agency&category=CWMAN&country=PHL"><b>SUPPLIER</b></a></td>
+    <td rowspan="6"><a href="https://www.emarineonline.com/#/company/search?bizType=supplier"><b>SUPPLIER</b></a></td>
     <td>1. <span style="font-weight:600">Port Agency</span></td>
     <td></td>
   </tr>
@@ -56,7 +56,7 @@ name: Site Map
   </tr>
   <tr>
     <td>4. <span style="font-weight:600">Crewing</span></td>
-    <td><a href="http://www.emarineonline.com/#/company/search?bizType=manning_agency&category=CWMAN">a. Crew Manning</a><br>b. Crew Training</td>
+    <td><a href="http://www.emarineonline.com/#/company/search?bizType=manning_agency&category=CWMAN">a. Crew Manning</a><br><a href="https://www.emarineonline.com/#/company/search?name=training">b. Crew Training</a></td>
   </tr>
   <tr>
     <td>5. <span style="font-weight:600">Insurance</span></td>
