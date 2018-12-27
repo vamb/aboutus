@@ -8,9 +8,30 @@ name: Site Map
 
 <table>
   <tr>
-    <td><b>OUR SERVICES</b></td>
-    <td>1. <a href="https://www.emarineonline.com/#/service-info/chartering">Chartering</a><br>2. <a href="https://www.emarineonline.com/#/service-info/port-agency">Port Agency</a><br>3. <a href="https://www.emarineonline.com/#/service-info/ship-supply">Ship Supply</a><br>4. <a href="https://www.emarineonline.com/#/service-info/logistics">Logistics</a><br>5. <a href="https://www.emarineonline.com/#/service-info/bunkering">Bunkering</a><br>6. <a href="https://www.emarineonline.com/#/service-info/crewing">Crewing</a><br>7. <a href="https://www.emarineonline.com/#/service-info/insurance">Insurance</a><br>8. <a href="https://www.emarineonline.com/#/service-info/ship-snp">Ship SNP</a></td>
+    <td rowspan="6"><a href="https://www.emarineonline.com/#/service/search"><b>OUR SERVICES</b></a></td>
+    <td>1. <a href="https://www.emarineonline.com/#/service-info/chartering">Chartering</a><br>2. <a href="https://www.emarineonline.com/#/service-info/insurance">Insurance</a><br>3. <a href="https://www.emarineonline.com/#/service-info/logistics">Logistics</a></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>4. <a href="https://www.emarineonline.com/#/service-info/ship-supply">Ship Supply</a></td>
+    <td>a. Marine Surveyor<br>b. Cargo Inspection<br>c. Logistic<br>d. Repair/Service</td>
+  </tr>
+  <tr>
+    <td>5. <a href="https://www.emarineonline.com/#/service-info/bunkering">Bunkering</a></td>
+    <td>a. Bunkering Surveyor<br>b. Bunkering Oil Tester<br>c. Bunkering Service</td>
+  </tr>
+  <tr>
+    <td>6. <a href="https://www.emarineonline.com/#/service-info/crewing">Crewing</a></td>
+    <td>a. Manning Service</td>
+  </tr>
+  <tr>
+    <td>7. <a href="https://www.emarineonline.com/#/service-info/port-agency">Port Agency</a></td>
+    <td>a. Cargo Operations<br>b. Husbandry Matters<br>c. Other Agency Services</td>
+  </tr>
+  <tr>
+    <td>8. <a href="https://www.emarineonline.com/#/service-info/ship-snp">Ship SNP</a></td>
+    <td>a. Vessel Pre-Purchase Inspection Sevices<br>b. Underwater Diving Inspection Services
+</td>
   </tr>
   <tr>
     <td rowspan="8"><b>PRODUCTS</b></td>
