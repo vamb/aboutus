@@ -10,6 +10,7 @@ name: Site Map
   <tr>
     <td><a href="https://www.emarineonline.com/#/service/search"><b>OUR SERVICES</b></a></td>
     <td>1. <a href="https://www.emarineonline.com/#/service-info/chartering">Chartering</a><br>2. <a href="https://www.emarineonline.com/#/service-info/insurance">Insurance</a><br>3. <a href="https://www.emarineonline.com/#/service-info/logistics">Logistics</a><br>4. <a href="https://www.emarineonline.com/#/service-info/ship-supply">Ship Supply</a><br>5. <a href="https://www.emarineonline.com/#/service-info/bunkering">Bunkering</a><br>6. <a href="https://www.emarineonline.com/#/service-info/crewing">Crewing</a><br>7. <a href="https://www.emarineonline.com/#/service-info/port-agency">Port Agency</a><br>8. <a href="https://www.emarineonline.com/#/service-info/ship-snp">Ship SNP</a></td>
+    <td></td>
   </tr>
   <tr>
     <td rowspan="8"><b>PRODUCTS</b></td>
