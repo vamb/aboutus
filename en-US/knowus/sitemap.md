@@ -56,7 +56,7 @@ name: Site Map
   </tr>
   <tr>
     <td>4. <span style="font-weight:600">Crewing</span></td>
-    <td>a. Crew Manning<br>b. Crew Training</td>
+    <td><a href="http://mol.uat.bwoilmarine.com/#/company/search?bizType=manning_agency&category=CWMAN">a. Crew Manning</a><br>b. Crew Training</td>
   </tr>
   <tr>
     <td>5. <span style="font-weight:600">Insurance</span></td>
