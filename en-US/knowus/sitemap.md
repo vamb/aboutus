@@ -18,20 +18,20 @@ name: Site Map
     <td>a. <a href="https://www.emarineonline.com/#/product/search?cateId=220388697768460300&catePid=220387843036413964&cateGid=220385573683068940">Spare Parts</a><br></td>
   </tr>
   <tr>
-    <td>b. <a href="https://www.emarineonline.com/#/product/search?cateId=220388697768460300&catePid=220387843036413964&cateGid=220385573683068940">Lubricant Oil</a></td>
+    <td>b. <a href="https://www.emarineonline.com/#/product/search?cateId=220389456266395660&catePid=220387843069968396&cateGid=220385573683068940">Lubricant Oil</a></td>
   </tr>
   <tr>
     <td rowspan="4"><b>2. Insurance</b></td>
-    <td>a. <a href="https://www.emarineonline.com/#/product/search?cateId=220388697768460300&catePid=220387843036413964&cateGid=220385573683068940">Corporate</a><br></td>
+    <td>a. <a href="https://www.emarineonline.com/#/product/search?cateId=220391871564742668&catePid=220391546170638348&cateGid=220385573699846156">Corporate</a><br></td>
   </tr>
   <tr>
-    <td>b. <a href="https://www.emarineonline.com/#/product/search?cateId=220388697768460300&catePid=220387843036413964&cateGid=220385573683068940">Marine</a></td>
+    <td>b. <a href="https://www.emarineonline.com/#/product/search?cateId=220392053933080588&catePid=220391546204192780&cateGid=220385573699846156">Marine</a></td>
   </tr>
   <tr>
-    <td>c. <a href="https://www.emarineonline.com/#/product/search?cateId=220388697768460300&catePid=220387843036413964&cateGid=220385573683068940">Transactional</a></td>
+    <td>c. <a href="https://www.emarineonline.com/#/product/search?cateId=220392223064195084&catePid=220391546204258316&cateGid=220385573699846156">Transactional</a></td>
   </tr>
   <tr>
-    <td>d. <a href="https://www.emarineonline.com/#/product/search?cateId=220388697768460300&catePid=220387843036413964&cateGid=220385573683068940">Employee Benefits</a></td>
+    <td>d. <a href="https://www.emarineonline.com/#/product/search?cateId=220392326596395020&catePid=220391546204323852&cateGid=220385573699846156">Employee Benefits</a></td>
   </tr>
   <tr>
     <td><b>3. Bunkering</b></td>
@@ -39,7 +39,7 @@ name: Site Map
   </tr>
   <tr>
     <td><b>4. Crewing</b></td>
-    <td>a. <a href="https://www.emarineonline.com/#/product/search?cateId=220388697768460300&catePid=220387843036413964&cateGid=220385573683068940">Training</a></td>
+    <td>a. <a href="https://www.emarineonline.com/#/product/search?cateId=222845074709445633&catePid=220392733796204556&cateGid=220385573716688908">Training</a></td>
   </tr>
   <tr>
     <td rowspan="6"><a href="https://www.emarineonline.com/#/company/search?bizType=manning_agency&category=CWMAN&country=PHL"><b>SUPPLIER</b></a></td>
