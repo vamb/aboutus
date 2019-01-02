@@ -1,5 +1,5 @@
 ---
-name: Marine Online Help Centre
+name: Marine Online
 ---
 
-# Marine Online Help Centre
+# Marine Online
