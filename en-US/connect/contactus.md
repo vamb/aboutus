@@ -12,7 +12,7 @@ name: Contact Us
 
 Email: [customercare@emarineonline.com](mailto:customercare@emarineonline.com)
 
-Operating hours: 8am to 9.30pm, Monday to Friday (Closed on Saturday, Sunday and Public Holidays).
+Operating hours: 9am to 5.30pm, Monday to Friday (Closed on Saturday, Sunday and Public Holidays).
 
 <br>
 
