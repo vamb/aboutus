@@ -4,9 +4,6 @@ name: Join Us
 
 ## Join Us
 
-Interested in a career with **Marine Online**?
---
-
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/jobs_opportunities.jpg)
 
 ### Open Positions
