@@ -6,7 +6,6 @@ name: Join Us
 
 Interested in a career with **Marine Online**?
 --
-## We have jobs for you!
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/jobs_opportunities.jpg)
 
