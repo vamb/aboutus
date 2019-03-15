@@ -57,7 +57,7 @@ Unless otherwise defined, the definitions and provisions in respect of interpret
 
 2.6 Transaction Service Agreement: Registered account holder will be subject to the Transaction Service Agreement as set out at [https://aboutus.emarineonline.com/docs/terms/agreement](https://aboutus.emarineonline.com/docs/terms/agreement).
 
-2.7 Service Fee Schedule: Charges to each transaction in respective to the various services will be subjected to the Service Fee Schedule Set out at [https://aboutus.emarineonline.com/docs/terms/fee](https://aboutus.emarineonline.com/docs/terms/fee).
+2.7 Service Fee Schedule: Charges to each transaction in respective to the various services will be subjected to the Service Fee Schedule set out at [https://aboutus.emarineonline.com/docs/terms/fee](https://aboutus.emarineonline.com/docs/terms/fee).
 
 ### 3. Use of Services 
 3.1 Application of this Clause: In addition to all other terms and conditions of these Terms of Use, the provisions in this Clause 3 are the additional specific terms and conditions governing your use of the Services.
