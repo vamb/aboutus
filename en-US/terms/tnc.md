@@ -55,9 +55,9 @@ Unless otherwise defined, the definitions and provisions in respect of interpret
 
 2.5 Privacy Policy: Your use of the Services and/or access to the Platform is also subject to the Privacy Policy as set out at [https://aboutus.emarineonline.com/docs/terms/policy](https://aboutus.emarineonline.com/docs/terms/policy).
 
-2.6 Terms & Conditions of Sale and Voucher Terms & Conditions: Purchases of any Product would be subject to the Terms & Conditions of Sale as set out at [https://aboutus.emarineonline.com/docs/terms/agreement](https://aboutus.emarineonline.com/docs/terms/agreement).
+2.6 Transaction Service Agreement: Registered account holder will be subject to the Transaction Service Agreement as set out at [https://aboutus.emarineonline.com/docs/terms/agreement](https://aboutus.emarineonline.com/docs/terms/agreement).
 
-2.7 Additional terms: In addition to these Terms of Use, the use of specific aspects of the Materials and Services, more comprehensive or updated versions of the Materials offered by us or our designated sub-contractors, may be subject to additional terms and conditions, which will apply in full force and effect.
+2.7 Service Fee Schedule: Charges to each transaction in respective to the various services will be subjected to the Service Fee Schedule Set out at [https://aboutus.emarineonline.com/docs/terms/fee](https://aboutus.emarineonline.com/docs/terms/fee).
 
 ### 3. Use of Services 
 3.1 Application of this Clause: In addition to all other terms and conditions of these Terms of Use, the provisions in this Clause 3 are the additional specific terms and conditions governing your use of the Services.
