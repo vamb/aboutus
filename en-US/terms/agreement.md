@@ -125,6 +125,8 @@ Verified Members may engage one or more third-party vendors for the purpose of c
 ### 4.1 Service Fees. 
 
 MOL shall have the right to charge service fees for the various Online Transactions according to the fee schedules published by MOL on the Platform as well as for any legally-binding transactions which may have originated on the Platform but are concluded outside the Platform.  MOL reserves the right to charge additional service fees for other types of Online Transactions with reasonable prior notification of such fees being published on the Platform.  Where an Online Transaction adopts the Payment Services, Verified Members authorize MOL to deduct any service fees that are due and payable to MOL for any completed an Online Transaction. MOL has no control over, and shall not be liable for any Products paid for with the Payment Services, neither shall MOL be liable to ensure that a Buyer or Seller will perform its obligations in relation to any transaction .For Online Transactions that do not adopt the Payment Services, MOL will send to the Verified Member a service fee invoice by the end of each calendar month or such other date as determined by MOL. This invoice shall be settled in full, without set-off or counterclaim by the date stated in the invoice and according to the instructions stated therein the invoice. MOL shall have the right to charge a late payment fee of 12% per annum (or such other interest rate as may be permitted by law) based on the invoice amount for any payments which have not been made on or before the due date stated in the invoice. 
+Please refer to Service Fee Schedule at [https://aboutus.emarineonline.com/docs/terms/fee](https://aboutus.emarineonline.com/docs/terms/fee).
+
 
 ### 4.2 Waiver of service fees. 
 
@@ -303,6 +305,8 @@ Capitalised words and phrases in this Agreement which have not already been defi
 “**Products**” shall mean the goods and/or services provided through this Platform.
 
 “**Seller**” shall mean the supplier of Products and where the Product relates to the charter of a ship, shall mean the (disponent) shipowner.
+
+Service Fee Schedule: May be found at[https://aboutus.emarineonline.com/docs/terms/fee](https://aboutus.emarineonline.com/docs/terms/fee).
 
 “**SIAC**” means the Singapore International Arbitration Centre.
 
