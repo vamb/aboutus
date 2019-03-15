@@ -29,13 +29,13 @@ As a supplier, you are entitled to a complimentary online store set up including
             <td>Applies To Every Successful Purchasing Transaction Including Spare Parts, Marine Store, Lubricant Oil, Provision And Services.</td>
         </tr>
         <tr>
-            <td rowspan=4>#Bunker Supplies</td>
+            <td rowspan=4>Bunker Supplies</td>
             <td>$1 PMT</td>
-            <td>Applies To Each Successful Transactions For Gasoil.</td>
+            <td>#Applies To Each Successful Transactions For Gasoil.</td>
         </tr>
         <tr>
             <td>$0.5 PMT</td>
-            <td>Applies To Each Successful Transactions For Fuel Oil.</td>
+            <td>#Applies To Each Successful Transactions For Fuel Oil.</td>
         </tr>
         <tr>
             <td>$50</td>
@@ -63,11 +63,6 @@ As a supplier, you are entitled to a complimentary online store set up including
         <tr>
             <td>FOC</td>
             <td>Member Service Including Both Direct And Indirect Recruitment.</td>
-        </tr>
-        <tr>
-            <td rowspan=1>Insurance</td>
-            <td>FOC</td>
-            <td>Applies To Marine Insurances/Policies Services Including:<br>- Transactional Insurances<br>- Annual Policies<br>*Other General Insurances.</td>
         </tr>
         <tr>
             <td rowspan=4>SNP</td>
