@@ -22,25 +22,30 @@ At any time, members may send credit application to credit@emarineonline.com inc
 
 **Call us at +65 6571 5888 for further assistance.**
 
-#### *All application are subjected to approval, credit term varies between companies. Terms & conditions apply
+*All application are subjected to approval, credit term varies between companies. Terms & conditions apply
 
   [Back to Top](business_credit#)
   
 ## Frequently Asked Questions (FAQs)
 
 **1. Can I apply if my company is not with Marine Online?**
+
 - At the moment, the application for credit limit is only available for the registered and verified company account.
 
 **2. Do I get discount if I settle my payment earlier that stipulated credit terms?**
+
 - Members can make repayment to their credit limit within the agreed terms. Marine Online advise our members to settle payment on time    to maintain good credit ratings
 
 **3. How do I make payment for the credit used?**
+
 - Repayment can be made conveniently with your cash account. Do check out Marine Online competitive FX rates when topping up your cash account
 
 **4. My supplier already provide me with credit term, is it still necessary for me to apply?**
+
 - Having a credit term with Marine Online is always better and equivalent to owning a credit card in Marine Online. Members can confirm quotation from supplier without transferring funds to cash account.
 
 **5. Can I request higher credit?**
+
 - Yes, Marine Online does provide temporary credit increase. This request will be available when you login to your credit account.
 
   [Back to Top](business_credit#)
