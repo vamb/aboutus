@@ -10,7 +10,7 @@ name: Service Fee Schedule
 
 As a shipowner/ship management company, you are exempted from paying any service fee to the platform for a third party transaction.
 
-As a supplier, you are entitled to a complimentary online store set up including displaying of products and services on the platform until you get an order online, you are only required to pay a small percentage of Transaction Service Fee based on the total transaction amount. 
+As a supplier, you are entitled to a complimentary online store set up including displaying of products and services on the platform until you get an order online, you are only required to pay a small percentage of Transaction Service Fee based on the total transaction amount.
 
 **The transaction fee schedule as follows:**
 
@@ -92,7 +92,7 @@ If you are interested in advertising with Marine Online or wish to enquire more 
 
 Transaction Fee information is for reference only and is valid until 31st Dec 2019. <i>*T&C Apply.</i>
 
-**T&C:** Marine Online (“Marine Online Pte Ltd”) reserves the right to amend the service details and transaction fee/rate according to economic conditions/behavior. Please refer to Marine Online Platform Service Agreement and other types of the agreement acknowledged by you and Marine Online for details of the specific tariff.
+**T&C:** Marine Online (“Marine Online Pte Ltd”) reserves the right to amend the service details and transaction fee/rate according to economic conditions/behavior. Please refer to [Terms of Use](https://aboutus.emarineonline.com/docs/terms/tnc) and other types of the agreement acknowledged by you and Marine Online for details of the specific tariff.
 
  [Back to Top](fee#)
  
