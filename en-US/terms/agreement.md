@@ -76,9 +76,7 @@ In addition to clause 2.4, MOL reserves the right, at its sole discretion, to re
 
 ### 2.6 Payment and Other Services.
 
-  (a)	MOL may, through its Affiliates or third party services providers, provide payment services for some Online Transactions (“Payment  Services”). These Payment Services will enable Verified Members to make and/or receive Payment on the Platform for the Online Transactions. 
-
-  (b)	MOL may provide Buyer protection plans for certain Online Transactions.  In case of Seller who has received an offer from MOL to  subscribe to a buyer protection plan, upon entering into a separate agreement with MOL, Seller may be required to provide deposits using the methods as designated by MOL on the Platform to secure Seller’s due performance of obligations under the relevant buyer protection plan. Seller agrees to permit and hereby authorize MOL to deduct, withhold and dispose any deposits provided in accordance with the terms under the relevant buyer protection plan. Buyer acknowledges and agrees that the protection afforded to it under any buyer protection plan applies to those Online Transactions where the Seller has subscribed to such plan and the purchase falls within the buyer protection plan’s scope and (i) Payment Services under any applicable the Payment Services agreement and (ii) under any supplemental services agreement will not be applicable to you for such Online Transactions if Seller subscribed to buyer protection plan and such plan already covers your purchase. Buyer acknowledges and agrees MOL will add guarantees for the Seller on such Online Transactions within the scope of buyer protection plan. The guarantee service will be performed according to the agreement reached between the guarantee service provider and the Seller.
+MOL may, through its Affiliates or third party services providers, provide payment services for some Online Transactions (“Payment  Services”). These Payment Services will enable Verified Members to make and/or receive Payment on the Platform for the Online Transactions. 
 
 ### 2.7 General powers.  
 
@@ -124,7 +122,7 @@ Verified Members may engage one or more third-party vendors for the purpose of c
 
 ### 4.1 Service Fees. 
 
-MOL shall have the right to charge service fees for the various Online Transactions according to the fee schedules published by MOL on the Platform as well as for any legally-binding transactions which may have originated on the Platform but are concluded outside the Platform.  MOL reserves the right to charge additional service fees for other types of Online Transactions with reasonable prior notification of such fees being published on the Platform.  Where an Online Transaction adopts the Payment Services, Verified Members authorize MOL to deduct any service fees that are due and payable to MOL for any completed an Online Transaction. MOL has no control over, and shall not be liable for any Products paid for with the Payment Services, neither shall MOL be liable to ensure that a Buyer or Seller will perform its obligations in relation to any transaction .For Online Transactions that do not adopt the Payment Services, MOL will send to the Verified Member a service fee invoice by the end of each calendar month or such other date as determined by MOL. This invoice shall be settled in full, without set-off or counterclaim by the date stated in the invoice and according to the instructions stated therein the invoice. MOL shall have the right to charge a late payment fee of 12% per annum (or such other interest rate as may be permitted by law) based on the invoice amount for any payments which have not been made on or before the due date stated in the invoice. 
+MOL shall have the right to charge service fees for the various Online Transactions according to the fee schedules published by MOL on the Platform as well as for any legally-binding transactions which may have originated on the Platform but are concluded outside the Platform.  MOL reserves the right to charge additional service fees for other types of Online Transactions with reasonable prior notification of such fees being published on the Platform.  Where an Online Transaction adopts the Payment Services, Verified Members authorize MOL to deduct any service fees that are due and payable to MOL for any completed an Online Transaction. MOL has no control over, and shall not be liable for any Products paid for with the Payment Services, neither shall MOL be liable to ensure that a Buyer or Seller will perform its obligations in relation to any transaction .For Online Transactions that do not adopt the Payment Services, MOL will send to the Verified Member a service fee invoice by the end of each calendar month or such other date as determined by MOL. This invoice shall be settled in full, without set-off or counterclaim by the date stated in the invoice and according to the instructions stated therein the invoice. MOL shall have the right to charge a late payment fee of 1% per month (or such other interest rate as may be permitted by law) based on the invoice amount for any payments which have not been made on or before the due date stated in the invoice. 
 
 Please refer to Service Fee Schedule at [https://aboutus.emarineonline.com/docs/terms/fee](https://aboutus.emarineonline.com/docs/terms/fee).
 
@@ -151,13 +149,23 @@ Verified Members shall provide all necessary information, materials and approval
 
 **Each Verified Member represents and warrants that each time it uses the Platform:**
 
-  (a)	it will only use the Transaction Services in good faith and in compliance with all applicable laws，including laws related to anti-money laundering and counter-terrorism financing；
+  (a)	warrant to MOL that: 
 
-  (b)	all information and material it provides in connection with the Transaction Services is true, lawful and accurate, and is not false, misleading or deceptive;
+   (i)		if you are a business, you are duly organized, validly existing and in good standing under the Laws of the country in which your business is registered and that you are registering for the Service(s) within such country; 
 
-  (&#99;)	it will not use the Transaction Services to defraud MOL, other Verified Members or other users of the Platform; or engage in other unlawful activities (including but not limited to dealing in Products prohibited by law); and
+   (ii)		you have all requisite right, power, and authority to enter into this Agreement, perform your obligations, and grant the rights, licenses, and authorizations in this Agreement;    
 
-  (d)	in the capacity of a Seller, it
+   (iii)	any information provided or made available by you or your Affiliates to MOL or its Affiliates is at all times accurate and complete;  
+   
+   (iv)		you and your financial institution(s) are not subject to sanctions or otherwise designated on any list of prohibited or restricted parties or owned or controlled by such a party, including but not limited to the lists (Advise List).
+   
+  (b)	it will only use the Transaction Services in good faith and in compliance with all applicable laws，including laws related to anti-money laundering and counter-terrorism financing；
+
+  (&#99;)	all information and material it provides in connection with the Transaction Services is true, lawful and accurate, and is not false, misleading or deceptive;
+
+  (d)	it will not use the Transaction Services to defraud MOL, other Verified Members or other users of the Platform; or engage in other unlawful activities (including but not limited to dealing in Products prohibited by law); and
+
+  (e)	in the capacity of a Seller, it
 
    (i)		has the right to sell, distribute or export the Products using the Transaction Services and such Products do not infringe any third party’s legal rights;
     
@@ -165,6 +173,8 @@ Verified Members shall provide all necessary information, materials and approval
     
    (iii)	it will provide the services ordered with reasonable care and skill.
 
+  (f)	You grant MOL a royalty-free, non-exclusive, worldwide, perpetual, irrevocable right and license to use, reproduce, perform, display, distribute, adapt, modify, re-format, create derivative works of, and otherwise commercially or non-commercially exploit in any manner, any and all of Your Materials, and to sublicense the foregoing rights to our Affiliates; provided, however, that we will not alter any of Your Trademarks from the form provided by you (except to re-size trademarks to the extent necessary for presentation, so long as the relative proportions of such trademarks remain the same) and will comply with your removal requests as to specific uses of Your Trademarks (provided you are unable to do so using standard functionality made available to you via the applicable MOL Site or Service)
+  
 ### 5.3 Breach. 
 
 If, in MOL’s reasonable opinion, a Verified Member does not act in good faith in the use of the Platform, abuses the Transaction Services, or is otherwise in breach of this Agreement, MOL shall have the right to cancel the relevant Online Transaction(s).  MOL also reserves the right to impose any penalty, or to temporarily suspend or terminate a Verified Member’s use of some or all of the functionality of the Platform.  MOL also reserves the right to (i) temporarily suspend the transaction functionalities of your account with MOL. MOL may also publish its findings, penalties and other records regarding the breaches on the Platform without specifically identifying any Verified Member.
