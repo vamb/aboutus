@@ -157,7 +157,7 @@ Verified Members shall provide all necessary information, materials and approval
 
    (iii)	any information provided or made available by you or your Affiliates to MOL or its Affiliates is at all times accurate and complete;  
    
-   (iv)		you and your financial institution(s) are not subject to sanctions or otherwise designated on any list of prohibited or restricted parties or owned or controlled by such a party, including but not limited to the lists (Advise List).
+   (iv)		you and your financial institution(s) are not subject to sanctions or otherwise designated on any list of prohibited or restricted parties or owned or controlled by such a party, including but not limited to the lists.
    
   (b)	it will only use the Transaction Services in good faith and in compliance with all applicable laws，including laws related to anti-money laundering and counter-terrorism financing；
 
