@@ -70,4 +70,4 @@ Marine Online has three types of membership packages to suit individual company�
 
 **Verified Member (Free):** This membership category is for members who have provided their company’s business license and other documents to Marine Online and passed the authenticity verification. Such members can then set up an online store, publish their products, issue enquiry or quotation, and secure deals through our platform; However, users can only check the companies’ contact information which has prior transactions before, and their contact information is only visible and contactable by Premium Members.
 
-**Premium Member:** Verified members who have purchased specific services from the platform will fall under this membership category.  Premium members can enjoy all the services on the Marine Online platform and are able to directly contact suppliers or customers to communicate before the transaction is completed. Premium members can also enjoy higher visibility on Marine Online thus increasing their business transaction rates and also enjoy better value services as customers.  [Back to Top](ourservices#)
+[Back to Top](ourservices#)
