@@ -81,10 +81,15 @@ As a supplier, you are entitled to a complimentary online store set up including
             <td>$250</td>
             <td>For Every Successful Referred Underwater Inspection.</td>
         </tr>
+        <tr>
+            <td rowspan=1>Other Marine Services</td>
+            <td>5%</td>
+            <td>For every successful transaction in form of RFQ or shopping cart.</td>
+        </tr>
     </tbody>
 </table>
 
-<i>**#Minimun $200/Transaction**</i><br><i>***Please check with our insurance team for more information.**</i>
+<i>**#Minimun $200/Transaction**</i>
 
 **FOC** - Free Of Charge
 
