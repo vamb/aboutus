@@ -84,7 +84,7 @@ As a supplier, you are entitled to a complimentary online store set up including
         <tr>
             <td rowspan=1>Other Marine Services</td>
             <td>5%</td>
-            <td>For every successful transaction in form of RFQ or shopping cart.</td>
+            <td>For Every Successful Transaction In Form Of RFQ Or Shopping Cart.</td>
         </tr>
     </tbody>
 </table>
