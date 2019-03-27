@@ -2,9 +2,9 @@
 name: Transaction Support Services
 ---
 
-## Transaction Support Services
-
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/mall/DES_IMG_1fec46c0-5043-11e9-8ede-0b76503623f7.png)
+
+## Transaction Support Services
 
 To enable  both Buyers and Suppliers to transact securely and given a trusted environment, Marine Online (MOL) had provided the platform three core systems namely, (1) Payment and Guarantee System, (2) Review and Rating System and (3) Logistics Support System:
 
