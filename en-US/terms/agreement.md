@@ -2,7 +2,7 @@
 name: Transaction Services Agreement
 ---
 
-## Transaction Services Agreement 
+## Transaction Services Agreement (the “Agreement”)
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/seller_agreement.jpg)
 
@@ -10,7 +10,7 @@ name: Transaction Services Agreement
 
 ### 1.1 Contracting Party. 
 
-This Agreement is entered into between each Verified Member and Marine Online Pte Ltd. (“MOL”) for use the Transaction Services.  
+This Agreement is entered into between each Verified Member and Marine Online Pte Ltd. (“MOL”) for use the Transaction Services and shall include the various Schedules hereto.  
 
 ### 1.2 Transaction Terms. 
 
@@ -18,7 +18,7 @@ MOL provides the Platform and ancillary services (“Transaction Services”) on
 
 ### 1.3 General Terms. 
 
-You agree to comply with the relevant general rules and policies published on the Platform which are also incorporated into this Agreement by reference (“General Terms”).   The General Terms include without limitation the Terms of Use and the Privacy Policy. 
+You agree to comply with the relevant general rules and policies published on the Platform which are also incorporated into this Agreement by reference (“General Terms”). The General Terms include without limitation the Terms of Use and the Privacy Policy. In the event of any inconsistency between the General Terms and the terms of this Agreement, the terms of this Agreement shall prevail to the extent of any inconsistency. Furthermore, in the event of any inconsistency between the terms contained in the main body of this Agreement and the Schedules to this Agreement, the terms contained in the applicable Schedule(s) shall prevail to the extent of any inconsistency.
 
 ### 1.4 Binding Agreement. 
 
@@ -94,7 +94,7 @@ Verified Members may transact with each other by way of one or more Online Trans
 
 ### 3.2 Online Transaction to be between Seller and Buyer Only. 
 
-Each Online Transaction is made by and between a Seller and a Buyer only and MOL shall not be a party to any Online Transaction.  Despite providing the Platform for the Transaction Services and conducting reviews of Online Transactions, MOL does not represent either Seller or Buyer in any Online Transaction.  MOL is  not be responsible for the quality, safety, lawfulness or availability of the Products or services offered in any Online Transaction or the ability of either Seller or Buyer to perform their obligations in relation to any Online Transaction. Verified Members shall not hold MOL and/or its agents liable for any losses, damage, claims, liabilities, costs or expenses arising from any Online Transactions, including but not limited to any breach, partial performance or non-performance of the Online Transaction by the other party to the transaction.
+Each Online Transaction is made by and between a Seller and a Buyer only and MOL shall not be a party to any Online Transaction. Despite providing the Platform for the Transaction Services and conducting reviews of Online Transactions, MOL is not an agent of either Seller or Buyer in any Online Transaction, neither does it act as an agent of any third party payment services provider whose services are hosted on the Portal. . MOL is not be responsible for the quality, safety, lawfulness or availability of the Products  (which for clarification, includes third party payment services) offered in any Online Transaction or the ability of either Seller or Buyer to perform their obligations in relation to any Online Transaction. Verified Members shall not hold MOL and/or its agents liable for any losses, damage, claims, liabilities, costs or expenses arising from any Online Transactions, including but not limited to any breach, partial performance or non-performance of the Online Transaction by the other party to the transaction.
 
 ### 3.3 Payment of the price of Products.  
 
@@ -151,13 +151,13 @@ Verified Members shall provide all necessary information, materials and approval
 
   (a)	warrant to MOL that: 
 
-   (i)		if you are a business, you are duly organized, validly existing and in good standing under the Laws of the country in which your business is registered and that you are registering for the Service(s) within such country; 
+   (i)		if it is a business, it is duly organized, validly existing and in good standing under the laws of the country in which its business is registered and that it is registering for the Service(s) within such country; 
 
-   (ii)		you have all requisite right, power, and authority to enter into this Agreement, perform your obligations, and grant the rights, licenses, and authorizations in this Agreement;    
+   (ii)		it has all requisite right, power, and authority to enter into this Agreement, perform its obligations, and grant the rights, licenses, and authorizations in this Agreement;    
 
-   (iii)	any information provided or made available by you or your Affiliates to MOL or its Affiliates is at all times accurate and complete;  
+   (iii)	any information provided or made available, by it  or its  Affiliates to MOL or its Affiliates, is at all times accurate and complete;  
    
-   (iv)		you and your financial institution(s) are not subject to sanctions or otherwise designated on any list of prohibited or restricted parties or owned or controlled by such a party, including but not limited to the lists.
+   (iv)		it and its financial institution(s) are not subject to sanctions or otherwise designated on any list of prohibited or restricted parties or owned or controlled by such a party.
    
   (b)	it will only use the Transaction Services in good faith and in compliance with all applicable laws，including laws related to anti-money laundering and counter-terrorism financing；
 
@@ -173,7 +173,7 @@ Verified Members shall provide all necessary information, materials and approval
     
    (iii)	it will provide the services ordered with reasonable care and skill.
 
-  (f)	You grant MOL a royalty-free, non-exclusive, worldwide, perpetual, irrevocable right and license to use, reproduce, perform, display, distribute, adapt, modify, re-format, create derivative works of, and otherwise commercially or non-commercially exploit in any manner, any and all of Your Materials, and to sublicense the foregoing rights to our Affiliates; provided, however, that we will not alter any of Your Trademarks from the form provided by you (except to re-size trademarks to the extent necessary for presentation, so long as the relative proportions of such trademarks remain the same) and will comply with your removal requests as to specific uses of Your Trademarks (provided you are unable to do so using standard functionality made available to you via the applicable MOL Site or Service)
+  (f)	it grants MOL a royalty-free, non-exclusive, worldwide, perpetual, irrevocable right and license to use, reproduce, perform, display, distribute, adapt, modify, re-format, create derivative works of, and otherwise commercially or non-commercially exploit in any manner, any and all of its materials, and to sublicense the foregoing rights to MOL’s Affiliates; provided, however, that MOL will not alter any of the Verified Member’s trademarks from the form provided by it (except to re-size trademarks to the extent necessary for presentation, so long as the relative proportions of such trademarks remain the same) and will comply with its removal requests as to specific uses of its trademarks (provided it is unable to do so using standard functionality made available to it via the applicable the Platform.
   
 ### 5.3 Breach. 
 
