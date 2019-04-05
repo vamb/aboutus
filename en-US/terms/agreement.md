@@ -169,7 +169,7 @@ Verified Members shall provide all necessary information, materials and approval
 
    (i)		has the right to sell, distribute or export the Products using the Transaction Services and such Products do not infringe any third party’s legal rights;
     
-   (ii)		has good title to the Products supplied to a Buyer and the Products meet the agreed description and specfications; and
+   (ii)		has good title to the Products supplied to a Buyer and the Products meet the agreed description and specifications; and
     
    (iii)	it will provide the services ordered with reasonable care and skill.
 
