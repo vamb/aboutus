@@ -44,7 +44,7 @@ Our professional market analysis team provides our users with the most up-to-dat
 
 ### Marine Tools
 
-There are eight key marine tools on Marine Online: 
+There are six key marine tools on Marine Online: 
 
 1. Vessel Search: Enquiry for 100,000+ commercial vessels’ basic information (ship’s particulars), real-time position tracking worldwide.
 
@@ -52,15 +52,11 @@ There are eight key marine tools on Marine Online:
 
 3. Distance Calculator: Estimate the distance between world’s main ports and voyage duration.
 
-4. Equipment Search: Convenient and Intuitive purchase enquiry for the common spare parts equipment and suppliers.
+4. Port Cost Calculator: Estimate the comprehensive cost of port charges in advance.
 
-5. Port Cost Calculator: Estimate the comprehensive cost of port charges in advance.
+5. Voyage Estimator: Calculate the profit of a single voyage based on the conditions of the rental fee, fuel consumption, and agent fee.
 
-6. Voyage Estimator: Calculate the profit of a single voyage based on the conditions of the rental fee, fuel consumption, and agent fee.
-
-7. Crew Budget Calculator: Calculate the monthly/annual crew cost according to the vessel type, number of seafarers, length of contract, nationality, etc.
-
-8. Vessel Valuator: Calculate the current transaction price and future estimated price for the vessel based on broad data of the market transaction.  [Back to Top](ourservices#)
+6. Vessel Valuator: Calculate the current transaction price and future estimated price for the vessel based on broad data of the market transaction.  [Back to Top](ourservices#)
 
 ### Member Service
 
