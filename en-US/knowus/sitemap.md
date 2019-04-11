@@ -8,7 +8,7 @@ name: Site Map
 
 <table>
   <tr>
-    <td><a href="https://www.emarineonline.com/#/service/search"><b>OUR SERVICES</b></a></td>
+    <td><a href="https://aboutus.emarineonline.com/docs/knowus/ourservices"><b>OUR SERVICES</b></a></td>
     <td><a href="https://www.emarineonline.com/#/service-info/chartering">1. Chartering</a><br><a href="https://www.emarineonline.com/#/service-info/insurance">2. Insurance</a><br><a href="https://www.emarineonline.com/#/service-info/logistics">3. Logistics</a><br><a href="https://www.emarineonline.com/#/service-info/ship-supply">4. Ship Supply</a><br><a href="https://www.emarineonline.com/#/service-info/bunkering">5. Bunkering</a><br><a href="https://www.emarineonline.com/#/service-info/crewing">6. Crewing</a><br><a href="https://www.emarineonline.com/#/service-info/port-agency">7. Port Agency</a><br><a href="https://www.emarineonline.com/#/service-info/ship-snp">8. Ship SNP</a></td>
     <td></td>
   </tr>
