@@ -9,37 +9,37 @@ name: Site Map
 <table>
   <tr>
     <td><a href="https://aboutus.emarineonline.com/docs/knowus/ourservices"><b>OUR SERVICES</b></a></td>
-    <td><a href="https://www.emarineonline.com/#/service-info/chartering">1. Chartering</a><br><a href="https://www.emarineonline.com/#/service-info/insurance">2. Insurance</a><br><a href="https://www.emarineonline.com/#/service-info/logistics">3. Logistics</a><br><a href="https://www.emarineonline.com/#/service-info/ship-supply">4. Ship Supply</a><br><a href="https://www.emarineonline.com/#/service-info/bunkering">5. Bunkering</a><br><a href="https://www.emarineonline.com/#/service-info/crewing">6. Crewing</a><br><a href="https://www.emarineonline.com/#/service-info/port-agency">7. Port Agency</a><br><a href="https://www.emarineonline.com/#/service-info/ship-snp">8. Ship SNP</a></td>
+    <td><a href="https://www.emarineonline.com/#/service-info/chartering">1. Chartering</a><br><a href="https://www.emarineonline.com/mybusiness/#/request-quotation">2. Request for Quotation</a><br><a href="https://www.emarineonline.com/#/more-services/marine-services">3. More Services</a><br><a href="https://www.emarineonline.com/#/ship-supply/products">4. Ship Supply</a><br><a href="https://www.emarineonline.com/#/bunkering/suppliers">5. Bunkering</a><br><a href="https://www.emarineonline.com/#/crewing/seafarers">6. Crewing</a><br><a href="https://www.emarineonline.com/#/port-agency/services">7. Port Agency</a><br><a href="https://www.emarineonline.com/#/sandp/vesselSearch">8. Ship SNP</a></td>
     <td></td>
   </tr>
   <tr>
     <td rowspan="8"><b>PRODUCTS</b></td>
     <td rowspan="2"><b>1. Ship Supply</b></td>
-    <td>a. <a href="https://www.emarineonline.com/#/product/search?cateId=220388697768460300&catePid=220387843036413964&cateGid=220385573683068940">Spare Parts</a><br></td>
+    <td>a. <a href="https://www.emarineonline.com/#/ship-supply/products?cateId=220388697768460300&catePid=220387843036413964&startPage=1">Spare Parts</a><br></td>
   </tr>
   <tr>
-    <td>b. <a href="https://www.emarineonline.com/#/product/search?cateId=220389456266395660&catePid=220387843069968396&cateGid=220385573683068940">Lubricant Oil</a></td>
+    <td>b. <a href="https://www.emarineonline.com/#/ship-supply/products?cateId=220389456266395660&catePid=220387843069968396&startPage=1">Lubricant Oil</a></td>
   </tr>
   <tr>
-    <td rowspan="4"><b>2. Insurance</b></td>
-    <td>a. <a href="https://www.emarineonline.com/#/product/search?cateId=220391871564742668&catePid=220391546170638348&cateGid=220385573699846156">Corporate</a><br></td>
+    <td rowspan="4"><a href="https://www.emarineonline.com/#/more-services/marine-services?cateId=220392223064195084&catePid=220385573699846156&startPage=1"><b>2. Insurance</b></td>
+    <td>a. Corporate<br></td>
   </tr>
   <tr>
-    <td>b. <a href="https://www.emarineonline.com/#/product/search?cateId=220392053933080588&catePid=220391546204192780&cateGid=220385573699846156">Marine</a></td>
+    <td>b. Marine</td>
   </tr>
   <tr>
-    <td>c. <a href="https://www.emarineonline.com/#/product/search?cateId=220392223064195084&catePid=220391546204258316&cateGid=220385573699846156">Transactional</a></td>
+    <td>c. Transactional</td>
   </tr>
   <tr>
-    <td>d. <a href="https://www.emarineonline.com/#/product/search?cateId=220392326596395020&catePid=220391546204323852&cateGid=220385573699846156">Employee Benefits</a></td>
+    <td>d. Employee Benefits</td>
   </tr>
   <tr>
     <td><b>3. Bunkering</b></td>
-    <td>a. <a href="https://www.emarineonline.com/#/product/search?cateId=220388697768460300&catePid=220387843036413964&cateGid=220385573683068940">Bunkering Product</a></td>
+    <td>a. <a href="https://www.emarineonline.com/#/bunkering/services">Bunkering Product</a></td>
   </tr>
   <tr>
     <td><b>4. Crewing</b></td>
-    <td>a. <a href="https://www.emarineonline.com/#/product/search?cateId=222845074709445633&catePid=220392733796204556&cateGid=220385573716688908">Training</a></td>
+    <td>a. <a href="https://www.emarineonline.com/#/crewing/training-courses?cateId=222845074709445633&startPage=1">Training</a></td>
   </tr>
   <tr>
     <td rowspan="6"><a href="https://www.emarineonline.com/#/company/search?bizType=supplier"><b>SUPPLIER</b></a></td>
@@ -68,7 +68,7 @@ name: Site Map
   </tr>
   <tr>
     <td><b>MARINE TOOLS</b></td>
-    <td>1. <a href="https://www.emarineonline.com/#/tools/vessel-search">Vessel Search</a><br>2. <a href="https://www.emarineonline.com/#/tools/port-search">Port Search</a><br>3. <a href="https://www.emarineonline.com/#/tools/voyage-estimator">Voyage Estimator</a><br>4. <a href="https://www.emarineonline.com/#/tools/distance-calculator">Distance Calculator</a><br>5. <a href="https://www.emarineonline.com/#/tools/port-cost-calculator">Post Cost Calculator</a><br>6. <a href="https://www.emarineonline.com/#/tools/vessel-valuator">Vessel Valuator</a></td>
+    <td>1. <a href="https://www.emarineonline.com/#/tools/vessel-search">Vessel Search</a><br>2. <a href="https://www.emarineonline.com/#/tools/port-search">Port Search</a><br>3. <a href="https://www.emarineonline.com/#/tools/voyage-estimator">Voyage Estimator</a><br>4. <a href="https://www.emarineonline.com/#/tools/distance-calculator">Distance Calculator</a><br>5. <a href="https://www.emarineonline.com/#/tools/port-cost-calculator">Post Calculator</a><br>6. <a href="https://www.emarineonline.com/#/tools/vessel-valuator">Vessel Valuator</a></td>
     <td></td>
   </tr>
   <tr>
@@ -78,8 +78,8 @@ name: Site Map
   </tr>
   <tr>
     <td><b><a href="https://aboutus.emarineonline.com/docs/knowus/aboutus">About Us</a></b></td>
-    <td>1. <a href="https://aboutus.emarineonline.com/docs/knowus/aboutus">About Marine Online</a><br>2. <a href="https://aboutus.emarineonline.com/docs/knowus/ourservices">Our Services</a><br>3. <a href="https://aboutus.emarineonline.com/docs/knowus/mediacentre">Media Centre</a><br>4. <a href="https://aboutus.emarineonline.com/docs/knowus/sitemap">Site Map</a><br>5. <a href="https://aboutus.emarineonline.com/docs/connect/contactus">Contact Us</a><br>6. <a href="https://aboutus.emarineonline.com/docs/connect/joinus">Join Us</a><br>7. <a href="https://aboutus.emarineonline.com/docs/connect/job">Open Positions</a><br>8. <a href="https://aboutus.emarineonline.com/docs/business/business_shipowner">Shipowner: How To Save Money And Time On MOL?</a><br></td>
-    <td>9. <a href="https://aboutus.emarineonline.com/docs/business/business_supplier">Supplier: How To Make Money On MOL?</a><br>10. <a href="https://aboutus.emarineonline.com/docs/business/business_support">Transaction Support Services</a><br>11. <a href="https://aboutus.emarineonline.com/docs/terms/policy">Privacy Policy</a><br>12. <a href="https://aboutus.emarineonline.com/docs/terms/tnc">Terms of Use</a><br>13. <a href="https://aboutus.emarineonline.com/docs/terms/agreement">Transaction Services Agreement </a><br>14. <a href="https://aboutus.emarineonline.com/docs/terms/fee">Service Fee Schedule</a><br>
+    <td>1. <a href="https://aboutus.emarineonline.com/docs/knowus/aboutus">About Marine Online</a><br>2. <a href="https://aboutus.emarineonline.com/docs/knowus/ourservices">Our Services</a><br>3. <a href="https://aboutus.emarineonline.com/docs/knowus/mediacentre">Media Centre</a><br>4. <a href="https://aboutus.emarineonline.com/docs/knowus/sitemap">Site Map</a><br>5. <a href="https://aboutus.emarineonline.com/docs/connect/contactus">Contact Us</a><br>6. <a href="https://aboutus.emarineonline.com/docs/connect/joinus">Join Us</a><br></td>
+    <td>7. <a href="https://aboutus.emarineonline.com/docs/business/business_shipowner">Shipowner: How To Save Money And Time On MOL?</a><br>8. <a href="https://aboutus.emarineonline.com/docs/business/business_supplier">Supplier: How To Make Money On MOL?</a><br>9. <a href="https://aboutus.emarineonline.com/docs/business/business_support">Transaction Support Services</a><br>10. <a href="https://aboutus.emarineonline.com/docs/terms/policy">Privacy Policy</a><br>11. <a href="https://aboutus.emarineonline.com/docs/terms/tnc">Terms of Use</a><br>12. <a href="https://aboutus.emarineonline.com/docs/terms/agreement">Transaction Services Agreement </a><br>13. <a href="https://aboutus.emarineonline.com/docs/terms/fee">Service Fee Schedule</a><br>
   </tr>
   <tr>
     <td rowspan="3"><b><a href="https://docs.emarineonline.com/docs">Help Centre</a></b></td>
