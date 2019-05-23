@@ -34,3 +34,6 @@ The online payment and guarantee system allows the Shipowner to pay the funds to
 The credit evaluation system allows shipowners and suppliers to provide evaluations to each other after the service is completed, and urges both parties to continually improve their credit levels on the basis of honesty and trustworthiness to obtain more trading opportunities. 
 
 The logistics support system is provided by the platform and the selected third-party logistics company to provide professional warehousing, logistics, customs declaration and distribution on board services for both Shipowners and Suppliers. It reduces intermediate links and helps Shipowners and Suppliers directly reach deals.
+
+
+
