@@ -6,7 +6,7 @@ name: About Marine Online
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/marine_online.jpg)
 
-<iframe width="760" height="500" src="https://www.youtube.com/embed/h6g6P8kEK28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="760" height="400" src="https://www.youtube.com/embed/h6g6P8kEK28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Marine Online (MOL) is a one-stop integrated maritime platform for global Shipowners and Suppliers. We introduce advanced e-commerce model into the shipping industry and establish a safe online payment and guarantee system, credit evaluation system and logistics support system, so Shipowners and Suppliers are able to easily match, build trust and make deals with each other. And eventually, help Shipowners save money and help Suppliers make money.
 
