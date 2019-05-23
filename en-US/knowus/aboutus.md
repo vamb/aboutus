@@ -35,5 +35,5 @@ The credit evaluation system allows shipowners and suppliers to provide evaluati
 
 The logistics support system is provided by the platform and the selected third-party logistics company to provide professional warehousing, logistics, customs declaration and distribution on board services for both Shipowners and Suppliers. It reduces intermediate links and helps Shipowners and Suppliers directly reach deals.
 
-
+<br> </br>
 
