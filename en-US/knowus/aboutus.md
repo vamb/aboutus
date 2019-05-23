@@ -13,15 +13,17 @@ name: About Marine Online
 
 Marine Online (MOL) is a one-stop integrated maritime platform for global Shipowners and Suppliers. 
 We introduce advanced e-commerce model into the shipping industry and establish a safe online payment and guarantee system, credit evaluation system and logistics support system, so Shipowners and Suppliers are able to easily match, build trust and make deals with each other. And eventually, help Shipowners save money and help Suppliers make money.
-
+<br> 
 
 ### Full-Service Coverage
 
 Marine Online revolves around the seven services required for the day-to-day management of Shipowners, including Chartering, Bunkering, Ship Supply, Port Agency, Crewing, Ship Sale and Purchase and Marine Insurance. We invite more than 10,000 Suppliers worldwide to setup their online store on our platform to provide their services and products for different categories and ports. It will form the world’s largest shipping supplies database and shipping products/ services database. Shipowners can quickly search for the qualified suppliers relying on this huge database to make online purchases and deals efficiently.
+<br> 
 
 ### Multiple Transaction Model
 
 In order to facilitate the Shipowner and the Supplier to reach a deal, Marine Online has designed two transaction models. The first model is just as simple as online shopping, it makes Shipowner actively search for the required product or supplier, put it into the shopping cart to purchase and closes the deal; the second model let the shipowner directly issue an enquiry form through the platform, the system will automatically push the qualified suppliers to provide the quotation according to the unified format. It will help the shipowner comprehensively compares the price, payment terms, supplier’s credit and other factors to quickly reach the best deal.
+<br> 
 
 ### Reliable Platform Support
 
@@ -33,5 +35,5 @@ The credit evaluation system allows shipowners and suppliers to provide evaluati
 
 The logistics support system is provided by the platform and the selected third-party logistics company to provide professional warehousing, logistics, customs declaration and distribution on board services for both Shipowners and Suppliers. It reduces intermediate links and helps Shipowners and Suppliers directly reach deals.
 
-
+<br> 
 
