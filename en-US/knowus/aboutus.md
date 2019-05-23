@@ -6,7 +6,7 @@ name: About Marine Online
 
 <br> 
 
-<iframe width="993" height="561" src="https://www.youtube.com/embed/h6g6P8kEK28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/h6g6P8kEK28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </br>
 
