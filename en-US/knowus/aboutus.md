@@ -32,6 +32,5 @@ The logistics support system is provided by the platform and the selected third-
 <br> 
 
 <iframe width="780" height="400" src="https://www.youtube.com/embed/h6g6P8kEK28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 </br>
 
