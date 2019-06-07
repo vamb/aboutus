@@ -8,7 +8,7 @@ name: Media Centre
 
 <table>
   <tr>
-    <td rowspan="2"><a href="https://www.emarineonline.com/#/news/228653270099296271" target="_blank"><img src="https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/fb300ff0-08b3-11e9-b48e-d596b0a9acb5.png" alt="FUTURE-GAZING: THE MARITIME INDUSTRY IN 2050" style="80%;"></a></td>
+    <td rowspan="2"><a href="https://www.emarineonline.com/#/news/228653270099296271" target="_blank"><img src="https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/fb300ff0-08b3-11e9-b48e-d596b0a9acb5.png" alt="FUTURE-GAZING: THE MARITIME INDUSTRY IN 2050" style="60%;"></a></td>
     <td><a href="https://www.emarineonline.com/#/news/228653270099296271" target="_blank"><span style="font-weight:bold">FUTURE-GAZING:<br>THE MARITIME INDUSTRY IN 2050</span></a></td>
   </tr>
   <tr>
@@ -20,7 +20,7 @@ name: Media Centre
 
 <table>
   <tr>
-    <td rowspan="2"><a href="https://www.emarineonline.com/#/news/252243897479069701" target="_blank"><img src="https://www.emarineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_e83ef410-88ec-11e9-94ba-cfe5b5eb586a.png" alt="Marine Online Launches World’s first “Integrated” Maritime eCommerce Platform" style="80%;"></a></td>
+    <td rowspan="2"><a href="https://www.emarineonline.com/#/news/252243897479069701" target="_blank"><img src="https://www.emarineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_e83ef410-88ec-11e9-94ba-cfe5b5eb586a.png" alt="Marine Online Launches World’s first “Integrated” Maritime eCommerce Platform" style="60%;"></a></td>
     <td><a href="https://www.emarineonline.com/#/news/252243897479069701" target="_blank"><span style="font-weight:bold">MARINE ONLINE LAUNCHES WORLD’S<br>FIRST“INTEGRATED” MARITIME ECOMMERCE PLATFORM</span></a></td>
   </tr>
   <tr>
