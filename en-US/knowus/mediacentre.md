@@ -15,3 +15,15 @@ name: Media Centre
     <td>Some experts believe that the shipping<br>industry is now entering into another such<br>period of change, as the maritime industry<br>embraces a digital transformation that will leave it fundamentally different by the middle of this century... <a href="https://www.emarineonline.com/#/news/228653270099296271" target="_blank">READ MORE</a></td>
   </tr>
 </table>
+
+### May 2019
+
+<table>
+  <tr>
+    <td rowspan="2"><a href="https://www.emarineonline.com/#/news/252243897479069701" target="_blank"><img src="https://www.emarineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_e52b52d0-88e9-11e9-94ba-cfe5b5eb586a.png" alt="Marine Online Launches World’s first “Integrated” Maritime eCommerce Platform" style="60%;"></a></td>
+    <td><a href="https://www.emarineonline.com/#/news/252243897479069701" target="_blank"><span style="font-weight:bold">MARINE ONLINE LAUNCHES WORLD’S FIRST “INTEGRATED” MARITIME ECOMMERCE PLATFORM</span></a></td>
+  </tr>
+  <tr>
+    <td>Marine Online Pte Ltd, launches the world’s first integrated maritime eCommerce platform - www.eMarineOnline.com. The platform has been designed for the highly specialized and fragmented shipping industry in mind... <a href="https://www.emarineonline.com/#/news/252243897479069701" target="_blank">READ MORE</a></td>
+  </tr>
+</table>
