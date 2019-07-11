@@ -60,7 +60,7 @@ There are six key marine tools on Marine Online:
 
 ### Member Service
 
-Marine Online has three types of membership packages to suit individual company’s needs: 
+Marine Online has two types of membership packages to suit individual company’s needs: 
 
 **Registered Member (Free):** Corporate users have registered their member accounts on Marine Online, but have not provided company authenticity certification or members who have provided documentation but have yet to pass the verification stage. Such members can only view limited information on Marine Online. Free upgrade to the verified members is recommended.
 
