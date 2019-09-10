@@ -33,7 +33,7 @@ name: Media Centre
 <table>
   <tr>
     <td rowspan="2"><a href="https://www.emarineonline.com/#/news/265164498380259337" target="_blank"><img src="https://www.emarineonline.com/api/common/r/oss?path=prod/mall/DES_IMG_93f82110-d374-11e9-98d4-536f98b6d799.png" alt="Marine Credits – Centralised Credit Facility for Maritime Industry" style="60%;"></a></td>
-    <td><a href="https://www.emarineonline.com/#/news/265164498380259337" target="_blank"><span style="font-weight:bold">MARINE CREDITS – CENTRALISED CREDIT FACILITY<br>FOR MARITIME INDUSTRY</span></a></td>
+    <td><a href="https://www.emarineonline.com/#/news/265164498380259337" target="_blank"><span style="font-weight:bold">MARINE CREDITS – CENTRALISED CREDIT FACILITY FOR MARITIME INDUSTRY</span></a></td>
   </tr>
   <tr>
     <td>Singapore based maritime eCommerce B2B platform, Marine Online (www.emarineonline.com) announced today the launch of "Marine Credits"<br>that offers a centralised credit facility between shipowners and suppliers. Also, the ingenious "Marine Credits" program ... <a href="https://www.emarineonline.com/#/news/265164498380259337" target="_blank">READ MORE</a></td>
