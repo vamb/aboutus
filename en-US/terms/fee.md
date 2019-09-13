@@ -36,15 +36,7 @@ As a supplier, you are entitled to a complimentary online store set up including
         </tr>
         <tr>
             <td>$0.5 PMT</td>
-            <td>#Applies To Each Successful Transactions For Fuel Oil.*Minimum $200/Transaction</td>
-        </tr>
-        <tr>
-            <td>$50</td>
-            <td>Applies To Each Successful Transaction From Surveyor.</td>
-        </tr>
-        <tr>
-            <td>$50</td>
-            <td>Applies To Each Successful Transaction From Quality Tester.</td>
+            <td>#Applies To Each Successful Transactions For Fuel Oil.<br>*Minimum $200/Transaction</br></td>
         </tr>
         <tr>
             <td rowspan=1>Chartering</td>
