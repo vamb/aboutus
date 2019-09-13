@@ -7,7 +7,7 @@ name: Privacy Policy
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/privacy_policy.jpg)
 
 Your Personal Data is valuable and important to us. 
-The purpose of this document ("Privacy Statement") is to inform you of how the Marine Online manages Personal Data which is subject to the Singapore Personal Data Protection Act (No. 26 of 2012) ("the Act") applies. 
+The purpose of this document ("Privacy Statement") is to inform you of how the Marine Online manages and protects the Personal Data you provided to us to which is subject to the Singapore Personal Data Protection Act (No. 26 of 2012) ("the Act") applies. 
 
 Please read this Privacy Statement so that you know and understand the purposes for which we collect, use and disclose your Personal Data.
 
@@ -33,9 +33,9 @@ ii.	when you request that we contact you, be included in an email or other maili
 
 iii.	when we receive references from business partners and third parties, for example, where you have been referred by them;
 
-iv.	when you submit your Personal Data to us for business related reason.
+iv.	when you submit your Personal Data to us for business related reason;
 
-v.	When you browse our website, you generally do so anonymously but please see the section below on cookies. Our website does not automatically collect Personal Data, including your email address unless you provide such information or login with your account credentials.
+v.	When you browse our website, you generally do so anonymously but please see the section below on cookies. Our website does not automatically collect Personal Data, including your email address unless you provide such information or login with your account credentials;
 
 vi.	when you submit any form, including but not limited to application, declaration, proposal or referral forms;
 
@@ -47,7 +47,7 @@ ix.	when you are contacted by, and respond to, our marketing representatives and
 
 x.	when we seek or receive information about you in connection with your application, registration, claims for example, from other party, marine / seafarer associations, hospitals, clinics, your ex-employer and the relevant authorities; and/or
 
-xi.	when you enter into any agreement or provide other documentation or information in respect of your interactions and transactions with us, or when you use our services;
+xi.	when you enter into any agreement or provide other documentation or information in respect of your interactions and transactions with us, or when you use our services
 
 2.2	You as a user to our platform services should ensure that all Personal Data submitted to us is complete, accurate, true and correct. If there is a change to your contact information such as your home address, email address or telephone number, company contact, please promptly update us. This ensures that you will continue to receive communications from us without disruption or delay. Failure on your part to do so may result in our inability to provide you with services you have requested.
 
@@ -87,7 +87,7 @@ xiii.	any other purposes relating to the aforesaid.
 
 i.	where account or relationship managers or agents have been assigned to service your account or portfolio, we may also use your telephone number(s) to contact you from time to time in order to take your instructions, and/or provide you with information, updates, or recommendations and/or in accordance with the terms and conditions of our agreement with you;
 
-ii.	arranging contracts of goods or agreements
+ii.	arranging contracts of goods or agreements;
 
 iii.	assessing and processing any applications or requests made by you for services offered by Marine Online platform; 
 
@@ -103,7 +103,7 @@ viii.	any other purposes relating to the aforesaid.
 
 **b.	If you submit an application or registration to us as a candidate for an employment (crewing section)**
 
-i.	processing your application including pre-recruitment checks, such as in qualifications;
+i.	processing your application including pre-recruitment checks, such as qualifications;
 
 ii.	providing or obtaining employee references and for background screening/vetting;
 
@@ -143,7 +143,7 @@ ii.	processing and payment of vendor invoices; and/or
 
 iii.	any other purpose relating to any of the above.
 
-3.3 If you are submitting an application for or purchasing a Marine Online product/services through any forms of payment gateways e.g. Paypal, Credit Cards or any other payment vendors which we may change solely on Marine Online discretion. 
+3.3 Marine Online platform collects, uses and discloses your Personal Data if you are submitting an application for or purchasing a Marine Online product/services through any forms of payment gateways e.g. Paypal, Credit Cards or any other payment vendors which we may change solely on Marine Online discretion. 
 
 3.4 In addition, where permitted under the Act, Marine Online may also collect, use and disclose your Personal Data for the following purposes (which we may describe in our documents and agreements as "Additional Purposes" for the handling of Personal Data):
 
@@ -169,7 +169,7 @@ ii.	companies providing services relating to the operations within Marine Online
 
 iii.	agents, contractors or third party service providers who provide operational services to	 Marine Online, such as courier services, telecommunications, information technology, payment, processing, training, market research, customer support investigation services or other services to Marine Online;
 
-iv.	vendors or other third party service providers in connection with products and services offered by Marine Online credit reporting agencies, including Credit Bureau (Singapore), or in the event of default or disputes, any debt collection agencies or dispute resolution centres 
+iv.	vendors or other third party service providers in connection with products and services offered by Marine Online credit reporting agencies, including Credit Bureau (Singapore), or in the event of default or disputes, any debt collection agencies or dispute resolution centres; 
 
 v.	where we require payment from you, your banks, credit card companies and their respective service providers;
 
@@ -181,7 +181,7 @@ viii.	external business in relation to corporate promotional events;
 
 ix.	our professional advisers such as our auditors and lawyers;
 
-x.	relevant government regulators or authority or law enforcement agency to comply with any laws, rules and regulations or schemes imposed by any governmental authority such as the Monetary Authority of Singapore, the Ministry of Manpower, and
+x.	relevant government regulators or authority or law enforcement agency to comply with any laws, rules and regulations or schemes imposed by any governmental authority such as the Monetary Authority of Singapore, the Ministry of Manpower; and
 
 xi.	any other party to whom you authorise us to disclose your Personal Data to. 
 
