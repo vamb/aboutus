@@ -31,8 +31,7 @@ As a supplier, you are entitled to a complimentary online store set up including
         <tr>
             <td rowspan=4>Bunker Supplies</td>
             <td>$1 PMT</td>
-            <td>#Applies To Each Successful Transactions For MGO. <br> 
-                *Minimum $200/Transaction </br></td> 
+            <td>#Applies To Each Successful Transactions For MGO. <br>*Minimum $200/Transaction </br></td> 
         </tr>
         <tr>
             <td>$0.5 PMT</td>
@@ -40,7 +39,7 @@ As a supplier, you are entitled to a complimentary online store set up including
         </tr>
         <tr>
             <td rowspan=1>Chartering</td>
-            <td>FOC</td>
+            <td>Free Of Charge</td>
             <td>Applies To Chartering Services Including Vessel Location & Information, Smart Matching for Vessel & Cargo, Logistic Tracking And More.</td>
         </tr>
         <tr>
@@ -54,21 +53,24 @@ As a supplier, you are entitled to a complimentary online store set up including
             <td>For Every Successful Manning Services Transaction.</td>
         </tr>
         <tr>
-            <td>FOC</td>
+            <td>Free Of Charge</td>
             <td>Member Service Including Both Direct And Indirect Recruitment.</td>
+        </tr>
+         <td>5%</td>
+            <td>For Every Successful Training Course Order.</td>
         </tr>
         <tr>
             <td rowspan=4>SNP</td>
-            <td>0.5%</td>
-            <td>Based On Every Successful Ship Sales' Transaction Price.</td>
+            <td>Competitive Rate</td>
+            <td>Based On Every Successful Ship Sales Transaction Price.</td>
         </tr>
         <tr>
             <td>$500</td>
             <td>For Each Comprehensive Vessel Valuation Report.</td>
         </tr>
         <tr>
-            <td>$500</td>
-            <td>For Every Successful Referred Surveyor Job.</td>
+            <td>$250</td>
+            <td>For Every Successful Referred Ship Inspection Job.</td>
         </tr>
         <tr>
             <td>$250</td>
@@ -77,14 +79,10 @@ As a supplier, you are entitled to a complimentary online store set up including
         <tr>
             <td rowspan=1>Other Marine Services</td>
             <td>5%</td>
-            <td>For Every Successful Transaction In Form Of RFQ Or Shopping Cart.</td>
+            <td>For Every Successful Transaction In Form Of Marine Watch or Marine Mall.</td>
         </tr>
     </tbody>
 </table>
-
-<i>**#Minimun $200/Transaction**</i>
-
-**FOC** - Free Of Charge
 
 If you are interested in advertising with Marine Online or wish to enquire more information, please contact us [HERE](https://aboutus.emarineonline.com/docs/connect/contactus).
 
