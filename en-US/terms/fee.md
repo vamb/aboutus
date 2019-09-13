@@ -31,8 +31,8 @@ As a supplier, you are entitled to a complimentary online store set up including
         <tr>
             <td rowspan=4>Bunker Supplies</td>
             <td>$1 PMT</td>
-            <td>#Applies To Each Successful Transactions For MGO. 
-                *Minimum $200/Transaction</td>
+            <td>#Applies To Each Successful Transactions For MGO. <br> 
+                *Minimum $200/Transaction </br></td> 
         </tr>
         <tr>
             <td>$0.5 PMT</td>
