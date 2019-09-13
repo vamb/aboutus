@@ -48,7 +48,7 @@ As a supplier, you are entitled to a complimentary online store set up including
             <td>For Every Successful Port Agent Service.</td>
         </tr>
         <tr>
-            <td rowspan=2>Crew Services</td>
+            <td rowspan=3>Crew Services</td>
             <td>$100</td>
             <td>For Every Successful Manning Services Transaction.</td>
         </tr>
