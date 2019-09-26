@@ -9,7 +9,7 @@ name: Site Map
 <table>
   <tr>
     <td><a href="https://aboutus.emarineonline.com/docs/knowus/ourservices"><b>OUR SERVICES</b></a></td>
-    <td><a href="https://www.emarineonline.com/#/service-info/chartering">1. Chartering</a><br><a href="https://www.emarineonline.com/mybusiness/#/request-quotation">2. Request for Quotation</a><br><a href="https://www.emarineonline.com/#/more-services/marine-services">3. More Services</a><br><a href="https://www.emarineonline.com/#/ship-supply/products">4. Ship Supply</a><br><a href="https://www.emarineonline.com/#/bunkering/suppliers">5. Bunkering</a><br><a href="https://www.emarineonline.com/#/crewing/seafarers">6. Crewing</a><br><a href="https://www.emarineonline.com/#/port-agency/services">7. Port Agency</a><br><a href="https://www.emarineonline.com/#/sandp/vesselSearch">8. Ship SNP</a></td>
+    <td>1. Bunkering <br>2. Chartering <br>3. Crewing <br>4. Port Agency <br>5. Ship SNP <br>6. Ship Supply <br>7. More Services <br>8. Marine Match</td>
     <td></td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@ name: Site Map
   </tr>
   <tr>
     <td><span style="font-weight:600">3. Bunkering</span></td>
-    <td>a. Bunkering<br>b. Surveyor<br>c. Oil Tester</td>
+    <td>a. Bunkering</td>
   </tr>
   <tr>
     <td><span style="font-weight:600">4. Crewing</span></td>
