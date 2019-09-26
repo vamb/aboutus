@@ -1,256 +1,225 @@
 ---
-name: Terms of Use 
+name: 使用条款 
 ---
 
-## Terms of Use
+## 使用条款
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/terms_of_use)
 
-Welcome to the [www.emarineonline.com](https://www.emarineonline.com/#/) website and/or the Marine Online mobile app. 
+欢迎登录 www.emarineonline.com 网站和/或 Marine Online 移动应用程序。
 
-**Please read these terms and conditions carefully.**
+**请仔细阅读此条款和条件。**
 
-The following Terms of Use govern your use and access of the Platform (defined below) and the use of the Services. By accessing the Platform **and/or using the Services, you agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, do not access and/or use this Platform or the Services.**
+1.1以下使用条款约束您对平台（定义如下）的使用和登录以及服务的使用。您在平台的登录与 **使用其服务即表示您同意遵守此使用条款。如果您不同意此使用条款，请勿登录和/或使用本平台或其服务。**
 
-Access to and use of password protected and/or secure areas of the Platform and/or use of the Services are restricted to Customers with accounts only. You may not obtain or attempt to obtain unauthorized access to such parts of this Platform and/or Services, or to any other protected information, through any means not intentionally made available by us for your specific use. A breach of this provision may be an offence under the Computer Misuse Act (Chapter 50A) of Singapore.
+1.2登录和使用平台的密码保护和/或安全区域和/或使用服务仅限于拥有帐户的客户。您不得未经我们为您的特定提供的任何方式获取或尝试未经授权登录本平台和/或服务的此类部分或任何其他受保护信息。根据新加坡的“电脑滥用法”（第50A章）Computer Misuse Act (Chapter 50)，违反此规定可能构成犯罪行为。
 
-**If you are below 18 years old:** you must obtain the prior consent from your parent(s) or legal guardian(s), their acceptance of these Terms of Use and their agreement to take responsibility for: (i) your actions; (ii) any charges associated with your use of any of the Services or purchase of Products; and (iii) your acceptance and compliance with these Terms of Use. **If you do not have consent from your parent(s) or legal guardian(s), you must stop using/accessing this Platform and using the Services.**
+**1.3如果您代表您的雇主或委托人使用此平台：** 您必须事先征得您的雇主或委托人的同意/授权，接受此使用条款并同意以下三项承担责任：（i）您的行为; （ii）与您使用任何服务或购买产品相关的任何费用或您向任何其他买方查询的报价; （iii）您接受并遵守此使用条款。 **如果您未获得雇主或委托人的事先同意 /授权，您必须停止使用/登录此平台并使用服务; 否则，您将对与您使用/登录本平台和服务或购买产品相关的任何费用承担个人责任/责任。**
 
-**If you are using this platform on behalf of your employer or principal:** you must obtain the prior consent/authorization from your employer or principal, their acceptance of these Terms of Use and their agreement to take responsibility for: (i) your actions; (ii) any charges associated with your use of any of the Services or purchase of Products or your quotation made to any other buyers inquires; and (iii) your acceptance and compliance with these Terms of Use. **If you do not have the prior consent/authorization from your employer or principal, you must stop using/accessing this Platform and using the Services; otherwise you will be held personally liable/responsible for any charges associated with your usage/access to this Platform and the Services or purchase of Products.**
+1.4除另有规定外，附表1所列解释的定义及条文将适用于本使用条款。
 
+**2.服务的一般使用和/或平台的登录** 
 
-Unless otherwise defined, the definitions and provisions in respect of interpretation set out in Schedule 1 will apply to these Terms of Use.
+2.1平台和/或服务使用指南：您同意遵守与使用服务和/或登录平台有关的所有指南，通知，操作规则与政策和说明，以及任何我们不时发布对上述的修正案。我们保留随时修订此指南，通知，操作规则和政策及说明的权利，并且您被视为了解并同意我们对上述内容的任何更改与约束。
 
-### 2. General use of Services and/or access of Platform
+2.2限制性活动：您同意并承诺不：
 
-2.1 Guidelines to the use of Platform and/or Services: You agree to comply with any and all the guidelines, notices, operating rules and policies and instructions pertaining to the use of the Services and/or access to the Platform, as well as any amendments to the aforementioned, issued by us, from time to time. We reserve the right to revise these guidelines, notices, operating rules and policies and instructions at any time and you are deemed to be aware of and bound by any changes to the foregoing upon their publication on the Platform.
+（a）冒充任何人或实体，或虚假陈述或以其他方式歪曲您与任何人或实体的关系;
+（b）将平台或服务用于非法目的;
+（c）试图未经授权登录或以其他方式干扰或破坏与平台或服务相连的其他电脑系统或网络;
+（d）通过平台或服务发布，宣传或传播任何禁用内容材料;
+（e）干扰他人对平台或服务的使用;
+（f）以任何方式使用或上传任何包含或您有理由怀疑包含可能损害或破坏平台数据或损坏以及干扰另一个客户的电脑或移动设备，平台以及服务的操作的病毒，破坏性组件，恶意代码或有害组件的软件或材料; 
+（g）在不符合任何连接的电子网络的使用政策，任何适用的互联网标准和任何其他适用法律的情况下，使用平台或服务。
 
-2.2 Restricted activities: You agree and undertake NOT to: 
+2.3平台和服务的登录：我们可以在不提供任何理由或事先通知的情况下，不时地升级，修改，暂停或终止提供或移除平台或任何服务的全部或部分，并且如果任何此类升级，修改，暂停或删除阻止您登录平台或服务的任何部分，则不承担任何责任。
 
-(a) impersonate any person or entity or to falsely state or otherwise misrepresent your affiliation with any person or entity;
+2.4我们非义务的保留以下监督内容的权利： -
 
-(b) use the Platform or Services for illegal purposes;
+（a）监控，筛选或以其他方式控制平台和/或其服务的任何活动，内容或材料。我们可以全权决定调查任何违反此条款的行为，并可采取其认为适当的处置;
+（b）阻止或限制任何客户登录平台和/或服务;
+（c）向有关当局报告其怀疑违反任何适用法律，法规或条例的任何活动，并与当局合作; 和/或
+（d）在任何时候要求您提供有关您使用服务和/或登录平台有关的任何信息和数据。如果您拒绝透露此类信息和/或数据或者我们有合理的理由怀疑您提供了不准确，误导性或欺诈性的信息和/或数据，我们将根据本条款强制性要求您提供其信息与数据。
 
-(&#99;) attempt to gain unauthorized access to or otherwise interfere or disrupt other computer systems or networks connected to the Platform or Services;
+2.5隐私政策：您对服务的使用和/或对平台的登录也受 https://aboutus.emarineonline.com/docs/terms/policy 中规定的隐私政策的约束。
 
-(d) post, promote or transmit through the Platform or Services any Prohibited Materials;
+2.6交易服务协议：注册账户持有人将遵守 https://aboutus.emarineonline.com/docs/terms/agreement 中规定的交易服务协议。
 
-(e) interfere with another’s utilization and enjoyment of the Platform or Services;
+2.7服务费用表：各项服务各项交易的费用将按照 https://aboutus.emarineonline.com/docs/terms/fee 中规定的服务费用表进行。
 
-(f) use or upload, in any way, any software or material that contains, or which you have reason to suspect that contains, viruses, damaging components, malicious code or harmful components which may impair or corrupt the Platform’s data or damage or interfere with the operation of another Customer’s computer or mobile device or the Platform or Services; and
+**3.服务的使用**
 
-(g) use the Platform or Services other than in conformance with the acceptable use policies of any connected computer networks, any applicable Internet standards and any other applicable laws.
+3.1本条款的适用范围：除了本使用条款外，本第3条的规定是管理您使用本平台服务的附加特定条款和条件。
 
-2.3 Availability of Platform and Services: We may, from time to time and without giving any reason or prior notice, upgrade, modify, suspend or discontinue the provision of or remove, whether in whole or in part, the Platform or any Services and shall not be liable if any such upgrade, modification, suspension or removal prevents you from accessing the Platform or any part of the Services.
+3.2限制：已注册使用本平台服务的客户必须根据任何适用法律下必仅限于法定成年人且具有签署合同的法定条件。违反本协议条款的客户以及永久或暂时被停止使用任何服务的客户即使满足本条款3.2的要求，也不得使用本平台的服务。
 
-2.4 Right, but not obligation, to monitor content: We reserve the right, but shall not be obliged to:
+3.3一般使用条款：您同意：
 
-(a) monitor, screen or otherwise control any activity, content or material on the Platform and/or through the Services. We may in our sole and absolute discretion, investigate any violation of the terms and conditions contained herein and may take any action it deems appropriate;
+（a）仅为合法目的而在任何时候以合法方式进入本平台和/或使用服务，并进一步同意与本平台服务开展信实在的交易; 和
+（b）确保您发布或导致出现在平台上与服务相关的任何信息或数据准确无误，并同意对此类信息和数据的准确性承担全部责任。
 
-(b) prevent or restrict access of any Customer to the Platform and/or the Services;
+3.4产品描述：虽然我们努力提供平台上产品的准确描述，但我们不保证此类描述的准确性。
 
-(&#99;) report any activity it suspects to be in violation of any applicable law, statute or regulation to the appropriate authorities and to co-operate with such authorities; and/or
+3.5产品价格：除非另有说明，所有平台上产品的标价均须纳税。我们保留在无需提供任何理由或事先通知的情况下随时修改平台上产品的标价的权利。
 
-(d) to request any information and data from you in connection with your use of the Services and/or access of the Platform at any time and to exercise our right under this paragraph if you refuse to divulge such information and/or data or if you provide or if we have reasonable grounds to suspect that you have provided inaccurate, misleading or fraudulent information and/or data.
+3.6第三方供应商：您承认知道Marine Online以外的其他方也在平台上列出并销售产品（即第三方供应商）。某个产品是否由Marine Online或第三方供应商在平台上销售，可在列出该产品的网页上注明。为避免疑义，客户购买第三方供应商的产品而签订的每份协议均为直接与第三方供应商订立的协议。
 
-2.5 Privacy Policy: Your use of the Services and/or access to the Platform is also subject to the Privacy Policy as set out at [https://aboutus.emarineonline.com/docs/terms/policy](https://aboutus.emarineonline.com/docs/terms/policy).
+**4.拥有Marine Online账户的客户**
 
-2.6 Transaction Service Agreement: Registered account holder will be subject to the Transaction Service Agreement as set out at [https://aboutus.emarineonline.com/docs/terms/agreement](https://aboutus.emarineonline.com/docs/terms/agreement).
+4.1用户名/密码：平台上提供的某些服务可能需要我们为您创建一个帐户或需要您提供个人数据。如果您要求我们创建帐户，用户名和密码可以是：（i）由我们确定并发给您; 或（ii）由您提供并由我们全权决定是否可以接受与本平台服务的使用和/或本平台的登录。我们可以随时在无需提供任何理由或事先通知您的情况下要求您更新您的个人数据，或立即废止使用户名和/或密码效用，，并且对由此造成的任何损失不承担任何责任。您在此同意不时更改您的密码并保持用户名和密码的机密性，并对您的帐户密码以及用户名的任何披露或使用（无论此类使用是否被您授权）负责。如果您知道或有理由怀疑您的用户名和/或密码的机密性已被泄露，或者有他人未经授权使用您的用户名和/或密码，或者您的个人数据需要更新，请立即通知我们。
 
-2.7 Service Fee Schedule: Charges to each transaction in respective to the various services will be subjected to the Service Fee Schedule set out at [https://aboutus.emarineonline.com/docs/terms/fee](https://aboutus.emarineonline.com/docs/terms/fee).
+4.2声称使用/登录：您同意并确认在平台上如果出现任何登录或服务使用的记录或出现任何与您的用户名和密码相关的任何信息，数据或通信应被视为：
 
-### 3. Use of Services 
-3.1 Application of this Clause: In addition to all other terms and conditions of these Terms of Use, the provisions in this Clause 3 are the additional specific terms and conditions governing your use of the Services.
+（a）您本人登录相关平台和/或使用其服务;或者
+（b）您本人发布，传输和发布的信息，数据或通信。
 
-3.2 Restrictions: Use of the Services is limited to authorize Customers that are of legal age and who have the legal capacity to enter into and form contracts under any applicable law. Customers who have breached or are in breach of the terms and conditions contained herein and Customers who have been permanently or temporarily suspended from use of any of the Services may not use the Services even if they satisfy the requirements of this Clause 3.2.
+您同意受任何平台登录和/或使用任何服务的条款约束（无论您是否亲自登录或使用，或授权此类登录或使用），并且您同意完全赔偿我们因使用任何平台服务和/或登录平台而导致的任何和所有损失
 
-3.3 General terms of use: You agree:
+**5.知识产权**
 
-(a) to access and/or use the Services only for lawful purposes and in a lawful manner at all times and further agree to conduct any activity relating to the Services in good faith; and
+5.1所有权：平台和其材料内容中的知识产权归我们，我们的许可方或我们的服务提供商所有，许可或控制。我们保留以法律最大权限强制执行其知识产权的权利。
 
-(b) to ensure that any information or data you post or cause to appear on the Platform in connection with the Services is accurate and agree to take sole responsibility for such information and data.
+5.2限制使用：未经我们与相关版权持有者事先书面许可的情况下，不得以任何方式复制，反向设计，反编译，反汇编，分离，更改，分发，重新发布，显示，广播，超链接，镜像，框架，传输或传输任何平台的材料或平台的任何部分，或以任何方式存储或存储在信息检索系统中或安装在任何服务器，系统或设备上。根据第5.3条的规定，只有在您不修改材料且我们或相关版权所有者保留所有版权和其他所有权的情况下，才会授予您下载，打印或使用材料用于个人和非商业用途的许可。
 
-3.4 Product description: While we endeavor to provide an accurate description of the Products, we do not warrant that such description is accurate, current or free from error.
+5.3商标：商标是我们或第三方的注册和未注册商标。在未经我们与其第三方书面许可下，本平台和本使用条款中的任何内容均（包括作为元标记或任何其他网站的“热门”链接）不可示为授予或默许商标许可权或使用权。
 
-3.5 Prices of Products: All Listing Prices are subject to taxes, unless otherwise stated. We reserve the right to amend the Listing Prices at any time without giving any reason or prior notice.
+**6.我们的责任和责任限制**
 
-3.6 Third Party Vendors: You acknowledge that parties other than Marine Online (i.e. Third Party Vendors) list and sell Products on the Platform. Whether a particular Product is listed for sale on the Platform by Marine Online or a Third Party Vendor may be stated on the webpage listing that Product. For the avoidance of doubt, each agreement entered into for the sale of a Third Party Vendor’s Products to a Customer shall be an agreement entered into directly and only between the Third Party Vendor and the Customer.
+6.1无任何陈述或保证：平台服务，本平台和其内容材料按“原样”和“可用”基础提供客户供其参考。任何类型，默示，明示或法定的陈述或保证，包括不侵犯第三方权利，所有权，适销性，满意的质量或适用于特定用途的保证，均不得与本平台，平台服务或其内容材料结合并相提并论。除此之外，我们也不保证：
 
-### 4. Customers with Marine Online accounts 
+（a）平台，平台服务或其内容材料中包含的所有数据和/或信息的准确性，及时性，充分性，商业价值或完整性;
+（b）平台，平台服务或其内容材料将不间断，安全或没有错误或遗漏的提供，或任何已识别的缺陷将得到纠正;
+（c）平台，平台服务或其内容材料不含任何电脑病毒或其他恶意，破坏性的代码，代理，程序或宏; 和
+（d）您或您通过平台或平台服务传输的任何信息的安全性，并且您接受通过服务或平台传输或接收的任何信息可能被未经授权的第三方索取和/或由我们或我们的官员，员工或代理人向声称是您或声称在您的授权下行事的第三方提供 。因特网的公共性质，因特网和电子邮件的传输可能会受到中断，传输中断，因互联网流量导致的延迟传输或不正确的数据传输。
 
-4.1 Username/Password: Certain Services that may be made available on the Platform may require creation of an account with us or for you to provide Personal Data. If you request to create an account with us, a Username and Password may either be: (i) determined and issued to you by us; or (ii) provided by you and accepted by us in our sole and absolute discretion in connection with the use of the Services and/or access to the relevant Platform. We may at any time in our sole and absolute discretion, request that you update your Personal Data or forthwith invalidate the Username and/or Password without giving any reason or prior notice and shall not be liable or responsible for any Losses suffered by or caused by you or arising out of or in connection with or by reason of such request or invalidation. You hereby agree to change your Password from time to time and to keep the Username and Password confidential and shall be responsible for the security of your account and liable for any disclosure or use (whether such use is authorized or not) of the Username and/or Password. You are to notify us immediately if you have knowledge that or have reason for suspecting that the confidentiality of the Username and/or Password has been compromised or if there has been any unauthorized use of the Username and/or Password or if your Personal Data requires updating. 
+6.2免责声明：对于因以下情况而直接或间接对您造成任何损失（无论采取何种行动），海事在线不对您负责：
 
-4.2 Purported use/access: You agree and acknowledge that any use of the Services and/or any access to the Platform and any information, data or communications referable to your Username and Password shall be deemed to be, as the case may be:
+（a）您的任何平台登录，使用和/或无法使用本平台或平台服务的行为;
+（b）您依赖通过平台和/或通过平台服务提供的任何数据或信息。未经首先独立验证其内容，您不应使用此类数据或信息采取行动;
+（c）任何系统，服务器或连接故障，错误，遗漏，中断，传输延迟，电脑病毒或其他恶意，破坏性代码，代理程序或宏; 和
+（d）对与平台相关的任何其他网站或网页的任何使用或登录
 
-(a) access to the relevant Platform and/or use of the Services by you; or
+6.3风险自负：因使用平台而产生的任何误解，错误，损坏，费用或损失风险完全由您自行承担，我们对此不承担任何责任。
 
-(b) information, data or communications posted, transmitted and validly issued by you.
+**7.超链接，警报和广告**
 
-You agree to be bound by any access of the Platform and/or use of any Services (whether such access or use are authorized by you or not) and you agree that we shall be entitled (but not obliged) to act upon, rely on or hold you solely responsible and liable in respect thereof as if the same were carried out or transmitted by you. You further agree and acknowledge that you shall be bound by and agree to fully indemnify us against any and all Losses attributable to any use of any Services and/or or access to the Platform referable to your Username and Password.
+7.1超链接：为方便起见，我们可能会包含指向第三方拥有或运营的其他网站或互联网内容的超链接。此类链接网站或内容不受我们控制，我们对内容中包含的任何错误，遗漏，延迟，诽谤，诽谤，诽谤，虚假，淫秽，色情，亵渎，不准确或任何其他令人反感的内容材料不承担任何责任，也不承担您登录任何链接网站的后果。任何其他网站或内容的任何超链接都不是对此类网站或内容的认可或验证，并且您同意您登录或使用此类链接网站或内容的风险完全由您自行承担。
 
-### 5. Intellectual property 
+7.2广告：我们可能会在平台上附加横幅，Java小程序和/或其他材料，以便宣传我们或我们的第三方供应商的产品和/或服务。为免生疑问，您无权就任何此类广告或其他宣传材料收到任何付款，费用和/或佣金。
 
-5.1 Ownership: The Intellectual Property in and to the Platform and the Materials are owned, licensed to or controlled by us, our licensors or our service providers. We reserve the right to enforce its Intellectual Property to the fullest extent of the law.
+**8.您的“提交的材料”**
 
-5.2 Restricted use: No part or parts of the Platform, or any Materials may be reproduced, reverse engineered, decompiled, disassembled, separated, altered, distributed, republished, displayed, broadcast, hyperlinked, mirrored, framed, transferred or transmitted in any manner or by any means or stored in an information retrieval system or installed on any servers, system or equipment without our prior written permission or that of the relevant copyright owners. Subject to Clause 5.3, permission will only be granted to you to download, print or use the Materials for personal and non-commercial uses, provided that you do not modify the Materials and that we or the relevant copyright owners retain all copyright and other proprietary notices contained in the Materials.
+8.1您提交的材料：您授予我们非独占许可，可以使用您提交给平台和/或提供给我们的材料或信息包括，但不限于，问题，评论，评论和建议（统称为“提交的材料”）。当您向平台发布评论或评论时，您还授予我们使用您提交的名称或您的用户名与此类评论，评论或其他内容相关的权利。您不得使用虚假的电子邮件地址，假装是您以外的其他人或以其他方式误导我们或第三方的任何提交的来源。我们可能（但没有义务）发布，删除或编辑您的提交意见书的内容。
 
-5.3 Trademarks: The Trademarks are registered and unregistered trademarks of us or third parties. Nothing on the Platform and in these Terms of Use shall be construed as granting, by implication, estoppel, or otherwise, any license or right to use (including as a meta tag or as a “hot” link to any other website) any Trademarks displayed on the Services, without our written permission or any other applicable trademark owner.
+8.2同意接收电子邮件：您同意并授权我们使用您提供的任何信息（包括个人数据），以便向您发送信息和促销电子邮件。您同意本第8.2条的规定即表示您同意任何垃圾邮件控制法（无论是在新加坡还是其他地方）的规定。您可以随后通过点击任何促销电子邮件中的相应超链接选择不接收促销电子邮件。
 
-### 6. Our limitation of responsibility and liability 
+8.3隐私政策：您承认您已阅读并同意隐私政策，网址为 https://aboutus.emarineonline.com/docs/terms/policy ，并同意我们收集，使用和披露您的个人数据以达到目的在隐私政策中。
 
-6.1 No representations or warranties: The Services, the Platform and the Materials are provided on an “as is” and “as available” basis. All data and/or information contained in the Platform, the Services or the Materials are provided for informational purposes only. No representations or warranties of any kind, implied, express or statutory, including the warranties of non-infringement of third party rights, title, merchantability, satisfactory quality or fitness for a particular purpose, are given in conjunction with the Platform, the Services or the Materials. Without prejudice to the generality of the foregoing, we do not warrant:
+**9.终止平台使用权**
 
-(a) the accuracy, timeliness, adequacy, commercial value or completeness of all data and/or information contained in the Platform, the Services or the Materials;
+9.1我们终止您使用平台：我们可以自行决定立即通知您，终止您对平台和/或平台服务的使用和/或禁用您的用户名和密码。我们可能出于任何原因禁止您登录平台和/或平台服务（或其任何部分），其原因包括您违反任何使用条款或我们认为您违反任何条款或条件，或在我们或任何监管机构的意见是我们不适合继续提供与平台相关的服务。
 
-(b) that the Platform, the Services or that any of the Materials will be provided uninterrupted, secure or free from errors or omissions, or that any identified defect will be corrected;
+9.2您终止使用平台：您可以向我们发出七天书面通知终止本使用条款。
 
-(&#99;) that the Platform, the Services or the Materials are free from any computer virus or other malicious, destructive or corrupting code, agent, program or macros; and
+**10.通知**
 
-(d) the security of any information transmitted by you or to you through the Platform or the Services, and you accept the risk that any information transmitted or received through the Services or the Platform may be accessed by unauthorized third parties and/or disclosed by us or our officers, employees or agents to third parties purporting to be you or purporting to act under your authority. Transmissions over the Internet and electronic mail may be subject to interruption, transmission blackout, delayed transmission due to internet traffic or incorrect data transmission due to the public nature of the Internet.
+10.1我们发出的通知包含在以下情况下发给您的所有通知或其他通信：
 
-6.2 Exclusion of liability: Marine Online Indemnitees shall not be liable to you for any Losses whatsoever or howsoever caused (regardless of the form of action) arising directly or indirectly in connection with:
+（a）通过我们选择的任何印刷或电子媒体传播，将被视为在发布或广播之日通知您; 
+（b）邮寄或留在您最后为人所知的地址后，将被视为您在邮寄后的第二天或留在您最后为人所知的地址当天收到。
 
-(a) any access, use and/or inability to use the Platform or the Services;
+10.2您的通知：您只能以书面形式发送到我们指定的地址或电子邮件地址通知我们，我们必须确实收到通知后才算正式收到通知。虽然我们会尽快回复您的通知，但我们无法保证始终以一致的速度回应。
 
-(b) reliance on any data or information made available through the Platform and/or through the Services. You should not act on such data or information without first independently verifying its contents;
+10.3其他模式：尽管有第10.1和10.2条的规定，我们可能不时指定其他可接受的发出通知方式（包括但不限于电子邮件或其他形式的电子通信）以及通知的时间或怎么被视为对方已被通知的事项
 
-(&#99;) any system, server or connection failure, error, omission, interruption, delay in transmission, computer virus or other malicious, destructive or corrupting code, agent program or macros; and
+**11.一般条款**
 
-(d) any use of or access to any other website or webpage linked to the Platform, even if we or our officers or agents or employees may have been advised of, or otherwise might have anticipated, the possibility of the same.
+11.1累积权利和补救措施：除非本使用条款另有规定，否则此使用条款的规定以及我们根据本使用条款享有的权利和补救措施是累积性的，并且不排除我们同时在法律上可能拥有的任何权利或补救措施。
 
-6.3 At your own risk: Any risk of misunderstanding, error, damage, expense or Losses resulting from the use of the Platform is entirely at your own risk and we shall not be liable therefor.
+11.2无弃权：我们未能执行此使用条款并不构成我们放弃对此条款的执行，也不影响以后执行此使用条款的权利。在您违反此使用条款的任何其他情况下，我们仍有权使用我们的权利和补救措施。
 
-### 7. Hyperlinks, alerts and advertising 
+11.3可分割性：如果本使用条款的任何规定在任何时候在任何方面是非法的或将成为非法，无效或不可执行，则本协议其余条款的合法性，有效性和可执行性不受到影响或损害，并且应继续有效，如同这些非法，无效或无法执行的条款从此使用条款中被切除一样。
 
-7.1 Hyperlinks: For your convenience, we may include hyperlinks to other websites or content on the Internet that are owned or operated by third parties. Such linked websites or content are not under our control and we are not liable for any errors, omissions, delays, defamation, libel, slander, falsehood, obscenity, pornography, profanity, inaccuracy or any other objectionable material contained in the contents, or the consequences of accessing, any linked website. Any hyperlinks to any other websites or content are not an endorsement or verification of such websites or content and you agree that your access to or use of such linked websites or content is entirely at your own risk.
+11.4第三方的权利：非本平台使用者，条款当事人或实体，根据Contracts (Rights of Third Parties ) Act (Chapter 53B)新加坡合同（第三方权利）法，新加坡第53B章或任何司法管辖区内的任何类似法律，无权强制执行使用条款中的任何一个，无论该人或实体是否已通过名称，类别成员或回答特定描述而被识别。为避免疑义，本条款中的任何内容均不影响本使用条款的任何许可受让人或受让人的权利。
 
-7.2 Advertising: We may attach banners, java applets and/or such other materials to the Platform for the purposes of advertising our or our Third Party Vendors’ products and/or services. For the avoidance of doubt, you shall not be entitled to receive any payment, fee and/or commission in respect of any such advertising or other promotional materials.
+11.5管辖法律：平台和/或服务的使用以及此使用条款应受新加坡法律管辖并按其解释，您在此接受新加坡法院的专属管辖权。
 
-### 8. Your submissions and information 
+11.6禁令救济：如果我们真诚地确定违约或不履行是指临时禁止令或其他立即禁令救济是唯一适当或充分的补救措施，我们可立即寻求禁令救济。
 
-8.1 Submissions by you: You grant us a non-exclusive licence to use the materials or information that you submit to the Platform and/or provide to us, including but not limited to, questions, reviews, comments, and suggestions (collectively, “Submissions”). When you post comments or reviews to the Platform, you also grant us the right to use the name that you submit or your Username in connection with such review, comment, or other content. You shall not use a false e-mail address, pretend to be someone other than yourself or otherwise mislead us or third parties as to the origin of any Submissions. We may, but shall not be obligated to, publish, remove or edit your Submissions.
+11.7修正案：我们可以通过平台或我们指定的其他通知方式（可能包括通过电子邮件通知）通知，更改此使用条款的条款和条件，此类更改生效在我们通过上述方式指定的日期。如果您在此日期之后使用平台或服务，则视为您已接受此类变更。如果您不接受变更，则必须停止登录或使用平台和服务并终止此使用条款。我们以上述方式更改此使用条款的权利无需通过任何非本使用条款的一方的任何个人或实体的同意。
 
-8.2 Consent to receive e-mails: You consent to and authorize the use by us of any information provided by you (including Personal Data) for the purposes of sending informational and promotional e-mails to you. Your agreement to the provisions of this Clause 8.2 shall constitute your consent for the purpose of the provisions of any spam control laws (whether in Singapore or elsewhere). You may subsequently opt out of receiving promotional e-mails by clicking on the appropriate hyperlink in any promotional e-mail.
+11.8错误更正：我们的任何同意书，发票或其他文件中的任何印刷，文书或其他错误或遗漏均应予以更正，但我们不承担该错误产生的任何责任。
 
-8.3 Privacy Policy: You acknowledge that you have read and agree to the Privacy Policy at [https://aboutus.emarineonline.com/docs/terms/policy](https://aboutus.emarineonline.com/docs/terms/policy) and consent to our collection, use and disclosure of your Personal Data for the purposes as set out in the Privacy Policy.
+11.9货币：本使用条款下的货币参考应以美元为单位。
 
+11.10语言：如果此使用条款以英语以外的任何语言（“外语版本”）执行或翻译，则以本使用条款的英语版本为准。
 
-### 9. Termination 
+11.11完整协议：本使用条款构成您与我们之间关于本协议标的的完整协议，并取代并完全取代之前所有与本协议标的有关的谅解，通信和协议。
 
-9.1 Termination by us: In our sole and absolute discretion, we may with immediate effect upon giving you notice, terminate your use of the Platform and/or Services and/or disable your Username and Password. We may bar access to the Platform and/or Services (or any part thereof) for any reason whatsoever, including a breach of any of these Terms of Use or where if we believe that you have violated or acted inconsistently with any terms or conditions set out herein, or if in our opinion or the opinion of any regulatory authority, it is not suitable to continue providing the services relating to the Platform.
+11.12分包和授权：我们保留委托或分包我们与平台和/或平台服务相关的任何职能的权利，并保留使用任何服务提供商，分包商和/或代理商的权利。我们认为合适的条款。
 
-9.2 Termination by you: You may terminate these Terms of Use by giving seven days’ notice in writing to us.
+11.13转让：未经我们事先书面同意，您不得转让本使用条款下的权利。我们可将此使用条款下的权利转让给任何第三方。
 
-### 10. Notices 
+11.14不可抗力：对于履行本使用条款（或其任何部分）规定的义务或平台的任何不准确，不可靠或不适合的不履行，错误，中断或延迟，我们概不负责。服务的内容，如果全部或部分直接或间接地发生在我们无法合理控制的事件或故障之外。
 
-10.1 Notices from us: All notices or other communications given to you if:
+**附表1**
+**定义和解释**
 
-(a) communicated through any print or electronic media as we may select will be deemed to be notified to you on the date of publication or broadcast; or
+1.	定义。除非上下文另有要求，否则以下表达在本使用条款中具有以下含义：
 
-(b) sent by post or left at your last known address will be deemed to be received by you on the day following such posting or on the day when it was so left.
+1.1“客户”的含义与销售条款和条件中的含义相同。
 
-10.2 Notices from you: You may only give notice to us in writing sent to our designated address or e-mail address, and we shall be deemed to have received such notice only upon receipt. While we endeavour to respond promptly to notices from you, we cannot guarantee that we will always respond with consistent speed.
+1.2“知识产权”是指所有版权，专利，实用新型，商标和服务标志，地理标志，域名，版面设计权，注册外观设计，设计权，数据库权，商业或商业名称，保护商业秘密和保密的权利信息，保护商誉和声誉的权利，以及所有其他类似或相应的所有权及其所有申请，无论是现在还是将来创建，世界上任何地方，无论是否已注册，以及所有权益，特权，权利。对任何过去，现在或将来的侵权，盗用或违反上述任何权利的行为提起诉讼，追讨损害赔偿并获得救济或其他补救措施。
 
-10.3 Other modes: Notwithstanding Clauses 10.1 and 10.2, we may from time to time designate other acceptable modes of giving notices (including but not limited to e-mail or other forms of electronic communication) and the time or event by which such notice shall be deemed given.
+1.4
 
-### 11. General 
+1.5“海上在线”，“我们”，“我们的”和“我们”是指Marine Online Pte Ltd一家根据新加坡法律注册成立的私人有限公司，注册号为201438181K，注册地址为10 Pasir Panjang Road＃16-01 / 02 Mapletree Business City Singapore 117438。
 
-11.1 Cumulative rights and remedies: Unless otherwise provided under these Terms of Use, the provisions of these Terms of Use and our rights and remedies under these Terms of Use are cumulative and are without prejudice and in addition to any rights or remedies we may have in law or in equity, and no exercise by us of any one right or remedy under these Terms of Use, or at law or in equity, shall (save to the extent, if any, provided expressly in these Terms of Use or at law or in equity) operate so as to hinder or prevent our exercise of any other such right or remedy as at law or in equity.
+1.6“平台上产品的标价”指平台上所述的向客户出售的产品的价格。
 
-11.2 No waiver: Our failure to enforce these Terms of Use shall not constitute a waiver of these terms, and such failure shall not affect the right later to enforce these Terms of Use. We would still be entitled to use our rights and remedies in any other situation where you breach these Terms of Use.
+1.7“损失”指所有罚款，损失，结算金额，成本（包括客户与律师之间产生的费用），其他费用诉讼费用，索赔，要求和其他无论是否可预测到的责任。
 
-11.3 Severability: If at any time any provision of these Terms of Use shall be or shall become illegal, invalid or unenforceable in any respect, the legality, validity and enforceability of the remaining provisions of this Agreement shall not be affected or impaired thereby, and shall continue in force as if such illegal, invalid or unenforceable provision was severed from these Terms of Use.
+1.8“内容“， ”材料”统称平台上的所有网页，包括平台上显示或提供的信息，图像，链接，声音，图形，视频，软件，应用程序和其他材料，以及提供的功能或服务。平台。
 
-11.4 Rights of third parties: A person or entity who is not a party to these Terms of Use shall have no right under the Contracts (Rights of Third Parties) Act, Chapter 53B of Singapore or any similar legislation in any jurisdiction to enforce any term of these Terms of Use, regardless of whether such person or entity has been identified by name, as a member of a class or as answering a particular description. For the avoidance of doubt, nothing in this Clause shall affect the rights of any permitted assignee or transferee of these Terms of Use.
+1.9“订单”是指您根据销售条款和条件通过平台发送的产品订单。
 
-11.5 Governing law: Use of the Platform and/or the Services and these Terms of Use shall be governed by and construed in accordance with Singapore law and you hereby submit to the exclusive jurisdiction of the Singapore courts.
+1.10“密码”是指拥有Marine Online帐户的客户可以与用户名一起使用以登录相关平台和/或服务的有效密码。
 
-11.6 Injunctive relief: We may seek immediate injunctive relief if we make a good faith determination that a breach or non-performance is such that a temporary restraining order or other immediate injunctive relief is the only appropriate or adequate remedy.
+1.11“个人数据”， 无论是否真实，是指可用于识别，联系或定位您的数据，。个人数据可以包括您的姓名，电子邮件地址，账单地址，送货地址，电话号码和信用卡信息。“个人资料”应被视为包括您在下订单时向我们提供的任何数据，无论您是否拥有我们的账户。
 
-11.7 Amendments: We may by notice through the Platform or by such other method of notification as we may designate (which may include notification by way of e-mail), vary the terms and conditions of these Terms of Use, such variation to take effect on the date we specify through the above means. If you use the Platform or the Services after such date, you are deemed to have accepted such variation. If you do not accept the variation, you must stop access or using the Platform and the Services and terminate these Terms of Use. Our right to vary these Terms of Use in the manner aforesaid will be exercised with may be exercised without the consent of any person or entity who is not a party to these Terms of Use.
+1.12“平台”是指（a）Marine Online运营和/或拥有的网站和移动版本，目前位于以下网址：www.emarineonline.com ; （b）Marine Online不时提供的移动应用程序，包括iOS和Android版本。
 
-11.8 Correction of errors: Any typographical, clerical or other error or omission in any acceptance, invoice or other document on our part shall be subject to correction without any liability on our part.
+1.13“隐私政策”是指 https://aboutus.emarineonline.com/docs/terms/policy 中规定的隐私政策。
 
-11.9 Currency: Money references under these Terms of Use shall be in US Dollars.
+1.14“产品”指可在平台上销售给客户的产品或服务（包括产品的任何部分或其任何部分）。
 
-11.10 Language: In the event that these Terms of Use is executed or translated in any language other than English (“Foreign Language Version”), the English language version of these Terms of Use shall govern and shall take precedence over the Foreign Language Version.
+1.15“禁用内容”是指任何信息，图形，照片，数据和/或任何其他内容：（a）包含任何电脑病毒或其他侵入性或破坏性的代码，程序或宏; （b）侵犯任何第三方知识产权或任何其他所有权; （c）具有诽谤，诽谤或威胁; （d）根据适用法律（包括但不限于新加坡广播事务管理局（类别牌照）通知书1996）的规定，属淫亵，色情，淫亵，伪造，欺诈，被盗，有害或其他非法行为的内容; 和/或（e）我们认为是可能冒犯和/或其他令人反感的内容。
 
-11.11 Entire agreement: These Terms of Use shall constitute the entire agreement between you and us relating to the subject matter hereof and supersedes and replaces in full all prior understandings, communications and agreements with respect to the subject matter hereof.
+1.16“服务”是指我们在平台上提供的服务，信息和功能。
 
-11.12 Binding and conclusive: You acknowledge and agree that any records (including records of any telephone conversations relating to the Services, if any) maintained by us or our service providers relating to or in connection with the Platform and Services shall be binding and conclusive on you for all purposes whatsoever and shall be conclusive evidence of any information and/or data transmitted between us and you. You hereby agree that all such records are admissible in evidence and that you shall not challenge or dispute the admissibility, reliability, accuracy or the authenticity of such records merely on the basis that such records are in electronic form or are the output of a computer system, and you hereby waive any of your rights, if any, to so object.
+1.17“提交的材料”如本使用条款第8.1条所定义。
 
-11.13 Sub-contracting and delegation: We reserve the right to delegate or sub-contract the performance of any of our functions in connection with the Platform and/or Services and reserve the right to use any service providers, subcontractors and/or agents on such terms as we deem appropriate.
+1.18“销售条款和条件”指管理客户购买产品的条款和条件，详见 https://aboutus.emarineonline.com/docs/terms/agreement 。
 
-11.14 Assignment: You may not assign your rights under these Terms of Use without our prior written consent. We may assign our rights under these Terms of Use to any third party.
+1.19“使用条款”指的是前提，第1至11条以及此条款和条件的任何附表（Schedule）。
 
-11.15 Force Majeure: We shall not be liable for non-performance, error, interruption or delay in the performance of its obligations under these Terms of Use (or any part thereof) or for any inaccuracy, unreliability or unsuitability of the Platform's and/or Services’ contents if this is due, in whole or in part, directly or indirectly to an event or failure which is beyond our reasonable control.
+1.20“商标”是指在平台上使用和显示的商标，服务标记，商品名称和徽标。
 
-### Schedule 1 
+1.21“用户名”是指唯一的登录标识email，用于标识拥有Marine Online帐户的客户。
 
-**Definitions and Interpretation**
+1.22 “您”和“您的”是指18岁以上的个人或在父母或法定监护人的监督下; 和/或18岁以上的个人，经雇主或委托人事先同意/授权并代表雇主或委托人行事。
 
-1. Definitions. Unless the context otherwise requires, the following expressions shall have the following meanings in these Terms of Use:
+**2.解释：**
 
-1.1 "Customer" has the same meaning as in the Terms & Conditions of Sale.
+2.1本使用条款中对任何法规条款的任何引用，均应解释为对在相关时间修订，重新制定或延长的条款的引用。
 
-1.2 “Intellectual Property” means all copyright, patents, utility innovations, trade marks and service marks, geographical indications, domain names, layout design rights, registered designs, design rights, database rights, trade or business names, rights protecting trade secrets and confidential information, rights protecting goodwill and reputation, and all other similar or corresponding proprietary rights and all applications for the same, whether presently existing or created in the future, anywhere in the world, whether registered or not, and all benefits, privileges, rights to sue, recover damages and obtain relief or other remedies for any past, current or future infringement, misappropriation or violation of any of the foregoing rights. 
+2.2在协议中，每当使用“包括”，“包括”或“包括”等词语时，它们将被视为后跟“无限制”字样。
 
-1.3 “Marine Online Indemnitees” means Marine Online and all of its respective officers, employees, directors, agents, contractors and assigns.
+2.3除非另有明确说明，否则所有对天数的引用均表示日历日，而“月”或“月”以及所有对月份的引用均指日历月。
 
-1.4 "Marine Online", “we”, “our” and “us” refer to Marine Online Pte. Ltd., a company incorporated pursuant to the laws of Singapore under registration number 201438181K and having its registered address at 10 Pasir Panjang Road #16-01/02 Mapletree Business City Singapore 117438. 
+2.4仅为方便起见插入了条款标题，不得影响对此使用条款的解释。
 
-1.5 “Listing Price” means the price of Products listed for sale to Customers, as stated on the Platform.
+2.5如果本使用条款中任何两个或多个条款之间存在冲突或不一致，无论此类条款是否包含在相同或不同的文件中，此类冲突或不一致应以有利于海上在线的基本原则解决。以海上在线更优惠为准。
 
-1.6 “Losses” means all penalties, losses, settlement sums, costs (including legal fees and expenses on a solicitor-client basis), charges, expenses, actions, proceedings, claims, demands and other liabilities, whether foreseeable or not.
-
-1.7 “Materials” means, collectively, all web pages on the Platform, including the information, images, links, sounds, graphics, video, software, applications and other materials displayed or made available on the Platform and the functionalities or services provided on the Platform.
-
-1.8 “Order” means your order for Products sent through the Platform in accordance with the Terms & Conditions of Sale.
-
-1.9 “Password” refers to the valid password that a Customer who has an account with Marine Online may use in conjunction with the Username to access the relevant Platform and/or Services.
-
-1.10 “Personal Data” means data, whether true or not, that can be used to identify, contact or locate you. Personal Data can include your name, e-mail address, billing address, shipping address, phone number and credit card information. “Personal Data” shall be deemed to include any data that you have provided to us when placing an Order, regardless of whether you have an account with us.
-
-1.11 “Platform” means (a) both the web and mobile versions of the website operated and/or owned by Marine Online which is presently located at the following URL: [www.emarineonline.com](https://www.emarineonline.com/#/); and (b) the mobile applications made available from time to time by Marine Online, including the iOS and Android versions.
-
-1.12 “Privacy Policy” means the privacy policy set out at [https://aboutus.emarineonline.com/docs/terms/policy](https://aboutus.emarineonline.com/docs/terms/policy).
-
-1.13 “Product” means a product or service (including any installment of the product or any parts thereof) available for sale to Customers on the Platform.
-
-1.14 “Prohibited Material” means any information, graphics, photographs, data and/or any other material that:
-(a) contains any computer virus or other invasive or damaging code, program or macro;
-(b) infringes any third-party Intellectual Property or any other proprietary rights;
-(&#99;) is defamatory, libellous or threatening;
-(d) is obscene, pornographic, indecent, counterfeited, fraudulent, stolen, harmful or otherwise illegal under the applicable law (including without limitation the provisions of the Singapore Broadcasting Authority (Class Licence) Notification 1996); and/or
-(e) is or may be construed as offensive and/or otherwise objectionable, in our sole opinion.
-
-1.15 “Services” means services, information and functions made available by us at the Platform.
-
-1.16 “Submission” is as defined in Clause 8.1 of these Terms of Use.
-
-1.17 “Terms & Conditions of Sale” means the terms and conditions governing a Customer’s purchase of the Products and are set out at [https://aboutus.emarineonline.com/docs/terms/agreement](https://aboutus.emarineonline.com/docs/terms/agreement).
-
-1.18 “Terms of Use” means the recitals, Clauses 1 to 11 and any Schedules to these terms and conditions.
-
-1.19 “Trademarks” means the trademarks, service marks, trade names and logos used and displayed on the Platform.
-
-1.20 “Username” refers to the unique login identification name or code which identifies a Customer who has an account with Marine Online.
-
-1.21 “Voucher” means a voucher for credit which may be used by a Customer, subject to other terms and conditions, towards the payment of purchases on the Platform.
-
-1.22 “you” and “your” refer to the individuals over the age of 18 or otherwise under the supervision of a parent or legal guardian; and/or the individuals over the age of 18 acting with the prior consent/authorization from and acting for and on behalf of an employer or principal.
-
-### 2. Interpretation: 
-
-2.1 Any reference in these Terms of Use to any provision of a statute shall be construed as a reference to that provision as amended, re-enacted or extended at the relevant time. 
-
-2.2 In the Agreement, whenever the words “include”, “includes” or “including” are used, they will be deemed to be followed by the words “without limitation”. 
-
-2.3 Unless expressly indicated otherwise, all references to a number of days mean calendar days, and the words “month” or “monthly” as well as all references to a number of months means calendar months. 
-
-2.4 Clause headings are inserted for convenience only and shall not affect the interpretation of these Terms of Use. 
-
-2.5 In the event of a conflict or inconsistency between any two or more provisions under these Terms of Use, whether such provisions are contained in the same or different documents, such conflict or inconsistency shall be resolved in favour of Marine Online and the provision which is more favourable to Marine Online shall prevail.
-
- [Back to Top](tnc#)
+ [回到顶部](tnc#)
  
