@@ -1,69 +1,71 @@
 ---
-name: Our Services
+name: 我们的服务
 ---
 
-## Our Services
+## 我们的服务
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/our_services.jpg)
 
-The Marine Online Platform is developed by a team of experienced maritime professionals who understand the fundamentals of the maritime business and how to digitalize the business processes of shipowners. To drive the maritime industry towards a more efficient, transparent and economical global system, Marine Online platform was developed. Marine Online offers 7 major maritime services: 
+海运在线平台由经验丰富的航运专业团队开发，他们深知航运业务运营规则及规律，也了解如何将船东的业务流程数字化。为了推动海运业向更高效、透明、利益最大化及全球化发展，我们开发了海运在线平台。目前该平台提供以下海事服务： 
 
-[Chartering](#chartering) | [Port Agency](#port-agency) | [Bunkering](#bunkering) | [Ship Supply](#ship-supply) | [Crewing](#crewing) | [Marine Insurance](#marine-insurance) | [Ship Sale and Purchase](#ship-sale-and-purchase) | [Marine News](#marine-news) | [Marine Tools](#marine-tools) | [Member Service](#member-service)
+[租船](#租船) | [港口代理](#港口代理) | [船舶供油](#船舶供油) | [船舶供应](#船舶供应) | [船员劳务](#船员劳务) | [海事保险](#海事保险) | [船舶买卖](#船舶买卖) | [行业新闻](#行业新闻) | [海运工具](#海运工具) | [会员服务](#会员服务)
 
-### Chartering
+### 租船
 
-Inspired by the ride-hailing service model, Marine Online chartering platform introduces the smart search and match of suitable offers.  Push notifications will be sent when a matching offer becomes available. By simply publishing cargo information on Marine Online, our platform’s algorithm can provide an intelligent analysis of available vessels with the best match. Marine Online facilitates ease of direct communication online for both parties and negotiation on offers is made effortless. Equipped with supply/demand visualization of the market and having communication history saved in the cloud storage together with freight market transparency significantly improves the efficiency of finding cargoes and the utilization rate of the vessel.  [Back to Top](ourservices#)
+受到“智能出行”服务模式的启发，海运在线租船平台引入了智能搜索和自动匹配功能。当供需双方配对成功时，将自动向用户推送通知。用户可便捷的通过在海运在线发布货盘信息，平台基于先进的算法通过智能分析可以匹配最适合的船盘。海运在线支持双方直接在线沟通，方便双方进行交易谈判。通过供需双方信息可视化、云存储、历史沟通信息可查询提高租船交易透明度，提高货主运营效率，提升船舶利用率。  [回到顶部](我们的服务#)
 
-### Port Agency
-Shipowners are able to find a list of port agency companies handpicked by the platform to provide relevant port services with competitive rates in the shortest time eliminating unnecessary waiting time from middlemen or external third party services. There are more than 400 port agency companies on Marine Online, categorized by their port location and respective services. By simply filling up a simple enquiry form a shipowner can easily find a suitable agency at the port of his choice and receive multiple quotations from agencies from that port. The shipowner can then select the ideal port agency company according to the costs, payment terms and the company profile Marine Online also allows shipowners to add their preferred agencies on to Marine Online platform.  [Back to Top](ourservices#)
+### 港口代理
 
-### Bunkering
+平台向船东提供优质港口代理服务商名单，便于船东在最短的时间择优选择最适合的港口代理服务，从而绕过中间商，节省不必要等待时间。海运在线平台目前有400多家港口代理公司，并根据其港口位置及服务品类进行精准排列。用户通过便捷地填写查询表单，船东可以在他选择的港口轻松找到合适的代理商，并从该港口的代理商处接收多个报价单。然后，船东可以根据费用、付款条件和公司简介选择理想的港口代理公司。海运在线还允许船东将其首选代理商添加到海运在线平台。  [回到顶部](我们的服务#)
 
-Fuel cost is one of the most important considerations for shipowners and charterers. Marine Online allows our customer to conveniently find quality suppliers at lower price sets. We have partnered with various fuel suppliers in major bunkering ports around the world to provide bunkering services to shipowners 24/7. Shipowners just need to state their voyage plan and bunkering demand on Marine Online platform and quotations will be sent in the shortest possible time. Shipowners can choose the most suitable suppliers according to the fuel price, payment terms, supplier strength, and other factors before placing orders.  [Back to Top](ourservices#)
+### 船舶供油
 
-### Ship Supply
+燃油成本是船东和租家最为看重的因素之一。海运在线允许用户快捷的选择质优价廉的供应商。我们已经与世界各地主要港口的燃料供应商合作，以便为船东提供供油服务。船东只需要在海运在线平台上陈述他们的航行计划和加油需求，并在最短的时间内发送报价即可。在下订单之前，船东可以根据燃料价格、付款条件、供应商资质及其他相关因素选择最合适的供应商。    [回到顶部](我们的服务#)
 
-Providing spare parts, provisions, lubricants, food and other marine supplies for vessels is one of the most important components of ship management, and it is also the most time-consuming and labor-intensive step. In the traditional order process, shipowners have to spend time monitoring and pay a high cost to ensure smooth delivery. Recognizing the traditional inefficiency Marine Online came up with a ship supply solution based on the e-commerce model. Some of the major manufacturers of spare parts, ship stores, and lubricants from various parts of the world have opened their online store on Marine Online platform. Some of the products are sold directly from Marine Online, while other products are sold directly by the manufacturers. It minimizes the intermediate links and improves efficiency and reduces costs. In order to solve the problem of logistics and delivery, Marine Online cooperates with internationally renowned logistics companies and the shipping networks of various ports to provide comprehensive services such as warehousing, customs declaration, and distribution to ensure the accurate and timely delivery of products. Shipowners can either directly search for products or add into the shopping cart to purchase or send an enquiry directly to ship suppliers for quotation, and then choose from several quotes based on factors such as price, payment terms, supplier rating, etc. to make the deal. After the transaction is completed, shipowners can rate and comment on the supplier’s product quality, quality of service and distribution efficiency to create a more realistic and high-quality service system.  [Back to Top](ourservices#)
+### 船舶供应
 
-### Crewing
+为船舶提供备件、设备、润滑油、食品及其他船舶用品是船舶管理中最重要的组成部分之一，也是最耗费人力物力的工作之一。在传统的订单处理过程中，船东必须花时间对此工作进行严格监管并支付高额费用以确保顺利交付。认识到传统运营模式的低效率、高成本的缺点后，海运在线提出了基于电子商务模式的船舶供应解决方案。目前，来自世界各地的一些主要零配件，船舶商店和润滑油制造商已经在海运在线平台上开设了他们的在线商店。部分产品直接从海运在线销售，而其他产品则由制造商直接销售。这最大限度地减少了中间环节，提高了效率并降低了成本。为解决物流配送问题，海运在线与国际知名物流公司及各港口航运网络合作，提供仓储、报关、配送等综合服务，确保产品准确及时交付。船东可以直接搜索产品并将其添加到购物车中直接购买，也可以向船舶供应商询盘，然后根据价格、付款条件、供应商评级等因素，从多个报价中进行选择，以最终达成交易。交易完成后，船东可以对供应商的产品或服务质量进行评级和评论，以促进产品及服务的改进。  [回到顶部](我们的服务#)
 
-Crew members play a vital role in the actual management and operation of the ship thus ensuring time and cost-efficient recruitment of qualified crew becomes one of the most important functions of ship management. Marine Online has provided two specialized services for crew recruitment and crew training. There are more than 130,000 crew profiles on Marine Online platform. Shipowners can choose to contact the crew directly (*T&C Applies) or choose from hundreds of manning agencies that have an online presence on Marine Online platform. Should a shipowner decide to choose the manning agencies’ service, they only need to fill up a request for quotation ( RFQ )  form and Marine Online will organize qualified agencies to propose a centralized quotation based on factors such as type of vessels, number of seafarers, length of contract and annual crew budget proposal. There are various maritime training courses listed on the Marine Online platform which are published by hundreds of crew training centers worldwide. Selection of training courses and request of quotation and making course reservation is convenient and effortless on Marine Online platform.  [Back to Top](ourservices#)
+### 船员劳务
 
-### Marine Insurance
+船员管理在船舶的实际管理和运营中发挥着至关重要的作用，因此，确保高效率招录合格船员成为船舶管理最重要的职能之一。海运在线为船员招募和船员培训提供了两项专业服务。目前，海运在线平台上有超过130,000个船员档案。船东可以选择直接联系工作人员（* 服务条款适用），也可以选择在海运在线平台上的代理商。如果船东决定选择与代理机构合作，他们只需要填写报价请求（RFQ）表格，海运在线将组织合格的机构根据船舶类型，海员数量等因素提出集中报价。海运在线平台上列出了各种海事培训课程，来自全球数百个船员培训中心。在线海上平台上选择培训课程，可以快捷的完成报价和课程预约。  [回到顶部](我们的服务#)
 
-In order to meet the diversified maritime insurance needs and various insurance scenarios, Marine Online has collaborated with the world’s leading marine insurance companies to provide you with personalized insurance services based on the e-commerce model. Marine Online develops standardized insurance products based on online transaction with leading insurance companies. Marine Online allows purchasing of cargo insurance during fixture in chartering module with just one click; For vessel-related insurance which can be provided on a “case by case” basis, Marine Online also provide the smart matching model of “one enquiry, multiple quotations” allowing shipowners to find the best insurer for their needs.  [Back to Top](ourservices#)
+### 海事保险
 
-### Ship Sale and Purchase
+为了满足多元化的海事保险需求，海运在线与世界领先的海事保险公司合作，为您提供基于电子商务模式的个性化保险服务。海运在线允许在租船过程中购买货物保险，只需点击一下; 对于可以“逐案”提供的船舶相关保险，海运在线还提供“一次查询，多次报价”的智能匹配模式，允许船东找到满足其需求的最佳保险公司。  [回到顶部](我们的服务#)
 
-The Ship Sale and Purchase service on Marine Online platform are supported by our team of professionals in this field to provide accurate valuation should you require to sell ships or purchase one.
-Marine Online also provides different online trading services to meet your needs. Being the largest e-commerce service platform for ships and shipowners, you can easily find the right match for your needs in the shortest possible time; Marine Online boasts a large network of ship inspection agencies, port agents, suppliers of different fields, ship financing institutions, maritime lawyers and other service providers thus enabling us to provide a one-stop service for your ship trading needs. With Marine Online ship sale and purchase, we charge 50% lower transaction fee compared to market price, further reducing your transaction costs.  [Back to Top](ourservices#)
+### 船舶买卖
 
-### Marine News
+海运在线平台上的船舶买卖服务由我们的专业团队提供，将为您的船舶买卖提供准确的估价。海运在线还提供不同的在线交易服务以满足您的需求。作为船舶和船东最大的电子商务服务平台，您可以在最短的时间内轻松找到最适合您的需求的船舶或买家; 海运在线拥有庞大的船舶检验机构、港口代理商、不同领域的供应商、船舶融资机构、海事律师和其他服务提供商网络，从而使我们能够为您的船舶交易需求提供一站式服务。通过海运在线船舶销售和购买，我们收取的交易费用比市场价格低50％，进一步降低了您的交易成本。   [回到顶部](我们的服务#)
 
-Our professional market analysis team provides our users with the most up-to-date maritime news and real market information by collecting key industry news and hot topics around the world on a daily basis Marine Online, as an important trading hub in the industry, will also provide companies with branding promotion, new product/service release, company major event report, media support for exhibition activities, etc., further contributing and supporting the growth of Maritime industry as a whole.  [Back to Top](ourservices#)
+### 行业新闻
 
-### Marine Tools
+我们的专业市场分析团队每天通过收集世界各地的重要行业新闻和热门话题为我们的用户提供最新的行业新闻和及时的市场信息。作为行业信息集散地，海运在线将同时为企业提供品牌推广、新产品/服务发布、公司重大活动报告、展会活动媒体支持等，进一步促进和支持整个海运业的发展。  [回到顶部](我们的服务#)
 
-There are six key marine tools on Marine Online: 
+### 海运工具
 
-1. Vessel Search: Enquiry for 100,000+ commercial vessels’ basic information (ship’s particulars), real-time position tracking worldwide.
+海运在线提供六大海运工具：
 
-2. Port Search: Enquire about the port guides, berth information, port agents, etc. of about 3,000 ports around the world.
+1.	船舶搜索：查询100,000多艘商船的基本信息（船舶详情），全球实时位置跟踪。
 
-3. Distance Calculator: Estimate the distance between world’s main ports and voyage duration.
+2.	港口搜索：查询全球约3,000个港口的港口指南、泊位信息、港口代理等。
 
-4. Port Cost Calculator: Estimate the comprehensive cost of port charges in advance.
+3.	港口里程估算：对世界主要港口间航程及航行时间进行估算。
 
-5. Voyage Estimator: Calculate the profit of a single voyage based on the conditions of the rental fee, fuel consumption, and agent fee.
+4.	港口费估算：对港口费进行估算。
 
-6. Vessel Valuator: Calculate the current transaction price and future estimated price for the vessel based on broad data of the market transaction.  [Back to Top](ourservices#)
+5.	航程估算：根据租船费、燃油成本及港口代理费估算单次航程的利润。
 
-### Member Service
+6.	船舶估价：根据市场交易的大数据计算船舶的当前交易价格或未来交易价格。 
 
-Marine Online has two types of membership packages to suit individual company’s needs: 
+  [回到顶部](我们的服务#)
 
-**Registered Member (Free):** Corporate users have registered their member accounts on Marine Online, but have not provided company authenticity certification or members who have provided documentation but have yet to pass the verification stage. Such members can only view limited information on Marine Online. Free upgrade to the verified members is recommended.
+### 会员服务
 
-**Verified Member (Free):** This membership category is for members who have provided their company’s business license and other documents to Marine Online and passed the authenticity verification. Such members can then set up an online store, publish their products, issue enquiry or quotation, and secure deals through our platform.
+海运在线有两种类型的会员套餐，以满足各公司的需求：
 
-[Back to Top](ourservices#)
+**注册会员（免费）：** 公司用户已在海运在线注册其会员帐户，但未提供公司真实性认证或已提供文档但尚未通过验证阶段的会员。此类会员只能查看有关海运在线的有限信息。建议免费升级到验证会员。
+
+**验证会员（免费）：** 此会员类别适用于向海运在线提供其公司营业执照和其他文件并通过真实性验证的会员。然后，这些成员可以建立在线商店，发布他们的产品，发布询问或报价，并通过我们的平台获得交易。
+
+ [回到顶部](我们的服务#)
