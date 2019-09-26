@@ -1,94 +1,93 @@
 ---
-name: Service Fee Schedule
+name: 平台服务费
 ---
 
-## Service Fee Schedule
+## 平台服务费
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/90cb2f40-fc48-11e8-b129-0b5b40cbbba3.jpg)
 
-### No Transaction, No Fee 
+### 若无交易，不收费用 
 
-As a shipowner/ship management company, you are exempted from paying any service fee to the platform for a third party transaction.
+作为船东/船舶管理公司，在平台与第三方交易可以免于向平台支付任何服务费。
 
-As a supplier, you are entitled to a complimentary online store set up including displaying of products and services on the platform until you get an order online, you are only required to pay a small percentage of Transaction Service Fee based on the total transaction amount.
+作为供应商，您可以在平台上免费开设在线商铺，并在平台上显示您商铺中的产品和服务。当您获得线上订单后，您只需要根据总交易金额支付一小部分作为平台服务费。
 
-**The transaction fee schedule as follows:**
+**交易费用表如下：**
 
 <table>
     <thead>
         <tr>
-           <th>SERVICE</th>
-           <th>RATE(USD)</th>
-           <th>REMARK</th> 
+           <th>服务</th>
+           <th>服务费（美元）</th>
+           <th>备注</th> 
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=1>Ship Supplies</td>
+            <td rowspan=1>船舶供应</td>
             <td>3%</td>
-            <td>Applies To Every Successful Purchasing Transaction Including Spare Parts, Marine Store, Lubricant Oil, Provision And Services.</td>
+            <td>适用于每笔成功的采购交易，包括备件，船用物料，润滑油，伙食和其他服务。
+</td>
         </tr>
         <tr>
-            <td rowspan=2>Bunker Supplies</td>
-            <td>$1 PMT</td>
-            <td>#Applies To Each Successful Transactions For MGO. <br>*Minimum $200/Transaction </br></td> 
+            <td rowspan=2>船舶供油</td>
+            <td>$1 / 吨</td>
+            <td>#适用于每笔成功的轻柴油交易。<br>*每笔交易最低收取200美元服务费</br></td> 
         </tr>
         <tr>
-            <td>$0.5 PMT</td>
-            <td>#Applies To Each Successful Transaction For IFO 180 and IFO 380.<br>*Minimum $200/Transaction</br></td>
+            <td>$0.5 / 吨</td>
+            <td>#适用于每笔成功的180#和380#燃料油交易。<br>*每笔交易最低收取200美元服务费</br></td>
         </tr>
         <tr>
-            <td rowspan=1>Chartering</td>
-            <td>Free Of Charge</td>
-            <td>Applies To Chartering Services Including Vessel Location & Information, Smart Matching for Vessel & Cargo, Logistic Tracking And More.</td>
+            <td rowspan=1>租船</td>
+            <td>免费</td>
+            <td>适用于租船服务，包括船舶位置和信息查询，船舶和货物的智能匹配，物流跟踪等。
+</td>
         </tr>
         <tr>
-            <td rowspan=1>Port Agency</td>
+            <td rowspan=1>港口代理</td>
             <td>$50</td>
-            <td>For Every Successful Port Agent Service.</td>
+            <td>适用于每笔成功的港口代理服务交易。</td>
         </tr>
         <tr>
-            <td rowspan=3>Crew Services</td>
+            <td rowspan=2>船员服务</td>
             <td>$100</td>
-            <td>For Every Successful Manning Services Transaction.</td>
+            <td>适用于每笔成功的船员劳务服务交易。</td>
         </tr>
         <tr>
-            <td>Free Of Charge</td>
-            <td>Member Service Including Both Direct And Indirect Recruitment.</td>
-        </tr>
-         <td>5%</td>
-            <td>For Every Successful Training Course Order.</td>
+            <td>免费</td>
+            <td>会员服务，包括直接招聘和间接招聘。</td>
         </tr>
         <tr>
-            <td rowspan=4>SNP</td>
-            <td>Competitive Rate</td>
-            <td>Based On Every Successful Ship Sales Transaction Price.</td>
+            <td rowspan=4>船舶买卖</td>
+            <td>费率更优</td>
+            <td>基于成交的船舶交易价格。</td>
         </tr>
         <tr>
             <td>$500</td>
-            <td>For Each Comprehensive Vessel Valuation Report.</td>
+            <td>每份综合船舶估价报告。</td>
         </tr>
         <tr>
             <td>$250</td>
-            <td>For Every Successful Referred Ship Inspection Job.</td>
+            <td>适用于每个由我们成功介绍的船舶检验服务。</td>
         </tr>
         <tr>
             <td>$250</td>
-            <td>For Every Successful Referred Underwater Inspection.</td>
+            <td>适用于每个由我们成功介绍的水下检测服务。</td>
         </tr>
         <tr>
-            <td rowspan=1>Other Marine Services</td>
+            <td rowspan=1>其他海事服务</td>
             <td>5%</td>
-            <td>For Every Successful Transaction In Form Of Marine Watch or Marine Mall.</td>
+            <td>适用于以询价单或海运商城模式进行的每笔成功交易。</td>
         </tr>
     </tbody>
 </table>
 
-If you are interested in advertising with Marine Online or wish to enquire more information, please contact us [HERE](https://aboutus.emarineonline.com/docs/connect/contactus).
+如果您有兴趣与向海运在线投放广告或想查询更多信息，请点击 [这里](https://aboutus.emarineonline.com/docs/connect/contactus).联系我们。
 
-Transaction Fee information is for reference only and is valid until 31st Dec 2019. <i>*T&C Apply.</i>
+交易费用信息仅供参考，有效期至2019年12月31日。* 请查阅服务协议。
 
-**T&C:** Marine Online (“Marine Online Pte Ltd”) reserves the right to amend the service details and transaction fee/rate according to economic conditions/behavior. Please refer to [Terms of Use](https://aboutus.emarineonline.com/docs/terms/tnc) and other types of the agreement acknowledged by you and Marine Online for details of the specific tariff.
+**服务协议：** Marine Online（“Marine Online Pte Ltd”）保留根据经济条件/行为修改服务细节和交易费用/费率的权利。有关特定关税的详细信息，请参阅您所同意遵守的Marine Online [服务使用条款](https://aboutus.emarineonline.com/docs/terms/tnc)和其他类型的协议。
 
- [Back to Top](fee#)
+ [回到顶部](平台服务费#)
  
