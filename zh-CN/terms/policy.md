@@ -1,238 +1,236 @@
 ---
-name: Privacy Policy 
+name: 隐私政策
 ---
 
-## Privacy Policy 
+## 隐私政策
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/privacy_policy.jpg)
 
+您的个人 数据对我们而言非常珍贵且需要保护。本文件（“隐私声明”）的目的是告知您海运在线如何管理与根据新加坡“个人数据保护法”（2012年第26号）（“法案”）安定法规保护您所提供给我们的个人数据。
 
-Your Personal Data is valuable and important to us. 
-The purpose of this document ("Privacy Statement") is to inform you of how the Marine Online manages and protects the Personal Data you provided to us to which is subject to the Singapore Personal Data Protection Act (No. 26 of 2012) ("the Act") applies. 
+请您阅读本隐私声明，以便知晓并理解我们收集，使用和披露您的个人数据的目的。
 
-Please read this Privacy Statement so that you know and understand the purposes for which we collect, use and disclose your Personal Data.
+通过与我们互动，您向我们提交的信息，注册我们提供的服务，您同意Marine Online（包括及其各自的相关公司）（统称“公司”），以及他们各自的代表和/或代理人（“代表”）（公司和代表在此统称为“海运在线”，“我们”或“我们的”）收集、使用、披露和共享您的个人资料，并以本隐私声明中规定的方式向公司的授权服务提供商和相关第三方披露此类个人数据。
 
-By interacting with us, submitting information to us, enrolling or signing up for services offered by us, you agree and consent to the Marine Online (including and their respective related corporations) (collectively, the "Companies"), as well as their respective representatives and/or agents ("Representatives") (the Companies and Representatives collectively referred to herein as " Marine Online ", "us", "we" or "our") collecting, using, disclosing and sharing amongst themselves your Personal Data, and disclosing such Personal Data to the Companies' authorised service providers and relevant third parties in the manner set forth in this Privacy Statement.
+本隐私政策与您目前给予Marine Online收集或使用或透露您的个人数据，只有补充但并不取代您之前给与Marine Online类似的同意，并且您目前的同意是对任何公司可能依法收取的任何权利的补充，使用或披露您的个人资料。
 
-This Privacy Policy supplements but does not supersede nor replace any other consent you may have previously provided to Marine Online in respect of your Personal Data, and your consents herein are additional to any rights which to any of the Companies may have at law to collect, use or disclose your Personal Data.
+Marine Online可能不时更新本隐私声明，以确保本隐私声明符合我们未来的发展，行业趋势和/或法律或法规要求的任何变化。根据您的法律权利，您同意受我们网站 https://aboutus.emarineonline.com/docs/terms/policy 不时更新的本隐私声明的现行条款的约束。请定期查看有关处理您的个人数据的最新信息。
 
-Marine Online may from time to time update this Privacy Statement to ensure that this Privacy Statement is consistent with our future developments, industry trends and/or any changes in legal or regulatory requirements. Subject to your rights at law, you agree to be bound by the prevailing terms of this Privacy Statement as updated from time to time on our website https://aboutus.emarineonline.com/docs/terms/policy. Please check back regularly for updated information on the handling of your Personal Data.
+### 1.  个人资料
 
-### 1.  Personal Data
+在本隐私声明中，“个人数据”是指（a） 任何可以直接识别出个人身份的任何数据，无论该数据是否真实; 或（b）从该组织拥有或可能有权拥有的数据和其他信息，包括我们记录中可能不时更新的数据。
 
-In this Privacy Statement, "Personal Data" refers to any data, whether true or not, about an individual who can be identified (a) from that data; or (b) from that data and other information to which the organisation has or is likely to have access, including data in our records as may be updated from time to time.
+您可能向我们提供的此类个人数据的示例包括（取决于您与我们互动的性质）您的姓名，身份证，护照或其他身份证号码，电话号码，邮寄地址，电子邮件地址，交易数据和任何您以任何形式或其他形式的互动向我们提交的其他个人信息（包括以生物识别数据的形式）。
 
-Examples of such Personal Data you may provide to us include (depending on the nature of your interaction with us) your name, NRIC, passport or other identification number, telephone number(s), mailing address, email address, transactional data and any other information relating to any individuals which you have provided us in any forms you may have submitted to us, (including in the form of biometric data), or via other forms of interaction with you.
+### 2.  个人资料的收集
 
-### 2.  Collection of Personal Data
+2.1	一般来说，我们通过以下方式收集个人数据：
 
-2.1	Generally, we collect Personal Data in the following ways:
+一。当您使用我们的电子服务，或通过网站与我们互动或使用我们网站上的服务时;
 
-i.	when you use our electronic services, or interact with us via websites or use services on our websites;
+二。当您要求我们与您联系时，或将您设定为电子邮件或其他邮件列表中的收件人; 或当您回复我们对您的额外个人数据请求，我们的促销活动和其他举措时;
 
-ii.	when you request that we contact you, be included in an email or other mailing list; or when you respond to our request for additional Personal Data, our promotions and other initiatives;
+三。当我们收到商业伙伴和第三方对您的推荐信息时;
 
-iii.	when we receive references from business partners and third parties, for example, where you have been referred by them;
+四。当您出于业务相关原因向我们提交您的个人数据时；
 
-iv.	when you submit your Personal Data to us for business related reason;
+五。当您浏览我们的网站时，您通常是匿名的，但请参阅以下有关cookie的部分。我们的网站不会自动收集个人数据，包括您的电子邮件地址，除非您提供此类信息或使用您的帐户凭据登录。
 
-v.	When you browse our website, you generally do so anonymously but please see the section below on cookies. Our website does not automatically collect Personal Data, including your email address unless you provide such information or login with your account credentials;
+六。当您提交给我们任何表格，包括但不限于申请，声明，提案或推荐表格;
 
-vi.	when you submit any form, including but not limited to application, declaration, proposal or referral forms;
+七。当您使用我们通过在线和其他技术平台提供的一些服务时，例如。网站和应用程序，包括当您与我们建立任何在线帐户;
 
-vii.	when you use some of our services provided through online and other technology platforms, eg. websites and apps including when you establish any online accounts with us;
+八。当您与我们的员工（包括客户服务人员，客户关系经理和其他代表）进行互动时，例如通过电话（可能被记录），信件，面对面会议，数字平台（包括社交媒体）和电子邮件;
 
-viii.	when you interact with our staff, including customer service officers, relationship managers and other representatives, for e.g. via telephone calls (which may be recorded), letters, face-to-face meetings, digital platforms (including social media) and email;
+九。当您与我们的营销代表，代理商和其他服务提供商联系并做出回应时;
 
-ix.	when you are contacted by, and respond to, our marketing representatives and agents and other service providers;
+十。当我们寻求或接收与您的申请，注册，索赔相关的信息，例如来自其他方，海洋/海员协会，医院，诊所，您的前雇主和相关机构等等; 和/或
 
-x.	when we seek or receive information about you in connection with your application, registration, claims for example, from other party, marine / seafarer associations, hospitals, clinics, your ex-employer and the relevant authorities; and/or
+十一。当您就与我们的交互和交易订立任何协议或提供其他文件或信息时，或当您使用我们的服务时。
 
-xi.	when you enter into any agreement or provide other documentation or information in respect of your interactions and transactions with us, or when you use our services
+2.2作为我们平台服务的用户，您应确保提交给我们的所有个人数据完整，准确，真实和正确。如果您的联系信息有变更，如您的家庭住址，电子邮件地址或电话号码，公司联系方式，请及时通知我们。这可确保您继续无中断或延迟的接收我们的通信。如果您不这样做可能导致我们无法为您提供您所要求的服务。
 
-2.2	You as a user to our platform services should ensure that all Personal Data submitted to us is complete, accurate, true and correct. If there is a change to your contact information such as your home address, email address or telephone number, company contact, please promptly update us. This ensures that you will continue to receive communications from us without disruption or delay. Failure on your part to do so may result in our inability to provide you with services you have requested.
+### 3. 收集，使用和披露您的个人数据的目的
 
-### 3. Purposes for the Collection, Use and Disclosure of Your Personal Data
+3.1一般而言，Marine Online会出于以下目的收集，使用和披露您的个人数据：
 
-3.1	Generally, Marine Online collects, uses and discloses your Personal Data for the following purposes:
+一。回复，处理您的查询，投诉，反馈，建议和要求;
 
-i.	responding to, processing and handling your queries, complaints, feedback, suggestions and requests;
+二。验证你的身份;
 
-ii.	verifying your identity;
+三。管理公司的行政和业务运作，并遵守内部政策和程序;
 
-iii.	managing the administrative and business operations of the Companies and complying with internal policies and procedures;
+四。促进商业交易
 
-iv.	facilitating business transactions
+五。匹配与您有关的任何个人数据，用于此处列出的任何目的;
 
-v.	matching any Personal Data held which relates to you for any of the purposes listed herein;
+六。请求反馈或参与调查，以及进行市场调查和/或分析，以便我们设计产品，了解客户行为，偏好和市场趋势，以及审查，开发和改进我们的服务质量;
 
-vi.	requesting feedback or participation in surveys, as well as conducting market research and/or analysis for statistical, profiling or other purposes for us to design our products, understand customer behaviour, preferences and market trends, and to review, develop and improve the quality of our services;
+七。预防，侦查和调查犯罪，包括欺诈和洗钱或恐怖主义融资，以及分析和管理商业风险;
 
-vii.	preventing, detecting and investigating crime, including fraud and money-laundering or terrorist financing, and analysing and managing commercial risks;
+八。项目管理;
 
-viii.	project management;
+九。提供媒体公告和回复;
 
-ix.	providing media announcements and responses;
+十。组织宣传活动; 营销目的（在线/离线）
 
-x.	organizing promotional events; marketing purposes (Online/Offline)
+十一。与任何索赔，诉讼或法律程序有关（包括但不限于起草和审查文件，交易文件，获取法律建议和促进争议解决），和/或保护和执行我们的合同和法律权利和义务;
 
-xi.	in connection with any claims, actions or proceedings (including but not limited to drafting and reviewing documents, transaction documentation, obtaining legal advice, and facilitating dispute resolution), and/or protecting and enforcing our contractual and legal rights and obligations;
+十二。遵守任何适用的规则，法律和法规，行为准则或指南或协助执法
 
-xii.	complying with any applicable rules, laws and regulations, codes of practice or guidelines or to assist in law enforcement
+十三。与上述有关的任何其他目的。
 
-xiii.	any other purposes relating to the aforesaid.
+3.2此外，Marine Online平台根据我们关系的性质，出于以下目的收集，使用和披露您的个人数据：
 
-3.2	In addition, Marine Online platform collects, uses and discloses your Personal Data for the following purposes depending on the nature of our relationship:
+**a.	如果您是潜在的买家，供应商或分销商**
 
-**a.	If you are a prospective buyer, supplier or distributor**
+一。如果帐户或关系经理或代理商已被指派为您的帐户或投资组合提供服务，我们也可能会不时使用您的电话号码与您联系，以便接受您的指示，和/或向您提供信息，更新或建议和/或根据我们与您达成协议的条款和条件;
 
-i.	where account or relationship managers or agents have been assigned to service your account or portfolio, we may also use your telephone number(s) to contact you from time to time in order to take your instructions, and/or provide you with information, updates, or recommendations and/or in accordance with the terms and conditions of our agreement with you;
+二。安排货物或协议的合同
 
-ii.	arranging contracts of goods or agreements;
+三。评估和处理您在Marine Online平台提供的服务所提出的任何申请或要求;
 
-iii.	assessing and processing any applications or requests made by you for services offered by Marine Online platform; 
+四。客户拓展和关系管理;
 
-iv.	customer outreach and relationship management;
+五。档案管理（包括但不限于仓库存储和检索）; 与您沟通（包括通过电话）与您的注册有关的信息，并告知您注册，条款和条件的更新，并提供行政信息，包括为您提供的产品和服务;
 
-v.	archival management (including but not limited to warehouse storage and retrievals); communicating with you (including by way of telephone calls) in relation to your registration and informing you of updates to the registration, terms and conditions and providing administrative information, including for the purposes of servicing you in relation to the products and services offered to you;
+六。管理，维护，管理和运营为您提供的服务
 
-vi.	administering, maintaining, managing and operating the services offered to you
+七。向您发送有关您使用的服务的更新和管理通知
 
-vii.	sending updates and administrative notices to you in relation to the services used by you
+八。与上述有关的任何其他目的。
 
-viii.	any other purposes relating to the aforesaid.
+**b.	如果您向我们提交申请或注册作为就业候选人（船员组）**
 
-**b.	If you submit an application or registration to us as a candidate for an employment (crewing section)**
+一。处理您的申请，包括招聘前的检查，例如资格认证;
 
-i.	processing your application including pre-recruitment checks, such as qualifications;
+二。提供或获取员工参考资料以及进行背景审查;
 
-ii.	providing or obtaining employee references and for background screening/vetting;
+三。促进和安排面试;
 
-iii.	facilitating and arranging interviews;
+四。评估您对申请职位的适合性;
 
-iv.	assessing your suitability for the position applied for;
+五。根据Marine Online的要求与您沟通，以遵守其（包括出于业务连续性目的）政策和流程;
 
-v.	communicating with you as required by Marine Online to comply with its policies and processes, including for business continuity purposes; 
+六。处理人员转介;
 
-vi.	processing staff referrals;
+七。与上述有关的任何其他目的。
 
-vii.	any other purposes relating to the aforesaid.
+您应确保提交给我们的所有个人数据完整，准确，真实和正确。如不遵守将会导致应用程序处理延迟，或者我们无法处理您的应用程序。
 
-You should ensure that all Personal Data submitted to us is complete, accurate, true and correct. Failure on your part to do so may result in delays in the processing of your application, or our inability to process your application.
+**c.	如果您是Crewing在线计划的成员（“Crewing Online”）**
 
-**c.	If you are a Member of the Crewing Online Programme ("Crewing Online")**
+一。提供通讯产品，特别是通过我们的服务传达您的通讯;
 
-i.	providing communication products, in particular to convey the communications you make by means of our services;
+二。提供并告知您该计划的好处;
 
-ii.	offering and informing you of the benefits under the Programme;
+三。告知您有关服务更新，延迟和/或故障的信息;
 
-iii.	informing you about service updates, delays and/or faults;
+四。要求反馈或参与在线调查;
 
-iv.	requesting feedback or participation in on-line surveys;
+五。进行统计，剖析或其他目的的市场研究;
 
-v.	conducting market research for statistical, profiling or other purposes;
+六。组织和开展营销或促销活动和类似活动; 和
 
-vi.	organising and carrying out marketing or promotional operations and similar events; and
+七。与上述有关的任何其他目的。
 
-vii.	any other purposes relating to the aforesaid.
+**d.	如果您是Marine Online外包或预览的外部服务提供商或供应商的员工，官员：**
 
-**d.	If you are an employee, officer or owner of an external service provider or vendor outsourced or prospected by Marine Online:**
+一。管理服务供应;
 
-i.	managing supply of services;
+二。处理和支付供应商发票; 和/或
 
-ii.	processing and payment of vendor invoices; and/or
+三。与上述任何相关的任何其他目的。
 
-iii.	any other purpose relating to any of the above.
+3.3如果您通过任何形式的支付网关提交或购买Marine Online产品/服务，例如Paypal，信用卡或任何其他支付供应商，    Marine Online会出于以上目的收集，使用和披露您的个人数据。
 
-3.3 Marine Online platform collects, uses and discloses your Personal Data if you are submitting an application for or purchasing a Marine Online product/services through any forms of payment gateways e.g. Paypal, Credit Cards or any other payment vendors which we may change solely on Marine Online discretion. 
+3.4此外，在法案允许的情况下，Marine Online还可以出于以下目的收集，使用和披露您的个人数据（我们可能在我们的文件和协议中将其描述为处理个人数据的“附加目的”）：
 
-3.4 In addition, where permitted under the Act, Marine Online may also collect, use and disclose your Personal Data for the following purposes (which we may describe in our documents and agreements as "Additional Purposes" for the handling of Personal Data):
+一。为您提供或营销服务，产品和福利，包括促销，忠诚度和奖励计划;
 
-i.	providing or marketing services, products and benefits to you, including promotions, loyalty and reward programmes;
+二。无论是由任何公司或其他第三方提供或提供产品和服务的情况下，将个人数据与其他来源（包括第三方）为其他目的不时收集的其他数据相匹配，;
 
-ii.	matching Personal Data with other data collected from time to time for other purposes  and from other sources (including third parties) in connection with the provision or offering of products and services, whether by any of the Companies or other third parties;
+三。向您或我们其他的客户发送产品，服务，特别优惠和奖励的详细信息，或您可能感兴趣的产品，服务，特别优惠和奖励的详细信息; 和
 
-iii.	sending you details of products, services, special offers and rewards, either to our customers generally, or which the Companies have identified may be of interest to you; and
+四。进行市场调查，了解和分析客户的行为，位置，偏好和人口统计数据，为公司提供产品和服务，以及可能与您的偏好或个人资料相关的特别优惠和营销计划。
 
-iv.	conducting market research, understanding and analysing customer behaviour, location, preferences and demographics for the Companies to offer you products and services as well as special offers and marketing programmes which may be relevant to your preferences or profile.
+3.5如果您提供了新加坡电话号码并表示您同意通过新加坡电话号码接收营销或促销信息，那么Marine Online可能会不时使用此类新加坡电话号码与您联系（包括通过语音电话，文本，传真或其他方式）提供有关我们产品和服务的信息（包括折扣和特别优惠）。
 
-3.5 If you have provided your Singapore telephone number(s) and have indicated that you consent to receiving marketing or promotional information via your Singapore telephone number(s), then from time to time, Marine Online may contact you using such Singapore telephone number(s) (including via voice calls, text, fax or other means) with information about our products and services (including discounts and special offers).
+3.6对于特定产品或服务或您与我们的互动，我们可以特别通知您我们收集，使用或披露您的个人数据的其他目的。如果是这样，除非我们另行通知您，否则我们将收集，使用和披露您的个人数据用于这些其他目的。
 
-3.6 In relation to particular products or services or in your interactions with us, we may also have specifically notified you of other purposes for which we collect, use or disclose your Personal Data. If so, we will collect, use and disclose your Personal Data for these additional purposes as well, unless we have specifically notified you otherwise.
+### 4.  个人资料的披露
 
-### 4.  Disclosure of Personal Data
+4.1 Marine Online将采取合理措施保护您的个人数据，防止未经授权披露个人数据。根据任何适用法律的规定，出于上述目的（如适用），您的个人数据可能会被提供给以下实体或方，无论他们位于新加坡还是海外：
 
-4.1 Marine Online will take reasonable steps to protect your Personal Data against unauthorised disclosure of personal data. Subject to the provisions of any applicable law, your Personal Data may be provided, for the purposes listed above (where applicable), to the following entities or parties, whether they are located in Singapore or overseas:
+一。海运在线相关公司;
 
-i.	Marine Online related corporations;
+二。提供与Marine Online内部业务有关的服务的公司;
 
-ii.	companies providing services relating to the operations within Marine Online;
+三。向Marine Online提供运营服务的代理商，承包商或第三方服务提供商，如快递服务，电信，信息技术，支付，处理，培训，市场调查，客户支持调查服务或其他在线海事服务;
 
-iii.	agents, contractors or third party service providers who provide operational services to	 Marine Online, such as courier services, telecommunications, information technology, payment, processing, training, market research, customer support investigation services or other services to Marine Online;
+四。供应商或其他第三方服务提供商与Marine Online信用报告机构（包括信用局（新加坡））提供的产品和服务有关，或者在发生违约或争议的情况下，任何收债公司或争议解决中心；
 
-iv.	vendors or other third party service providers in connection with products and services offered by Marine Online credit reporting agencies, including Credit Bureau (Singapore), or in the event of default or disputes, any debt collection agencies or dispute resolution centres; 
+五。当我们要求您，您的银行，信用卡公司及其各自的服务提供商付款时;
 
-v.	where we require payment from you, your banks, credit card companies and their respective service providers;
+六。第三方推荐人;
 
-vi.	third party referrers;
+七。我们的联合品牌和其他商业伙伴;
 
-vii.	our co-brand and other business partners;
+八。与企业宣传活动有关的外部业务;
 
-viii.	external business in relation to corporate promotional events;
+九。我们的专业顾问，包括审计师和律师;
 
-ix.	our professional advisers such as our auditors and lawyers;
+十。相关政府监管机构或当局或执法机构遵守任何政府机构（如新加坡金融管理局，人力部和政府部门）制定的任何法律，规则和条例或计划；和
 
-x.	relevant government regulators or authority or law enforcement agency to comply with any laws, rules and regulations or schemes imposed by any governmental authority such as the Monetary Authority of Singapore, the Ministry of Manpower; and
+十一。您授权我们向您披露您的个人数据的任何其他方。
 
-xi.	any other party to whom you authorise us to disclose your Personal Data to. 
+### 5.  Cookies的使用
 
-### 5.  Use of Cookies
+5.1当您在登陆我们的网站与我们互动时，我们会自动从您的浏览器接收信息和把该信息记录在我们的服务器日志里。我们可以部署cookie，以便我们的服务器将登陆者识别为特殊回头用户，包括但不限于监控登陆者如何到达网站的信息，登陆者所使用的浏览器类型，登陆者的操作系统是什么使用，登陆者的IP地址，登陆者的点击流信息和时间戳（例如，他们查看了哪些页面，登陆页面的时间以及每个网页花费的时间）。
 
-5.1 When you interact with us on our websites, we automatically receive and record information on our server logs from your browser. We may deploy cookies in order for our server to recognise a return visitor as a unique user including, without limitation, monitoring information relating to how a visitor arrives at the website, what kind of browser a visitor is on, what operating system a visitor is using, a visitor's IP address, and a visitor's click stream information and time stamp (for example, which pages they have viewed, the time the pages were accessed and the time spent per web page).
+5.2 Cookies是放在电脑计算机或其他电子设备上“Cookies”文件夹中的小文本文件，以便我们记住您。我们的服务器放置的cookie只能由我们读取，并且cookie不能登陆，读取或修改电子设备上的任何其他数据。所有网络浏览器都提供拒绝任何cookie的选项，如果您拒绝我们的cookie，那么我们不会收集有关该登陆者的任何信息。
 
-5.2 Cookies are small text files placed in the 'Cookies' folder on your computing or other electronic devices which allow us to remember you. The cookies placed by our server are readable only by us, and cookies cannot access, read or modify any other data on an electronic device. All web-browsers offer the option to refuse any cookie, and if you refuse our cookie then we do not gather any information on that visitor.
+5.3如果您希望禁用与这些技术相关的cookie，您可以通过更改浏览器上的设置来实现。但是以上设定可能导致您无法进入我们网站的某些部分。
 
-5.3 Should you wish to disable the cookies associated with these technologies, you may do so by changing the setting on your browser. However, you may not be able to enter certain part(s) of our website.
+### 6.  数据安全
 
-### 6.  Data Security
+6.1 Marine Online将采取合理的措施，通过合理的安全措施来保护我们拥有或控制的个人数据，以防止未经授权的登陆，收集，使用，披露，复制，修改，处置或类似风险。但是，我们无法完全保证我们从您或您身边收集的任何个人数据的安全性，或保证有害代码无法入侵我们的网站（例如病毒，错误，特洛伊木马，间谍软件或广告软件）。您应该了解与使用网站相关的风险。
 
-6.1 Marine Online will take reasonable efforts to protect Personal Data in our possession or our control by making reasonable security arrangements to prevent unauthorised access, collection, use, disclosure, copying, modification, disposal or similar risks. However, we cannot completely guarantee the security of any Personal Data we may have collected from or about you, or that for example no harmful code will enter our website (for example viruses, bugs, trojan horses, spyware or adware). You should be aware of the risks associated with using websites.
+6.2虽然我们努力保护您的个人数据，但我们无法确保您通过互联网传输给我们的信息的安全性，我们强烈建议您在上网时采取一切预防措施来保护您的个人数据。我们建议您经常更改密码，使用字母和数字组合，并确保使用安全的浏览器。
 
-6.2 While we strive to protect your Personal Data, we cannot ensure the security of the information you transmit to us via the Internet, and we urge you to take every precaution to protect your Personal Data when you are on the Internet. We recommend that you change your passwords often, use a combination of letters and numbers, and ensure that you use a secure browser.
+6.3如果适用，您承诺保护您的用户名和密码的安全和保密，不得透露或允许其向任何未经授权的人披露，并且如果您知道或怀疑其他人知道您的用户名和密码或相信您的用户名和密码的机密性已经丢失，被盗或受到损害，或者存在了实际或可能的未经授权的交易，请在合理可行的范围内尽快通知我们。对于因未经授权和/或欺诈性使用您的用户名和密码而导致的任何安全漏洞造成的任何损害，我们概不负责。
 
-6.3 If applicable, you undertake to keep your username and password secure and confidential and shall not disclose or permit it to be disclosed to any unauthorized person, and to inform us as soon as reasonably practicable if you know or suspect that someone else knows your username and password or believe the confidentiality of your username and password has been lost, stolen or compromised in any way or that actual or possible unauthorized transactions have taken place. We are not liable for any damages resulting from any security breaches, on unauthorized and/or fraudulent use of your username and password.
+### 7.  反垃圾邮件
 
-### 7.  Anti-Spam
+7.1如果您收到垃圾邮件并希望向我们报告，请将您收到的邮件转发至 [customercare@emarineonline.com](mailto:customercare@emarineonline.com).
 
-7.1 If you receive spam messages and want to report it to us, please forward the message you have received to [customercare@emarineonline.com](mailto:customercare@emarineonline.com).
+### 8.  第三方网站
 
-### 8.  Third-Party Sites
+8.1我们的网站可能包含由第三方运营的其他网站的链接。对于与我们网站链接的第三方运营的网站的隐私惯例，我们概不负责。我们鼓励您了解此类第三方网站的隐私政策。其中一些第三方网站可能与我们的徽标或商标共同使用，即使它们不是由我们运营或维护的。一旦您离开我们的网站，您应该检查第三方网站的适用隐私政策，以确定他们将如何处理他们从您那里收集的任何信息。
 
-8.1 Our website may contain links to other websites operated by third parties. We are not responsible for the privacy practices of websites operated by third parties that are linked to our website. We encourage you to learn about the privacy policies of such third party websites. Some of these third party websites may be co-branded with our logo or trademark, even though they are not operated or maintained by us. Once you have left our website, you should check the applicable privacy policy of the third party website to determine how they will handle any information they collect from you.
+### 9.   联系我们 - 反馈，撤销同意，登录和更正您的个人数据
 
-### 9.   Contacting Us – Feedback, Withdrawal of Consent, Access and Correction of your Personal Data
+9.1如果您：
 
-9.1 If you:
+一。对您的个人数据或我们的隐私声明有任何问题或反馈;
 
-i.	have any questions or feedback relating to your Personal Data or our Privacy Statement;
+二。希望撤销您对本隐私声明中规定的任何个人数据使用的同意; 或
 
-ii.	would like to withdraw your consent to any use of your Personal Data as set out in this Privacy Statement; or
-
-iii.	would like to obtain access and make corrections to your Personal Data records
+三。希望获取登陆权限并对您的个人数据记录进行更正。
 
 <br>
 
-Please contact **Marine Online Pte. Ltd.** as follows:
+**Marine Online Pte. Ltd.联系方式：**
 
-Email: [customercare@emarineonline.com](mailto:customercare@emarineonline.com)
+电子邮件: [customercare@emarineonline.com](mailto:customercare@emarineonline.com)
 
-Call: +65 6571 5888 (Customer Service Hotline)
+电话：+65 6571 5888（客户服务热线）
 
 <br>
 
-**Write in:**
+**写进：**
 
-Data Protection Officer
+数据保护官
 
 10, Paris Panjang Road,  #15&#47;16-01/02,
 
@@ -240,15 +238,15 @@ Mapletree Business City, Singapore, 117438
 
 <br>
 
-9.2 Please note that if your Personal Data has been provided to us by a third, you should contact that individual to make such queries, complaints, and access and correction requests to Marine Online on your behalf.
+9.2请注意，如果您的个人数据是由第三方提供给我们的，您应该联系该个人，代表您向Marine Online提出此类查询，投诉以及访问和更正请求。
 
-9.3 You may refuse to give, or may withdraw your consent for us to collect, use or disclose your Personal Data and/or your insured persons' Personal Data by giving us reasonable notice so long as there are no legal or contractual restrictions preventing you from doing so. For example, you may withdraw your consent for your Personal Data being used for marketing purposes if this withdrawal will not affect our ability to provide you with the products and services that you asked for or have with us.
+9.3只要没有法律或合同限制阻止您，您可以拒绝给予或者撤销您对我们收集，使用或披露您的个人数据和/或您的被保险人的个人数据的同意。例如，如果此条款不影响我们向您提供您要求或与我们一起提供的产品和服务的能力，您可以撤销您对用于营销目的的个人数据的同意。
 
-9.4 However, if you withdraw your consent for us to use your Personal Data for any purposes which we regard as necessary to provide you products and services supplied by or through us, such as for example, matters relating to the servicing and administration of your registration with Marine Online , this may affect our ability to provide you with such products and services, including preventing us from keeping maintaining in force your personal data or properly assessing any issues/matters pertaining to the operation within Marine Online. Withdrawing such consent may also result in the termination of all your policies and contractual relationships with us. There may be other consequences of your withdrawal which Marine Online may advise you of. In the event of any withdrawal of your consents in relation to your Personal Data, Marine Online legal rights and remedies are expressly reserved.
+9.4但是，如果您撤销我们将您的个人数据用于我们认为必要的任何目的，以便为您提供由我们提供或通过我们提供的产品和服务的同意，例如，与您的注册服务和管理相关的事宜对于Marine Online，这可能会影响我们向您提供此类产品和服务的能力，这包括阻止我们保持您的个人数据的有效性或正确评估与Marine Online中的操作相关的任何问题/事宜。撤回此类同意也可能导致您与我们的所有政策和合同关系终止。Marine Online会告知您撤回您的同意的其他后果。如果您撤回您提供的个人资料有任何同意，MARINE ONLINE将保留追究法律责任的权力。
 
-### 10.  Governing Law
+### 10.  适用法律
 
-10.1 This Privacy Statement and your use of this website shall be governed in all respects by the laws of Singapore.
+10.1本隐私声明和您对本网站的使用受新加坡法律的管辖。
 
- [Back to Top](policy#)
+ [回到顶部](隐私政策#)
  
