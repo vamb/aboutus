@@ -1,26 +1,27 @@
 ---
-name: Transaction Support Services
+name: 交易支持服务
 ---
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/mall/DES_IMG_1fec46c0-5043-11e9-8ede-0b76503623f7.png)
 
-## Transaction Support Services
+## 交易支持服务
 
-To enable  both Buyers and Suppliers to transact securely and given a trusted environment, Marine Online (MOL) had provided the platform three core systems namely, (1) Payment and Guarantee System, (2) Review and Rating System and (3) Logistics Support System:
+为了营造安全可靠的交易环境，最大程度的降低买方和供应商的交易风险，海运在线为用户提供了三个核心系统，即（1）支付和担保系统，（2）审查和评级系统，（3）物流支持系统：
 
-### Payment and Guarantee System
-MOL provides payment and guarantee systems to help contain risks and allow both buyers and suppliers a peace of mind when conducting any transactions in the platform.
+### 支付和担保制度
 
-The system acts similarly to a guarantor. Upon accepting the order by the buyer, the platform will hold the order amount in MOL Guarantee  Account and release payment to the supplier after order fulfillment and buyer confirmation. 
+为控制交易风险，海运在线为用户的支付提供担保，以便买家和供应商在平台上能够安心进行每一笔交易。
 
+该线上系统类似于担保人。在接受买方的订单后，平台将在海运在线担保账户中冻结订单金额，以便在买方确认订单履行后，供应商能够及时收到货款。
 
-### Review and Rating System
-The review and rating system is to assist buyers in gaining confidence when shortlisting new suppliers and buying decision. At the same time, encourage suppliers to provide the best quality and services in the platform.
+### 审查和评级系统
 
-Upon completion of each transaction, the buyer may start to provide their review and rating to the supplier — these ratings comprise of (1) Price, (2) Quality and (3) Service, while free text comments help audiences relate better with words.
+审查和评级系统旨在帮助买家对供应商进行精确的筛选，以便根据自身需求做出正确的购买决策。同时，该系统也能鼓励平台供应商提高产品（服务）品质。
 
-In addition to create good branding, the review and ratings will contribute to MOL evaluation for future financing program.
+在每笔交易完成后，买方可以对卖方进行评级及评论，包括，价格、质量、服务，同时，评论功能将帮助他人更好的了解该供应商及其所提供的产品或服务。
 
+好评除了能提升供应商品牌外，还将有利于该供应商在海运在线平台上进行融资。　
 
-### Logistics Support System 
-In order to support the high volumes of direct transactions between the Shipowners and Suppliers, and minimizing unwanted middlemen interventions, MOL is partnering with the renowned Third Party Logistics companies worldwide to provide professional warehousing storages, logistics delivery, custom clearances, delivery on board and many other full flexed services to complete your maritime transactions.
+### 物流支持系统　
+
+为了使船东和供应商之间大量直接交易能够顺利完成，尽可能减少不必要的中间人干预，海运在线与全球知名的第三方物流公司合作，为平台用户提供专业的仓储物流、海关清关、船上交货等服务。
