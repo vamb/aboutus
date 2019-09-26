@@ -1,331 +1,316 @@
 ---
-name: Transaction Services Agreement
+name: 交易服务条款
 ---
 
-## Transaction Services Agreement (the “Agreement”)
+## 交易服务条款
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/seller_agreement.jpg)
 
-#### 1.  Application and Acceptance of Terms
+### 1.1 缔约方。
 
-### 1.1 Contracting Party. 
+本协议由每个经认证的会员与MARINE ONLINE PTE. LTD.签订，以便使用平台交易服务，并包括本协议的各种附表。
 
-This Agreement is entered into between each Verified Member and Marine Online Pte Ltd. (“MOL”) for use the Transaction Services and shall include the various Schedules hereto.  
+### 1.2 交易条款。
 
-### 1.2 Transaction Terms. 
+MARINE ONLINE提供平台和辅助服务（“交易服务”），允许已验证会员根据本协议的条款完成产品的在线交易。就本协议而言，“产品”应包括商品和/或平台服务。MARINE ONLINE可以发布与平台在线交易、争议解决等相关的规则或政策（“交易条款”），并且可以通过在平台上不时发布任何变更通知。这些交易条款通过引用纳入本协议，您同意受其约束。
 
-MOL provides the Platform and ancillary services (“Transaction Services”) on which allows Verified Members to conclude online transactions for Products, subject to the terms of this Agreement.  For the purpose of this Agreement, “Products” shall include goods and/or services. MOL may publish rules or policies relating to online transactions on the Platform, dispute resolution, etc (“Transaction Terms”) and may, by publication on the Platform, give notice of any changes thereto from time to time.  These Transactional Terms are incorporated into this Agreement by reference and you agree to be bound by the same. 
+### 1.3 一般条款。
 
-### 1.3 General Terms. 
+您同意遵守平台上发布的相关一般规则和政策，这些规则和政策（“一般条款”）也通过引用纳入本协议。一般条款包括但不限于平台使用条款和隐私政策。如果一般条款与本协议条款之间存在任何不一致条款，则以本协议的条款为准。此外，如果本协议正文中包含的条款与本协议的附表之间存在任何不一致条款，则以适用的附表中包含的条款为准。
 
-You agree to comply with the relevant general rules and policies published on the Platform which are also incorporated into this Agreement by reference (“General Terms”). The General Terms include without limitation the Terms of Use and the Privacy Policy. In the event of any inconsistency between the General Terms and the terms of this Agreement, the terms of this Agreement shall prevail to the extent of any inconsistency. Furthermore, in the event of any inconsistency between the terms contained in the main body of this Agreement and the Schedules to this Agreement, the terms contained in the applicable Schedule(s) shall prevail to the extent of any inconsistency.
+### 1.4 约束性协议。
 
-### 1.4 Binding Agreement. 
+本协议（包括交易条款和一般条款）构成您与MARINE ONLINE之间关于您使用平台交易服务的具有法律约束力的协议。登陆平台和使用平台交易服务即表示您同意接受本协议并受其约束。如果您不接受本协议的所有条款，请立刻停止使用交易服务。
 
-This Agreement, including the Transaction Terms and the General Terms, form a legally binding agreement between you and MOL in relation to your use of the Transaction Services.  By accessing and using the Transaction Services, you agree to accept and be bound by this Agreement.  Please do not continue to use the Transaction Services if you do not accept all of the terms of this Agreement.
+### 1.5 修正协议。
 
-### 1.5 Amendments. 
+MARINE ONLINE可以随时通过在平台上发布相关的修订和重述协议版本来修改本协议的任何条款，包括交易条款和一般条款。修订后的条款将在发布后立即生效。如果您继续使用交易服务，即表示您同意受修订后的条款约束。除非MARINE ONLINE的授权代表以书面形式提出，否则不得以其他方式修改本协议。
 
-MOL may amend any terms of this Agreement including the Transaction Terms and the General Terms at any time by publishing the relevant amended and restated version on the Platform. The amended terms shall be effective immediately upon publishing.  By continuing to use the Transaction Services, you agree that the amended terms will apply to you.  This Agreement may not otherwise be amended except in writing by an authorised representative of MOL.
+### 1.6 语言。
 
-### 1.6 Language. 
+MARINE ONLINE可以用其他语言发布本协议的版本，但如果有任何歧义或争议，将以本协议的英文条款为准。
 
-MOL may post version of this Agreement in other language but in the event of any ambiguity or dispute, the terms of this Agreement in the English shall prevail over any other translation. 
+### 1.7 MARINE ONLINE的附属公司。
 
-### 1.7 MOL’s Affiliates.  
+某些交易服务可能由MARINE ONLINE的关联公司提供/支持。
 
-Some of the Transaction Services may be provided/supported by MOL’s Affiliates. 
+### 1.8 附加条款。
 
-### 1.8 Additional Terms.  
+在某些情况下，您可能需要另外与MARINE ONLINE或其关联公司就交易服务签订单独的协议（“附加条款”）。如果本协议条款与附加条款之间存在任何冲突，则以附加条款为准。
 
-In some cases, you may be required to additionally enter into a separate agreement with MOL or its Affiliates in connection with the Transaction Services (“Additional Terms”).  In the event of any conflict between the terms of this Agreement and the Additional Terms, the Additional Terms shall take precedence.
+### 1.9 会员服务。
 
-### 1.9 Membership Services. 
+除非本协议或相关服务协议另有规定，否则本协议不影响您与我们或任何MARINE ONLINE关联公司（如果有）现有的平台订购和使用平台会员服务的协议。
 
-This Agreement does not affect your agreement with us or any of MOL’s Affiliates (if any) concerning your subscription and use of the membership services of the Platform, unless otherwise stipulated in this Agreement or the relevant service agreement.
+#### 2.  交易服务
 
-#### 2.  Transaction Services
+### 2.1 交易服务
 
-### 2.1 Transaction Services.  
+交易服务旨在促进平台上已验证成员在平台内给予，接受，完成，管理和履行产品订单（“在线交易”）。MARINE ONLINE保留随时临时或永久更改，升级，修改，限制或暂停此交易服务或其任何相关功能或应用程序的权利，恕不另行通知。MARINE ONLINE进一步保留向此交易服务或未来版本的交易服务引入新功能或应用程序的权利。除非MARINE ONLINE另有明确规定，否则所有新功能，应用，修改，升级和更改均受本协议的约束。
 
-The Transaction Services are intended to facilitate Verified Members of the Platform to place, accept, conclude, manage and fulfill orders for Products within the Platform (“Online Transactions”). MOL reserves the right to change, upgrade, modify, limit or suspend the Transaction Services or any of its related functionalities or applications at any time temporarily or permanently without prior notice. MOL further reserves the right to introduce new features, functionalities or applications to the Transaction Services or to future versions of the Transaction Services. All new features, functionalities, applications, modifications, upgrades and alterations shall be governed by this Agreement, unless otherwise expressly stated by MOL.
+### 2.2 仅限经过验证的会员。
 
-### 2.2 For Verified Members Only.  
+MARINE ONLINE的交易服务仅适用于已验证会员。如果您在平台上的付费会员或免费会员资格的订阅已到期或因任何原因提前终止，您将没有资格继续使用平台交易服务。如果您在平台上的付费会员或免费会员注册被终止之前，您在本协议下拥有有效的在线交易，MARINE ONLINE将有充分的自由裁量权和权利向买方退款和/或向卖方付款（均为“买方” “和”卖方“如下定义）MARINE ONLINE认为适当的在线交易项下的全部或部分资金。如果您是卖家，您必须拥有并维持一个有效的银行账户，该账户将由MARINE ONLINE和/或其关联公司进行验证和确认。
 
-MOL’s Transaction Services are only available to Verified Members.  If your subscription to the paid or free membership of the Platform expires or is early terminated for any reason, you are not eligible to use the Transaction Services.  In the event that you have a valid Online Transaction under this Agreement prior to your paid or free membership registration on the Platform being terminated, MOL shall have the full discretion and authority to refund to the Buyer and/or release to Seller (both “Buyer” and “Seller” as defined below) all or part of the funds under the Online Transactions as MOL considers appropriate.   If you are a Seller, you are required to have and to maintain a valid bank account which will be subject to verification and confirmation by MOL and/or its Affiliates.
+### 2.3 交易类型。
 
-### 2.3 Types of Transactions. 
+MARINE ONLINE的交易服务仅适用于MARINE ONLINE允许的在线交易类型。对于其他任何类型的在线交易，MARINE ONLINE可以根据相关交易条款将其交易服务限制为指定相关的成员组。注册会员可享受的在线交易类型和交易服务的其他优惠，特征和功能可能因国家和地区而异。MARINE ONLINE不保证或代表所有成员都可以获得相同类型和范围的交易，利益，特征和功能。
 
-MOL’s Transaction Services are available to types of Online Transactions permitted by MOL only.  For any type of Online Transactions, MOL may limit any or all of the Transaction Services to a specified group of members in accordance with the relevant Transactional Terms.  The types of Online Transactions and other benefits, features and functions of the Transaction Services available to a registered member may vary for different countries and regions.  No warranty or representation is given that the same type and extent of transactions, benefits, features and functions will be available to all members.
+### 2.4 合法项目。
 
-### 2.4 Lawful Items. 
+使用交易服务的在线交易的产品或服务必须是合法的项目，并且不得被本条款2.4禁止或限制。您不得将交易服务用于以下任何在线交易：
 
-The products or services of an Online Transaction using the Transaction Services must be lawful items and must not be otherwise prohibited or restricted by this clause 2.4.  You shall not use the Transaction Services in connection with any Online Transaction that:
+（a）可能侵犯MARINE ONLINE或任何第三方的合法权利，包括但不限于版权，商标权，专利或其他知识产权;
+（b）可能违反任何涉及产品上架或第三方知识产权的适用政策; 或
+（c）可能违反本协议的其他条款。
 
-  (a)	may infringe MOL’s or any third party’s legitimate rights including but not limited to copyright, trademark right, patent or other intellectual property rights;
+MARINE ONLINE有权拒绝或取消违反本条款2.4的任何在线交易，并且不对任何经过验证的会员承担此类在线交易被 拒绝或取消的责任。
+
+### 2.5 拒绝或取消交易。
+
+除第2.4条外，MARINE ONLINE保留自行决定拒绝或取消任何在线交易的权利。某些情况可能导致在线交易被拒绝或取消包括MARINE ONLINE的信用和欺诈控制团队发现其在线交易出现问题或MARINE ONLINE有理由相信其在线交易未经授权，违反任何法律或可能使MARINE ONLINE承担责任。MARINE ONLINE还可能要求验证会员为任何在线交易提供额外信息或验证。
+
+### 2.6 付款和其他服务。
+
+MARINE ONLINE可通过其关联公司或第三方服务提供商为某些在线交易（“支付服务”）提供支付服务。这些付款服务将使验证会员能够在平台上进行在线交易和/或接收付款。
+
+### 2.7 一般权力。
+
+MARINE ONLINE拥有拒绝或取消在线交易的全部权力，权限和酌处权，并对买方和卖方之间的任何争议作出裁决，包括MARINE ONLINE可将，根据本协议与相关交易条款持有的在线交易中的资金，做出适当的汇款，。MARINE ONLINE可在相关交易条款中对其认为违规行为施加其他合适限制，限制和禁止以及处罚。
+
+### 2.8 MARINE ONLINE的记录。
+
+如果发生任何争议，除了MARINE ONLINE记录中出现明显错误外，MARINE ONLINE与与经过验证的会员所提交来证实相关事实的任何类似记录，将以MARINE ONLINE的记录为准。
+
+#### 3.  已验证会员之间的交易
+
+### 3.1 在线订单。
+
+经验证的会员可以通过在平台上使用适用的标准订单在线完成，提交和接受订单，通过一个或多个产品在线交易相互交易。卖方和买方应负责确保他们已在相关在线订单中同意并指定产品的所有相关条款和条件，包括但不限于价格，付款条件，数量，规格，质量标准，检验，运输等. 在MARINE ONLINE的合理意见中，在没有足够的信息构成具有法律约束力的合同的情况下，MARINE ONLINE可以取消或拒绝处理任何在线交易。
+
+### 3.2 卖方和买方之间进行在线交易。
+
+每个在线交易仅由卖方和买方之间相互进行，MARINE ONLINE不是任何在线交易的一方。尽管提供交易服务平台并对在线交易进行审查，但MARINE ONLINE在任何在线交易中都不是卖方或买方的代理，也不是任何把服务托管在平台门户的第三方支付服务提供商的代理。MARINE ONLINE不对任何在线交易中提供的产品（包括第三方支付服务）的质量，安全性，合法性或可用性负责，也不对卖方或买方履行其在线任何义务的能力负责。交易。经验证的会员不得让MARINE ONLINE和/或其代理人对任何损失，损害，索赔，承担责任。
+
+### 3.3 支付产品价格。
+
+对于任何在线交易，买方同意必须通过MARINE ONLINE平台或经过双方达成的协议通过平台以外的其他支付方式向卖方支付在线交易列出的全部交易价格。当使用MARINE ONLINE平台支付服务进行在线交易时，可以通过属于MARINE ONLINE和/或第三方服务提供商的设施处理此类支付。
+
+在采用MARINE ONLINE平台支付服务的在线交易的情况下，MARINE ONLINE将促进与在线交易相关的支付。除非符合卖方和买方同意的MARINE ONLINE条款（并且此类条款适用于MARINE ONLINE平台付款服务协议中列出的条款），否则MARINE ONLINE不得处置任何此类付款。
+
+尽管提供了支付服务，根据本协议内容或事实上，MARINE ONLINE法律上不可被视为是：-
+
+（a）银行以及MARINE ONLINE平台付款服务绝不应被视为提供银行服务; 或
+（b）作为受托人，或托管代理人就已验证会员的资金运作，并且MARINE ONLINE无法控制，也不对使用付款服务支付的产品承担责任。
+
+MARINE ONLINE不保证任何经过验证的会员的身份，也不保证买方或卖方在平台上一定能完成交易。
+
+### 3.4 付款方式。
+
+平台上可用的付款方式可由MARINE ONLINE的支付服务合作伙伴（“PSP”）提供。如果PSP要求的任何付款退款或撤销，卖方同意MARINE ONLINE有权退还PSP要求的款项。MARINE ONLINE，经认证会员的要求，可以在其会员与PSP发生任何争议时协助认证会员进行协调。但是，此类援助将收取额外费用。
+
+### 3.5 第三方供应商服务。
+
+经过验证的会员可以与一个或多个第三方供应商合作，以完成和完成在线交易，例如仓储和物流服务提供商，运输代理商，检验代理商，保险公司等。每个经过验证的会员将承担自己使用任何第三方供应商成本和风险。
+
+#### 4. 服务费
+
+### 4.1 服务费。
+
+MARINE ONLINE有权根据MARINE ONLINE在平台上公布的费用表以及可能源自平台但在平台之外签订的任何具有法律约束力的交易收取各种在线交易的服务费。MARINE ONLINE保留对其他类型的在线交易收取额外服务费的权利，并在平台上公布此类费用的合理事先通知。如果在线交易采用MARINE ONLINE平台支付服务，经验证的会员授权MARINE ONLINE扣除任何已完成的在线交易到期和应付的MARINE ONLINE的服务费。MARINE ONLINE不能控制对使用MARINE ONLINE平台支付服务购买的任何产品的品质或对其品质负责，MARINE ONLINE也不负责确保买方或卖方履行其与任何交易相关的义务。对于不采用MARINE ONLINE平台支付服务的在线交易，MARINE ONLINE将在每个日历结束时或由MARINE ONLINE确定的其他日期向已验证会员发送服务费发票月。本发票应在发票中规定的日期之前按照发票中所述的说明全额结算，不得抵消或反索赔。MARINE ONLINE有权根据在到期日或之前尚未支付的任何付款的发票金额，收取每月1％的滞纳金（或法律允许的其他利率）。
+
+请参阅 [https://aboutus.emarineonline.com/docs/terms/fee](https://aboutus.emarineonline.com/docs/terms/fee). 上的服务费表。
+
+### 4.2 免收服务费。
+
+在没有按照上述第4.1条的规定订立具有法律约束力的交易的情况下，MARINE ONLINE可自行决定免除全部或部分服务费。为了寻求豁免服务费，卖方应向MARINE ONLINE提供合理让MARINE ONLINE满意的证据，证明没有与买方订立具有法律约束力的交易，或者在双方无法完全履行之前，通过相互协议终止或取消了买方或卖方的原来交易。
+
+### 4.3 不包括第三方费用。
+
+MARINE ONLINE收取的服务费不包括您在线交易中可能为获得第三方服务或购买任何第三方产品所产生的任何费用。您有责任与此类第三方供应商结算费用。
+
+### 4.4 不包括税费和其他财务费用。
+
+MARINE ONLINE收取的所有费用不包括任何税费，关税或其他政府征税或任何财务费用。除MARINE ONLINE的服务费外，经验证验证的会员应承担责任，并应支付与使用平台和交易服务相关的任何此类税费，关税，征费或财务费用。如果任何适用法律要求MARINE ONLINE收取或扣留任何税款或关税，您同意必须赔偿并偿还MARINE ONLINE所收取或扣留的任何此类税款或关税。经验证验证的会员还应对向您汇款所产生的任何财务费用负责，并且MARINE ONLINE有权从要汇出的资金中扣除此类费用。MARINE ONLINE还有权从该方扣除任何使用交易服务所产生的财务费。
+
+#### 5.  已验证会员的责任
+
+### 5.1 提供信息和协助。
+
+经验证的会员应提供所有完成在线交易所需要的信息，材料和批准，并提供MARINE ONLINE一切合理协助和合作好让MARINE ONLINE有效的提供交易服务。如果经过验证的会员未能提供以上所需的，导致任何交易服务被延迟，在线交易或处置资金被取消，MARINE ONLINE对由于此类失败而导致的任何损失或损害不承担责任。
+
+### 5.2 陈述和保证。
+
+**每个经过验证的会员保证每次使用平台时：**
+
+（a）向MARINE ONLINE保证：
+	（i）如果是企业，则根据其业务所在国的法律正式组织，有效存在并且信誉良好，并且正在该国家/地区注册服务;
+	（ii）它拥有签订本协议，履行其义务以及授予本协议中的权利，许可和授权的所有必要权利，权力和权限;
+	（iii）其或其关联公司向MARINE ONLINE或其关联公司提供的任何信息在任何时候都是准确和完整的;   
+	（iv）其及其金融机构不受任何禁止或限制方列表的制裁或指定，或由其他方拥有或控制。
+
+（b）它只会有诚信的使用交易服务，并遵守所有适用法律，包括与反洗钱和反恐融资有关的法律;
+
+（c）其提供的与交易服务有关的所有信息和材料是真实，合法和准确的，并非虚假，误导或欺骗性的;
+
+（d）不会使用交易服务来欺骗MARINE ONLINE，其他经过验证的会员或平台的其他用户; 或从事其他非法活动（包括但不限于交易法律禁止的产品）; 和
+
+（e）以卖方的身份：
+	（i）有权使用交易服务销售，分发或出口产品，此类产品不侵犯任何第三方的合法权利;
+	（ii）对提供给买方的产品具有良好的所有权，且产品符合商定的描述和规格; 和
+	（iii）它将合理谨慎和有技巧的提供订购服务。
+
+（f）它授予MARINE ONLINE免版税，非独家，全球，永久，不可撤销的权利和许可，以使用，复制，执行，展示，分发，改编，修改，重新格式化，创建衍生作品和其他商业或以任何方式，任何及所有材料非商业利用，并将上述权利再许可给MARINE ONLINE的关联公司; 但是，MARINE ONLINE不会从其提供的表格中更改任何已验证会员的商标（除非在必要的范围内重新标注商标，只要此类商标的相对比例保持不变）并且遵守关于其商标特定用途的删除请求（前提是它无法使用通过适用的平台提供的标准功能）。
   
-  (b)	may be in breach of any applicable policies which deal with the product listing or third party intellectual property rights; or
+### 5.3 违反条款。
 
-  (&#99;)	may be in breach of other terms of this Agreement.
+如果，在MARINE ONLINE的合理意见中，经过验证的会员在违反本协议的情况下使用平台，没诚信的处理平台交易服务，滥用交易服务，MARINE ONLINE有权取消相关的在线交易。MARINE ONLINE还保留对这些违规的会员进行处罚，或暂时中止或终止已验证会员使用平台的部分或全部功能的权利。同时MARINE ONLINE还保留通过MARINE ONLINE临时暂停您帐户的交易功能的权利。MARINE ONLINE还可以在无需明确识别任何经过验证的会员的情况下公布其有关平台上的违规行为的调查结果，处罚和其他记录。
 
-MOL shall have the right to refuse or cancel any Online Transaction in breach of this clause 2.4 and shall not be liable to any Verified Member for such refusal or cancellation.
+### 5.4 缴纳税款的义务。
 
-### 2.5 Refusal or Cancellation of Transactions.  
+每个经过验证的会员应全权负责支付任何税收，关税或其他政府征费，或者对在线交易下购买或提供的任何产品可能征收的任何费用。
 
-In addition to clause 2.4, MOL reserves the right, at its sole discretion, to refuse or cancel any Online Transaction. Some situations may result in an Online Transaction being refused or cancelled include where problems are identified by MOL’s credit and fraud control team, where MOL has reason to believe the Online Transaction is unauthorised, violates any law or may otherwise subject MOL to liability.  MOL may also require Verified Members to provide additional information or verification for any Online Transaction.
+### 5.5 反馈系统。
 
-### 2.6 Payment and Other Services.
+经过验证的会员不得采取任何可能破坏MARINE ONLINE反馈系统完整性的行为，例如自己或者应其他经过验证的会员的要求提供对自己虚假正面的反馈，，或者向另一个经过验证的会员或该平台用户提供虚假的，未经证实的负面反馈。
 
-MOL may, through its Affiliates or third party services providers, provide payment services for some Online Transactions (“Payment  Services”). These Payment Services will enable Verified Members to make and/or receive Payment on the Platform for the Online Transactions. 
+### 5.6 赔偿。
 
-### 2.7 General powers.  
+每个经过验证的会员同意赔偿MARINE ONLINE，其/他们的员工，董事，高级职员，代理人和代表，并使他们免受任何已验证会员使用交易服务或违反本协议所直接或间接产生的损失，损害，行为，索赔和责任（包括法律费用）的损害。。对于您有义务对MARINE ONLINE进行赔偿的任何法律程序，MARINE ONLINE应有权利，但没有义务对其进行支配。
 
-MOL shall have the full power, authority and discretion to reject or cancel an Online Transaction and to make a determination on any dispute between buyer and seller including the remittance of the funds under an online transaction that are held by MOL in accordance with this Agreement and the relevant Transaction Terms. MOL may, in the relevant Transaction Terms impose such additional restrictions, limitations and prohibitions as well as penalties for any violations as it deems fit in its sole discretion.
+#### 6. 保密
 
-### 2.8 MOL’s Records. 
+### 6.1 保密义务。
 
-In the event of any Dispute, MOL’s records shall take precedence over any similar records submitted by a Verified Member and save for any manifest error in MOL’s records, these shall be conclusive of any of the facts stated therein.
+您应对其他已验证会员或MARINE ONLINE提供的与任何在线交易或交易服务相关的所有信息保密。
 
-#### 3.  Transactions between Verified Members
+### 6.2 机密信息。
 
-### 3.1 Online Orders.  
+平台或MARINE ONLINE的其他成员提供的所有信息和材料将被视为机密信息，除非此类信息或材料已经在公共领域或随后不因为您违反保密义务而公开。
 
-Verified Members may transact with each other by way of one or more Online Transactions for Products by completing, submitting and accepting an order online using the applicable standard order form on the Platform.  Seller and Buyer shall be responsible inter se for ensuring that they have agreed to, and specified, all the relevant terms and conditions for the Products in the relevant online order form, including but not limited to the price, payment terms, quantity, specifications, quality standards, inspection, shipping etc.  MOL may cancel or refuse to process any Online Transaction which in MOL’s reasonable opinion, has insufficient information to constitute a legally-binding contract.
+#### 7.  免责声明和限制
 
-### 3.2 Online Transaction to be between Seller and Buyer Only. 
+### 7.1 无担保。
 
-Each Online Transaction is made by and between a Seller and a Buyer only and MOL shall not be a party to any Online Transaction. Despite providing the Platform for the Transaction Services and conducting reviews of Online Transactions, MOL is not an agent of either Seller or Buyer in any Online Transaction, neither does it act as an agent of any third party payment services provider whose services are hosted on the Portal. . MOL is not be responsible for the quality, safety, lawfulness or availability of the Products  (which for clarification, includes third party payment services) offered in any Online Transaction or the ability of either Seller or Buyer to perform their obligations in relation to any Online Transaction. Verified Members shall not hold MOL and/or its agents liable for any losses, damage, claims, liabilities, costs or expenses arising from any Online Transactions, including but not limited to any breach, partial performance or non-performance of the Online Transaction by the other party to the transaction.
+每位经过验证的会员均同意其使用交易服务的风险由其自行承担。在法律允许的最权限，交易服务以“原样”，“可用”和“有所有缺陷”为基础提供，MARINE ONLINE不作任何陈述或保证交易服务不会中断，及时或错误 - 自由。此外，MARINE ONLINE对平台上任何经过验证的会员提供的信息的准确性，真实性和完整性不作任何陈述或保证。每个经过验证的会员将对其使用或以其他方式依赖此类信息所产生的一切后果承担全部责任。MARINE ONLINE不承担任何明示或暗示的保证，包括但不限于对条件，质量，耐用性，性能，准确性，可靠性的任何保证，适销性或适用于任何特定目的或不侵权，即使被告知可能存在此类损害或此类可能性是合理可预见的。在法律允许的范围内，特此声明并排除所有此类保证，陈述，条件，承诺和条款。
 
-### 3.3 Payment of the price of Products.  
+### 7.2 排除和责任限制。
 
-For any Online Transaction, the Buyer agrees to pay the full transaction price listed for Online Transaction to the Seller either through the MOL website or through such other means of payment outside the Platform, as may be agreed between Buyer and Seller.  When using the Payment Services to make for an Online Transaction, such payments may be processed through facilities belonging to MOL and/or a third party service provider. 
+在法律允许的权限内，MARINE ONLINE不对因使用或无法使用交易服务而产生的合同，疏忽，侵权，股权或其他任何间接性的，附带损失，特殊或惩罚性损害，包括但不限于利润或收入损失，业务中断，商业机会丧失或数据丢失承担责任。MARINE ONLINE及其代理人就任何在线交易的交易服务承担的总责任在任何情况下均不得超过MARINE ONLINE收取的服务费或1,000美元，以较高者为准。
 
-In the case an Online Transaction that adopts the Payment Services, the payment in connection with the Online Transactions concluded will be facilitated by MOL.  MOL shall not dispose of any such payments except in accordance with MOL’s terms as agreed by Seller and Buyer which are set out herein and in the applicable Payment Services agreement.  
+### 7.3 索赔时效。
 
-Notwithstanding the provision of Payment Services, nothing in this Agreement is intended, to be construed as and in fact, neither is MOL
+由于本协议引起的或与本协议有关的任何和所有索赔，应当在引起索赔的事件发生之日起一年内开始索赔否则被视为超过索赔时效，一律不可不可索赔。
 
-  (a)	a bank and the Payment Services should in no way be construed as the provision of banking services; or
+#### 8.  不可抗力
 
-  (b)	acting as a trustee, fiduciary or escrow agent with respect to a Verified Member’s funds and MOL does not have control of, nor shall it be liability for the Products that are paid for with the Payment Services.  
+### 8.1 不可抗力。
 
-MOL does not guarantee the identity of any Verified Member nor shall it be liable to ensure that a Buyer or a Seller will complete a transaction on Platform.  
+对于因超出MARINE ONLINE合理控制范围的任何事件而直接或间接导致的交易服务的任何延迟或失败或中断，MARINE ONLINE应对任何经过验证的会员承担责任，例如但不限于超出我们合理范围的性质，力量或原因。控制，包括但不限于，互联网故障，计算机，电信或任何其他设备故障，电力故障，罢工，劳资纠纷，骚乱，叛乱，内乱，劳工或材料短缺，恐怖主义，战争，政府行为，国内订单或外国法院或法庭。
 
-### 3.4 Payment methods.  
+#### 9.  通知
 
-The payment methods available on the Platform may be provided by MOL’s payment service partners (“PSP”). If there is any chargeback or reversal of any payment requested by a PSP, the Seller agrees that MOL has the right to refund the money so requested by the PSP without any by the PSP liability to the Seller.  MOL, may, at the request of a Verified Member, assist a Verified Member in the event of any Dispute with a PSP. However, such assistance will be subject to additional fees.
+### 9.1 通知。
 
-### 3.5 Third-party vendor services.  
+除非另有明确规定，否则根据本协议向MARINE ONLINE或认证会员提供的任何通知均可通过电子邮件发送至（a）平台上经验证会员的会员资料中所述的地址，或（b）提供的地址根据具体情况，按照平台上的规定联系MARINE ONLINE。
 
-Verified Members may engage one or more third-party vendors for the purpose of completing and fulfilling an Online Transaction such as the warehousing and logistics service providers, shipping agents, inspection agents, insurers, etc.  The use of any third-party vendors is at the sole cost of and risk to each Verified Member.
+#### 10.  适用法律和争议解决
 
-#### 4. Service Fees
+### 10.1 适用法律。
 
-### 4.1 Service Fees. 
+本协议受新加坡法律管辖并按其诠释。尽管有上述规定的一般性，但“货物销售”（“联合国公约法”（第283A章）不适用于本协定。
 
-MOL shall have the right to charge service fees for the various Online Transactions according to the fee schedules published by MOL on the Platform as well as for any legally-binding transactions which may have originated on the Platform but are concluded outside the Platform.  MOL reserves the right to charge additional service fees for other types of Online Transactions with reasonable prior notification of such fees being published on the Platform.  Where an Online Transaction adopts the Payment Services, Verified Members authorize MOL to deduct any service fees that are due and payable to MOL for any completed an Online Transaction. MOL has no control over, and shall not be liable for any Products paid for with the Payment Services, neither shall MOL be liable to ensure that a Buyer or Seller will perform its obligations in relation to any transaction .For Online Transactions that do not adopt the Payment Services, MOL will send to the Verified Member a service fee invoice by the end of each calendar month or such other date as determined by MOL. This invoice shall be settled in full, without set-off or counterclaim by the date stated in the invoice and according to the instructions stated therein the invoice. MOL shall have the right to charge a late payment fee of 1% per month (or such other interest rate as may be permitted by law) based on the invoice amount for any payments which have not been made on or before the due date stated in the invoice. 
+### 10.2 友好谈判。
 
-Please refer to Service Fee Schedule at [https://aboutus.emarineonline.com/docs/terms/fee](https://aboutus.emarineonline.com/docs/terms/fee).
+如果本协议，在线交易或您对交易服务的使用产生或与之相关的争议，相关方应本着诚意，在争议发生之日起2周内或根据双方同意的其他时间表通过友好协商解决争议。
 
+### 10.3 商业协调已验证会员之间的争议。
 
-### 4.2 Waiver of service fees. 
+如果根据上述第10.2条在时间范围内无法解决经过验证的会员之间的争议，则相关方同意将争议提交给MARINE ONLINE进行确定调解，根据第10.4条的规定，该争议应为最终决定并对所有相关方具有约束力。在收到争议通知后，MARINE ONLINE可以要求任何相关方提供证明文件。MARINE ONLINE有绝对酌情权接受或拒绝任何证明文件的提交或准确性。MARINE ONLINE作出的决定纯属商业性质，并非司法性质，可能包括但不限于取消任何网上交易，或退回为一方代收持有的任何款项。为避免疑义，经验证过的会员无权对MARINE ONLINE以上提供的调解或决定，针对MARINE ONLINE要求赔偿或追究责任。
 
-MOL may, at its sole discretion, waive either the whole or part of any service fee if no legally-binding transaction is entered into as contemplated by clause 4.1 above. In order to seek a waiver of the service fee, the Seller shall provide evidence to MOL’s reasonable satisfaction that no legally binding transaction had been entered into with a Buyer or that such a transaction had been terminated or cancelled by mutual agreement prior to full performance of the contractual obligations by either Buyer or Seller. 
+### 10.4 反对以上决定。
 
-### 4.3 Third-party fees excluded. 
+如果经过验证的会员对MARINE ONLINE的决定不满意，可以通过事先书面通知MARINE ONLINE和其他利益相关方，将争议提交给SIAC，以便通过仲裁解决。如果认证成员在确定之日起7天内未发出书面通知反对MARINE ONLINE的决定，则该成员将失去将争议提交仲裁的权利。
 
-The service fees charged by MOL do not include any fees for any service or product that you may acquire or purchase in connection with the Online Transaction.  It shall be your responsibility to settle the fees with such third party vendors.
+### 10.5 其他争议。
 
-### 4.4 Taxes and other financial charges excluded. 
+MARINE ONLINE与认证会员之间因本协议产生或与本协议有关的任何其他争议，包括有关其存在，有效性或终止的任何问题，均应由新加坡国际仲裁中心根据当时有效的新加坡国际仲裁中心仲裁规则，该规则在本条款中被视为通过引用纳入。仲裁庭应由独任仲裁员组成，仲裁程序的语言应为英语。
 
-All fees charged by MOL exclude any taxes, duties or other governmental levies or any financial charges. The Verified Member shall be liable and shall pay for any such taxes, duties, levies or financial charges in connection with its use of the Platform and the Transaction Services, in addition to MOL’s service fees. In the event that MOL is required by any applicable law to collect or withhold any taxes or duties, you agree to indemnify and to reimburse MOL for any such taxes or duties collected or withheld.  Verified Members shall also be liable for any financial charges for remittance of funds to you, and MOL shall have the right to deduct such charges from the funds to be remitted.  MOL shall also have the right to deduct any financial charges from the party to receive funds, incurred in connection with the provision of the Transaction Services.
+### 10.6 赔偿。
 
-#### 5.  Verified Members’ Responsibilities
+如果违反第10.3条，经验证的成员对MARINE ONLINE进行仲裁申请或其他法律诉讼，MARINE ONLINE，其官员和雇员一律有权对得到该经验证的成员的全额赔偿，并对任何索赔，损失，或因违反第10.3条而引起或与之相关的损害不承担责任与受到保护。
 
-### 5.1 Provision of information and assistance.  
+#### 11.   其他条款
 
-Verified Members shall provide all necessary information, materials and approval, and render all reasonable assistance and co-operation necessary for the completion of an Online Transaction and for MOL effectively provide the Transaction Services.  If the Verified Member’s failure to do so results in delay in the provision of any Transaction Service, the cancellation of any Online Transaction or disposal of any funds, MOL shall not be liable to the Verified Member for any loss or damage arising from such failure.
+### 11.1 完整协议。
 
-### 5.2 Representations and Warranties.  
+本协议构成您与MARINE ONLINE之间关于和管理交易服务使用的完整协议，取代任何先前与此处相同主题有关的书面或口头协议。
 
-**Each Verified Member represents and warrants that each time it uses the Platform:**
+### 11.2 可分割性。
 
-  (a)	warrant to MOL that: 
+如果本协议的任何条款被认定无效或不可执行，则应删除该条款，其余条款仍然有效并予以执行。
 
-   (i)		if it is a business, it is duly organized, validly existing and in good standing under the laws of the country in which its business is registered and that it is registering for the Service(s) within such country; 
+### 11.3 独立承包商。
 
-   (ii)		it has all requisite right, power, and authority to enter into this Agreement, perform its obligations, and grant the rights, licenses, and authorizations in this Agreement;    
+本协议不打算或创建任何代理，合伙，合资，雇员 - 雇主或特许经营 - 特许经营关系。
 
-   (iii)	any information provided or made available, by it  or its  Affiliates to MOL or its Affiliates, is at all times accurate and complete;  
-   
-   (iv)		it and its financial institution(s) are not subject to sanctions or otherwise designated on any list of prohibited or restricted parties or owned or controlled by such a party.
-   
-  (b)	it will only use the Transaction Services in good faith and in compliance with all applicable laws，including laws related to anti-money laundering and counter-terrorism financing；
+### 11.4 无豁免。
 
-  (&#99;)	all information and material it provides in connection with the Transaction Services is true, lawful and accurate, and is not false, misleading or deceptive;
+MARINE ONLINE未能行使本协议项下的任何权利，并不构成对随后或类似违约行为的此类权利或弃权的放弃。弃权只有在以书面形式提出时才有效。
 
-  (d)	it will not use the Transaction Services to defraud MOL, other Verified Members or other users of the Platform; or engage in other unlawful activities (including but not limited to dealing in Products prohibited by law); and
+### 11.5 转移。
 
-  (e)	in the capacity of a Seller, it
+MARINE ONLINE有权将本协议作为一个整体或部分转让给任何关联公司和/或任何利益相关者。MARINE ONLINE可以将本协议下的某些MARINE ONLINE权利和责任委托给独立承包商或其他第三方。经过验证的会员不得将本协议作为整体或部分转让给任何其他人。
 
-   (i)		has the right to sell, distribute or export the Products using the Transaction Services and such Products do not infringe any third party’s legal rights;
-    
-   (ii)		has good title to the Products supplied to a Buyer and the Products meet the agreed description and specifications; and
-    
-   (iii)	it will provide the services ordered with reasonable care and skill.
+### 11.6 无隐含条款。
 
-  (f)	it grants MOL a royalty-free, non-exclusive, worldwide, perpetual, irrevocable right and license to use, reproduce, perform, display, distribute, adapt, modify, re-format, create derivative works of, and otherwise commercially or non-commercially exploit in any manner, any and all of its materials, and to sublicense the foregoing rights to MOL’s Affiliates; provided, however, that MOL will not alter any of the Verified Member’s trademarks from the form provided by it (except to re-size trademarks to the extent necessary for presentation, so long as the relative proportions of such trademarks remain the same) and will comply with its removal requests as to specific uses of its trademarks (provided it is unable to do so using standard functionality made available to it via the applicable the Platform.
-  
-### 5.3 Breach. 
+法律允许的任何条件，保证或其他条款均可在法律允许的最大范围内排除，但本协议中的任何内容均不影响任何人对任何欺诈性虚假陈述的责任。
 
-If, in MOL’s reasonable opinion, a Verified Member does not act in good faith in the use of the Platform, abuses the Transaction Services, or is otherwise in breach of this Agreement, MOL shall have the right to cancel the relevant Online Transaction(s).  MOL also reserves the right to impose any penalty, or to temporarily suspend or terminate a Verified Member’s use of some or all of the functionality of the Platform.  MOL also reserves the right to (i) temporarily suspend the transaction functionalities of your account with MOL. MOL may also publish its findings, penalties and other records regarding the breaches on the Platform without specifically identifying any Verified Member.
+### 11.7 解释。
 
-### 5.4 Obligation to Pay Taxes. 
-
-Each Verified Member shall be solely responsible for payment of any taxes, duties or other governmental levies or any charges or fees that may be imposed on any Products purchased or supplied under or in connection with the Online Transactions.
-
-### 5.5 Feedback System. 
-
-A Verified Member shall not take any action which may undermine the integrity of MOL’s feedback system, such as providing false, positive feedback on itself or at the request of another Verified Member or by providing false, unsubstantiated negative feedback on another Verified Member or user of the Platform.
-
-### 5.6 Indemnification.  
-
-Each Verified Member agrees to indemnify MOL, its/their employees, directors, officers, agents and representatives and to hold them all harmless, from any and all loss, damage, actions, claims and liabilities (including legal costs) which may arise, directly or indirectly, the Verified Member’s use of the Transaction Services or from its breach of this Agreement.  MOL shall have the right but shall not be obliged to be dominis litis in respect of any legal proceedings for which you are obliged to indemnify MOL.
-
-#### 6. Confidentiality
-
-### 6.1 Confidentiality Obligations.  
-
-You shall keep confidential all information provided by other Verified Members or MOL in connection with any Online Transaction or the Transaction Services.
-
-### 6.2 Confidential Information.  
-
-All information and material provided by another member of the Platform or MOL will be deemed to be confidential information unless such information or material is already in the public domain or has subsequently becomes public other than due to your breach of the confidential obligations.
-
-#### 7.  Disclaimers and limitations
-
-### 7.1 No warranty.  
-
-Each Verified Member agrees that its use of the Transaction Services is at its sole risk.  To the full extent permitted by law, the Transaction Services are provided on "as is", "as available" and “with all faults” bases, and MOL makes no representation or warranty that the Transaction Services will be uninterrupted, timely or error-free.  Furthermore, MOL makes no representation or warranty with respect to the accuracy, truthfulness and completeness of the information provided by any Verified Member on the Platform.  Each Verified Member will be solely responsible for all consequences resulting from its to use or otherwise rely on such information. MOL disclaims any and all warranties, express or implied, including but not limited to any warranties as to  condition, quality, durability, performance, accuracy, reliability, merchantability or fitness for any particular purpose or non-infringement even if advised of the possibility of such damages or if such possibility was reasonably foreseeable.  To the extent permitted by law, all such warranties, representations, conditions, undertakings and terms are hereby disclaimed and excluded.
-
-### 7.2 Exclusion and limitation of liability. 
-
-To the fullest extent permitted by law, MOL shall not be liable for any indirect, consequential, incidental losses, special or punitive damages, including without limitation loss of profits or revenue, business interruption, loss of business opportunities or loss of data, whether in contract, negligence, tort, equity or otherwise, arising from the use of or inability to use the transaction services.  The aggregate liability of MOL and its agents in connection with the Transaction Services for any Online Transaction shall not in any event exceed the higher of the service fees charged by MOL or US$1,000. 
-
-### 7.3 Limitation Period.  
-
-Any and all claims arising out of or in connection with this agreement shall be deemed to have been irrevocably extinguished and time-barred after one year from date of the incident giving rise to the claim.
-
-#### 8.  Force Majeure
-
-### 8.1 Force Majeure. 
-
-MOL shall be liable to any Verified Member for any delay or failure or disruption of the Transaction Services resulting directly or indirectly from any event that is beyond the reasonable control of MOL such as but not limited to acts of nature, forces or causes beyond our reasonable control, including without limitation, internet failures, computer, telecommunications or any other equipment failures, electrical power failures, strikes, labour disputes, riots, insurrections, civil disturbances, shortages of labour or materials, terrorism, war, governmental actions, orders of domestic or foreign courts or tribunals.
-
-#### 9.  Notices
-
-### 9.1 Notices. 
-
-Except as expressly stated otherwise, any notices to be served on MOL or a Verified Member pursuant to this Agreement may be sent by email to 
-(a)	the address stated in a Verified Member’s membership profile on the Platform or 
-(b)	to the address provided for contacting MOL as stated on the Platform, as the case may be.  
-
-#### 10.  Governing Law and Dispute Resolution
-
-### 10.1 Governing law. 
-
-This Agreement shall be governed by and construed in accordance with the laws of Singapore. Notwithstanding the generality of the foregoing, the Sale of Goods (United Nations Convention Act (Cap. 283A) shall not apply to this Agreement.
-
-### 10.2 Amicable negotiations. 
-
-If any Dispute arises from or in connection with this Agreement, an Online Transaction or your use of the Transaction Services, the relevant parties shall, in good faith, try to resolve the Dispute through amicable negotiations within 2 weeks from the date on which the Dispute has arisen or such other timeframe as may be agreed between the relevant parties.
-
-### 10.3 Commercial determination of disputes between Verified Members. 
-
-Where a Dispute between Verified Members cannot be resolved within the timeframe pursuant to clause 10.2 above, the relevant parties agree to submit the Dispute to MOL for determination which, subject to clause 10.4, shall be final and binding on all parties concerned. Upon receiving notification of a Dispute, MOL may request any of the parties involved to provide supporting documents. MOL shall have the absolute discretion to accept or reject any supporting document. The determination made by MOL is on a purely commercial and is not judicial in nature and may include but shall not be limited to the cancellation of any Online Transaction, or the return of any monies held for a party. For avoidance of doubt, MOL shall have no liability to a Verified Member and neither shall a Verified Member have any recourse against MOL in connection any aspect of the determination process or with any determination made by MOL.
-
-### 10.4 Objection to determination. 
-
-If a Verified Member is dissatisfied with MOL’s determination it may, by giving prior written notice to MOL and to the other interested parties that it will be referring the Dispute to the SIAC to be resolved by arbitration. A Verified Member shall lose the right to refer the Dispute to arbitration if it does not give written notice that it objects to MOL’s determination within 7 days from the date of the determination.
-
-### 10.5 Other Disputes. 
-
-Any other Dispute between MOL and a Verified Member arising out of or in connection with this Agreement, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration seated in Singapore administered by the SIAC in accordance with the Arbitration Rules of the SIAC for the time being in force, which Rules are deemed to be incorporated by reference in this clause. The tribunal shall consist of a sole arbitrator and the language of the arbitral proceedings shall be English.
-
-### 10.6 Indemnification.  
-
-If in breach of clause 10.3, a Verified Member starts arbitration or other legal proceedings against MOL, MOL, its officers and employees shall have the right to be fully indemnified by that Verified Member and to be held harmless in respect of any claims, losses, damage that may be suffered by them arising out of or in connection with such breach of clause 10.3.
-
-#### 11.   Miscellaneous Terms
-
-### 11.1 Entire Agreement. 
-
-This Agreement constitutes the entire agreement between you and MOL with respect to and governs the use of the Transaction Services, superseding any prior written or oral agreements in relation to the same subject matter herein.
-
-### 11.2 Severability. 
-
-If any provision of this Agreement is held to be invalid or unenforceable, such provision shall be deleted and the remaining provisions shall remain valid and be enforced.
-
-### 11.3 Independent Contractor. 
-
-No agency, partnership, joint venture, employee-employer or franchiser-franchisee relationship is intended or created by this Agreement.
-
-### 11.4 No Waiver. 
-
-Any failure by MOL to exercise any of its rights under this Agreement shall not constitute a waiver of such right or a waiver with respect to subsequent or similar breach.  A waiver shall be effective only if made in writing.
-
-### 11.5 Transfers. 
-
-MOL shall have the right to transfer this Agreement, either as a whole or in part, to any Affiliate and/or to and to any successor in interest.  MOL may delegate certain of MOL rights and responsibilities under this Agreement to independent contractors or other third parties.  Verified Members may not transfer this Agreement, either as a whole or in part, to any other Person. 
-
-### 11.6 No implied terms. 
-
-Any conditions, warranties or other terms which may be implied by statute or common law are excluded to the fullest extent permitted by law, but nothing in this Agreement shall affect the liability of any Person for any fraudulent misrepresentation.
-
-### 11.7 Interpretation. 
-
-**In Agreement unless the context requires otherwise:**
+**在协议中，除非上下文另有要求：**
 	
-  (a)	References in the singular shall include references in the plural and vice versa, words denoting gender shall include any other gender and words denoting natural persons shall include any other Persons.
+（a）单数形式的参考文献应包括复数形式的参考文献，反之亦然，表示性别的文字应包括任何其他性别，表示自然人的文字应包括任何其他人。
 
-  (b)	Paragraph and sub-paragraph headings shall be ignored in construing this Agreement.
-	
-  (&#99;)	The words "include" and "including" are to be construed without limitation.
-	
-  (d)	A reference to a "law" includes common or customary law and any constitution, decree, judgment, legislation, order, ordinance, regulation, statute, treaty, or other legislative measure, in each case of any jurisdiction whatever (and "lawful" and "unlawful" shall be construed accordingly).
+（b）在构建本协议时，应忽略段落和分段标题。
 
-### 11.8 Definitions. 
+（c）词语“包括”和“包括”应理解为没有限制。
 
-Capitalised words and phrases in this Agreement which have not already been defined above shall have the meanings as set out below:
+（d）提及“法律”包括普通法或习惯法以及任何司法管辖区的任何宪法，法令，判决，立法，命令，条例，规章，法规，条约或其他立法措施（及合法的“和”非法的“应据此解释”。
 
-“**Affiliate**” means, with respect to any Person, any other Person (other than an individual) that directly or indirectly, through one or more intermediaries, controls or is controlled by, or is under common control with, such Person.  For this purpose, "control" means the beneficial ownership, either directly or indirectly of fifty percent (50%) or more of the voting rights in a corporation, partnership or other legal entity, or, (whether alone or acting in concert with others, and whether by the ownership of share capital, the possession of voting power, contract or otherwise) the right to appoint the majority of the board of directors or equivalent management body of such corporation, partnership or other legal entity.
+### 11.8 定义。
 
-“**Agreement**” means this Transaction Services Agreement.
+本协议中尚未定义的大写单词和短语具有以下含义：
 
-“**Buyer**” shall mean the purchaser of Products and where the Product relates to the charter of a ship, shall mean the charterer.
+“**关联公司**” 是指就任何人而言，任何其他人（个人除外）直接或间接通过一个或多个中间人控制或受该人控制或与该人共同控制。为此目的，“控制”是指直接或间接拥有公司，合伙企业或其他法律实体中百分之五十（50％）或更多投票权的受益所有权，或（无论是单独还是与他人一致行事） ，以及是否通过股本的所有权，拥有投票权，合同或其他方式）指定该公司，合伙企业或其他法律实体的大多数董事会或同等管理机构的权利。
 
-“**Dispute**” means any dispute, claim, disagreement or controversy arising out of or in connection with Agreement (including a dispute claim, disagreement or controversy relating to the existence, validity or termination of this Agreement) or any non-contractual obligation arising out of or in connection with this Agreement.
+“**协议**” 指本交易服务协议。
 
-“**MOL**” means Marine Online Pte Ltd, a company incorporated in Singapore (UEN 2014318181K), its assigns or its successors in title and shall include its Affiliates.
+“**买方**” 是指产品的购买者，而产品与船舶租赁相关的，是指承租人。
 
-“**Person**” shall have the same meaning as in the Interpretation Act (Cap. 1) 
+“**争议**” 是指因协议引起的或与协议有关的任何争议，索赔，分歧或争议（包括与本协议的存在，有效性或终止有关的争议索赔，分歧或争议）或由此引起的任何非合同义务。或与本协议有关的。
 
-“**Platform**” means www.emarineonline.com.
+“**MARINE ONLINE**” 指MARINE ONLINE Pte Ltd，一家在新加坡注册成立的公司（UEN 2014318181K），其所有权或其继承人，并包括其关联公司。
 
-“**Privacy Policy**” may be found at https://aboutus.emarineonline.com/docs/terms/policy 
+“**人**” 的涵义与“释义法”（第1章）中的涵义相同
 
-“**Products**” shall mean the goods and/or services provided through this Platform.
+“**平台**” 指www.emarineonline.com。
 
-“**Seller**” shall mean the supplier of Products and where the Product relates to the charter of a ship, shall mean the (disponent) shipowner.
+“**隐私政策**” 可在 https://aboutus.emarineonline.com/docs/terms/policy 上找到
 
-“**Service Fee Schedule**”: May be found at [https://aboutus.emarineonline.com/docs/terms/fee](https://aboutus.emarineonline.com/docs/terms/fee).
+“**产品**” 指通过本平台提供的商品和/或服务。
 
-“**SIAC**” means the Singapore International Arbitration Centre.
+“**卖方**” 是指产品供应商以及产品与船舶租赁相关的，是指（发行方）船东。
 
-“**Terms of Use**” may be found at https://aboutus.emarineonline.com/docs/terms/tnc 
+“**服务费用表**”: 可在 https://aboutus.emarineonline.com/docs/terms/fee 找到。
 
-“**US$**” means the lawful currency of the United States of America.
+“**SIAC**” 指新加坡国际仲裁中心。
 
-“**Verified Member**” means only those users of the Platform who have the right to buy and sell Products on the Platform.
+“**使用条款**” 可在 https://aboutus.emarineonline.com/docs/terms/tnc 找到。
 
- [Back to Top](agreement#)
+“**美元**” 是指美利坚合众国的合法货币。
+
+“**已验证会员**” 仅指平台上有权在平台上买卖产品的用户。
+
+ [回到顶部](交易服务条款#)
  
