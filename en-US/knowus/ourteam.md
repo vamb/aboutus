@@ -4,6 +4,8 @@ name: Our Team
 
 ## Our Team
 
+![](https://www.emarineonline.com/api/common/r/oss?path=prod/mall/07.jpg)
+
 ### Tiger Cai
 
 **CHIEF OPERATION OFFICER**
@@ -13,6 +15,8 @@ As COO leading the operation team and aiming to bring in more value to the Marin
 Previously, Co-founded China’s leading online shipping platform (sol.com.cn) and led the company listed on OTCBB in US capital market. 
 With 15 years of knowledge in Marine industry involving in shipping, operation, tank containers, propelled inland river ships, as well as trading and online sales.
 
+![](https://www.emarineonline.com/api/common/r/oss?path=prod/mall/08.jpg)
+
 ### Sam Ng
 
 **VICE PRESIDENT**
@@ -21,6 +25,8 @@ As VP managing and leading the commercial team, focusing mainly on SNP and Chart
 
 Previously, Ex-Sea Captain with 30 years of experience in Shipping Industry, working across the entire value chain of shipping market as owners, Shipbrokers to Charterers. Processes in-depth commercial knowledge of the Tanker Market.
 
+![](https://www.emarineonline.com/api/common/r/oss?path=prod/mall/06.jpg)
+
 ### Edmund Chik
 
 **VICE PRESIDENT, MARINE SUPPLIES**
@@ -28,6 +34,8 @@ Previously, Ex-Sea Captain with 30 years of experience in Shipping Industry, wor
 As VP leading and managing Marine Supplies and Technical Service function focusing on the driving on continuous business development and responsible for the delivering of profitable revenue progression to achieve key milestones.
 
 With over 20 years of in-depth understanding and extensive knowledge for conversion and refurbishment project management in Marine and Offshore industries.
+
+![](https://www.emarineonline.com/api/common/r/oss?path=prod/mall/09.jpg)
 
 ### Gary Jin
 
