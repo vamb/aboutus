@@ -2,6 +2,8 @@
 name: Our Team
 ---
 
+![](https://www.emarineonline.com/api/common/r/oss?path=prod/mall/10.jpg)
+
 ## Our Team
 
 ![](https://www.emarineonline.com/api/common/r/oss?path=prod/mall/07.jpg)
