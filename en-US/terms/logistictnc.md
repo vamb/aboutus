@@ -52,7 +52,7 @@ The foregoing is a comprehensive limitation of liability that applies to all dam
 
 **(b)** that the  Platform, the Services or that any of the Materials will be provided uninterrupted, secure or free from errors or omissions, or that any identified defect will be corrected;
 
-**(c)** that the  Platform, the Services or the Materials are free from any computer virus or other malicious, destructive or corrupting code, agent, program or macros; and
+**(&#99;)** that the  Platform, the Services or the Materials are free from any computer virus or other malicious, destructive or corrupting code, agent, program or macros; and
 
 **(d)** the security of any information transmitted by you or to you through the Platform or the Services, and you accept the risk that any information transmitted or received through the Services or the Platform may be accessed by unauthorized third parties and/or disclosed by us or our officers, employees or agents to third parties purporting to be you or purporting to act under your authority. Transmissions over the Internet and electronic mail may be subject to interruption, transmission blackout, delayed transmission due to internet traffic or incorrect data transmission due to the public nature of the Internet.
 
@@ -62,7 +62,7 @@ The foregoing is a comprehensive limitation of liability that applies to all dam
 
 **(b)** reliance on any data or information made available through the  Platform and/or through the Services. You should not act on such data or information without first independently verifying its contents;
 
-**(c)** any system, server or connection failure, error, omission, interruption, delay in transmission, computer virus or other malicious, destructive or corrupting code, agent program or macros; and
+**(&#99;)** any system, server or connection failure, error, omission, interruption, delay in transmission, computer virus or other malicious, destructive or corrupting code, agent program or macros; and
 
 **(d)** any use of or access to any other website or webpage linked to the  Platform, even if we or our officers or agents or employees may have been advised of, or otherwise might have anticipated, the possibility of the same.
 
@@ -74,7 +74,7 @@ The foregoing is a comprehensive limitation of liability that applies to all dam
 
 **(b)** use the  Platform to defame , abuse, harass, stalk, threaten or otherwise violate the rights of others, including without limitation others’ privacy rights or rights of publicity;
 
-**(c)** impersonate any person or entity, falsely state or otherwise misrepresent your affiliation with any person or entity in connection with the  Platform; or express or imply that we endorse any statement  you make;
+**(&#99;)** impersonate any person or entity, falsely state or otherwise misrepresent your affiliation with any person or entity in connection with the  Platform; or express or imply that we endorse any statement  you make;
 
 **(d)** interfere with or disrupt the operation of the  Platform or the servers or networks used to make the  Platform available; or violate any requirements, procedures, policies or regulations of such networks;
 
@@ -293,7 +293,7 @@ A Shipment is unacceptable if:
 
 (1)	Shipments cannot be delivered to PO boxes. Shipments will be delivered to the Receiver’s address given by Shipper but not necessarily to the named Receiver personally.
 
- (2)	Shipments to addresses with a central receiving area will be delivered to that area. MOL may notify Receiver of an upcoming delivery or a missed delivery. Receiver may be offered alternative delivery options such as delivery on another day, no signature required, redirection or collection at a MOL Service Point. Shipper may exclude some delivery options on request.
+(2)	Shipments to addresses with a central receiving area will be delivered to that area. MOL may notify Receiver of an upcoming delivery or a missed delivery. Receiver may be offered alternative delivery options such as delivery on another day, no signature required, redirection or collection at a MOL Service Point. Shipper may exclude some delivery options on request.
 
 (3)	If the Shipment is deemed to be unacceptable as described in Clause 2 above (**“Unacceptable Shipments”**), or it has been undervalued for customs purposes, or Receiver cannot be reasonably be identified or located, or Receiver refuses delivery or to pay customs duties or other Shipment charges, MOL shall use reasonable efforts to return the Shipment to Shipper at Shipper’s costs and expenses, failing which the Shipment may be released, disposed of or sold without incurring any liability whatsoever to Shipper or anyone else, with the proceeds applied against customs duties, Shipment charges and related administrative costs with the balance of the proceeds of a sale to be returned to Shipper. MOL shall have the right to destroy any Shipment which any law prevents MOL from returning to Shipper as well as any Shipment of Dangerous Goods and any such costs incurred by MOL shall be for Shipper’s account.
 
