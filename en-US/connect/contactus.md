@@ -24,4 +24,4 @@ Operating hours: 9am to 5.30pm, Monday to Friday (Closed on Saturday, Sunday and
 
 Mapletree Business City Singapore 117438
 
-![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/map.png)
+![](https://www.emarineonline.com/api/common/r/oss?path=prod/mall/17.jpg)
