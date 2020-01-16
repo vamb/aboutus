@@ -79,7 +79,7 @@ As a supplier, you are entitled to a complimentary online store set up including
         <tr>
             <td rowspan=1>Other Marine Services</td>
             <td>5%</td>
-            <td>For Every Successful Transaction In Form Of Marine Watch or Marine Mall.</td>
+            <td>For Every Successful Transaction In Form Of Marine Match or Marine Mall.</td>
         </tr>
     </tbody>
 </table>
