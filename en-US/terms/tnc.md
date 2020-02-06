@@ -14,7 +14,7 @@ The following Terms of Use govern your use and access of the Platform (defined b
 
 Access to and use of password protected and/or secure areas of the Platform and/or use of the Services are restricted to Customers with accounts only. You may not obtain or attempt to obtain unauthorized access to such parts of this Platform and/or Services, or to any other protected information, through any means not intentionally made available by us for your specific use. A breach of this provision may be an offence under the Computer Misuse Act (Chapter 50A) of Singapore.
 
-**If you are using this platform on behalf of your employer or principal:** you must obtain the prior consent from your parent(s) or legal guardian(s), their acceptance of these Terms of Use and their agreement to take responsibility for: (i) your actions; (ii) any charges associated with your use of any of the Services or purchase of Products; and (iii) your acceptance and compliance with these Terms of Use. **If you do not have the prior consent/authorization from your employer or principal, you must stop using/accessing this Platform and using the Services; otherwise you will be held personally liable/responsible for any charges associated with your usage/access to this Platform and the Services or purchase of Products.**
+**If you are using this platform on behalf of your employer or principal:** you must obtain the prior consent from your company, their acceptance of these Terms of Use and their agreement to take responsibility for: (i) your actions; (ii) any charges associated with your use of any of the Services or purchase of Products; and (iii) your acceptance and compliance with these Terms of Use. **If you do not have the prior consent/authorization from your employer or principal, you must stop using/accessing this Platform and using the Services; otherwise you will be held personally liable/responsible for any charges associated with your usage/access to this Platform and the Services or purchase of Products.**
 
 Unless otherwise defined, the definitions and provisions in respect of interpretation set out in Schedule 1 will apply to these Terms of Use.
 
@@ -32,7 +32,7 @@ Unless otherwise defined, the definitions and provisions in respect of interpret
 
 (d) post, promote or transmit through the Platform or Services any Prohibited Materials;
 
-(e) interfere with another’s utilization and enjoyment of the Platform or Services;
+(e) interfere with another’s utilization of the Platform or Services;
 
 (f) use or upload, in any way, any software or material that contains, or which you have reason to suspect that contains, viruses, damaging components, malicious code or harmful components which may impair or corrupt the Platform’s data or damage or interfere with the operation of another Customer’s computer or mobile device or the Platform or Services; and
 
@@ -40,13 +40,13 @@ Unless otherwise defined, the definitions and provisions in respect of interpret
 
 2.3 Availability of Platform and Services: We may, from time to time and without giving any reason or prior notice, upgrade, modify, suspend or discontinue the provision of or remove, whether in whole or in part, the Platform or any Services and shall not be liable if any such upgrade, modification, suspension or removal prevents you from accessing the Platform or any part of the Services.
 
-2.4 Right, but not obligation, to monitor content: We reserve the right, but shall not be obliged to:
+2.4 No obligation, to monitor content: We reserve the right, but shall not be obliged to:
 
-(a) monitor, screen or otherwise control any activity, content or material on the Platform and/or the Services. We may in our sole and absolute discretion, investigate any violation of the terms and conditions contained herein and may take any action it deems appropriate;
+(a) monitor, screen or otherwise control any activity, content or material on the Platform and/or the Services. We may in our sole and absolute discretion, investigate any violation of the terms and conditions contained herein and may take any action deems appropriate;
 
 (b) prevent or restrict access of any Customer to the Platform and/or the Services;
 
-(c) report any activity it suspects to be in violation of any applicable law, statute or regulation to the appropriate authorities and to co-operate with such authorities; and/or
+(c) report any activity suspects to be in violation of any applicable law, statute or regulation to the appropriate authorities and to co-operate with such authorities; and/or
 
 (d) to request any information and data from you in connection with your use of the Services and/or access of the Platform at any time and to exercise our right under this paragraph if you refuse to divulge such information and/or data or if you provide and we have reasonable grounds to suspect that you have provided inaccurate, misleading or fraudulent information and/or data.
 
