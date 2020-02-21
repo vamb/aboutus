@@ -12,7 +12,7 @@ name: Logistic Terms And Conditions
 
 ### Terms And Conditions
 
-**1** We are MARINE ONLINE PTE LTD and we own and operate this website www.emarineonline.com  (‘ Platform’) and the mobile app (‘App’).
+**1** We are MARINE ONLINE PTE LTD and we own and operate this website www.marineonline.com  (‘ Platform’) and the mobile app (‘App’).
 
 **2** Unless otherwise defined, the definitions and provisions in respect of interpretation set out in Schedule 1 respectively shall apply to these Terms of Use.
 
@@ -105,15 +105,15 @@ We reserve the right to revoke these exceptions either generally or in specific 
 
 **20** Your use of the Services and/or access to the Platform is also subject to the Privacy Policy as set out at:-
 
-https://aboutus.emarineonline.com/docs/terms/policy.
+https://aboutus.marineonline.com/docs/terms/policy.
 
 **21** Transaction Service Agreement: Registered account holder will be subject to the Transaction Service Agreement as set out at : -
 
-https://aboutus.emarineonline.com/docs/terms/agreement.
+https://aboutus.marineonline.com/docs/terms/agreement.
 
 **22** Service Fee Schedule: Charges to each transaction in respective to the various services will be subjected to the Service Fee Schedule set out at: -
 
-https://aboutus.emarineonline.com/docs/terms/fee.
+https://aboutus.marineonline.com/docs/terms/fee.
 
 **23** Product description: While we endeavor to provide an accurate description of the Products, we do not warrant that such description is accurate, current or free from error.
 
@@ -145,7 +145,7 @@ https://aboutus.emarineonline.com/docs/terms/fee.
 
 **29.2** Consent to receive e-mails: You consent to and authorize the use by us of any information provided by you (including Personal Data) for the purposes of sending informational and promotional e-mails to you. Your agreement to the provisions of this Clause 28.2 shall constitute your consent for the purpose of the provisions of any spam control laws (whether in Singapore or elsewhere). You may subsequently opt out of receiving promotional e-mails by clicking on the appropriate hyperlink in any promotional e-mail.
 
-**29.3** Privacy Policy: You acknowledge that you have read and agree to the Privacy Policy at https://aboutus.emarineonline.com/docs/terms/policy and consent to our collection, use and disclosure of your Personal Data for the purposes as set out in the Privacy Policy.
+**29.3** Privacy Policy: You acknowledge that you have read and agree to the Privacy Policy at https://aboutus.marineonline.com/docs/terms/policy and consent to our collection, use and disclosure of your Personal Data for the purposes as set out in the Privacy Policy.
 
 **30** Termination by us: In our sole and absolute discretion, we may with immediate effect upon giving you notice, terminate your use of the Platform and/or Services and/or disable your Username and Password. We may bar access to the Platform and/or Services (or any part thereof) for any reason whatsoever, including a breach of any of these Terms of Use or where if we believe that you have violated or acted inconsistently with any terms or conditions set out herein, or if in our opinion or the opinion of any regulatory authority, it is not suitable to continue providing the services relating to the Platform. If we terminate your access to the Platform, you will not have the rights to bring claims against us or our affiliates with respect to such termination.
 
@@ -225,9 +225,9 @@ https://aboutus.emarineonline.com/docs/terms/fee.
 
 1.9	“Personal Data” means data, whether true or not, that can be used to identify, contact or locate you. Personal Data can include your name, e-mail address, billing address, shipping address, phone number and credit card information. “Personal Data” shall be deemed to include any data that you have provided to us when placing an Order, regardless of whether you have an account with us.
 
-1.10	“Platform” means (a) both the web and mobile versions of the website operated and/or owned by Marine Online which is presently located at the following URL: www.emarineonline.com; www.ecrewingonline.com and (b) the mobile applications made available from time to time by Marine Online, including the iOS and Android versions.
+1.10	“Platform” means (a) both the web and mobile versions of the website operated and/or owned by Marine Online which is presently located at the following URL: www.marineonline.com; www.ecrewingonline.com and (b) the mobile applications made available from time to time by Marine Online, including the iOS and Android versions.
 
-1.11	“Privacy Policy” means the privacy policy set out at https://aboutus.emarineonline.com/docs/terms/policy.
+1.11	“Privacy Policy” means the privacy policy set out at https://aboutus.marineonline.com/docs/terms/policy.
 
 1.12	“Product” means a product or service (including any installment of the product or any parts thereof) available for sale to Customers on the Platform.
 
@@ -237,7 +237,7 @@ https://aboutus.emarineonline.com/docs/terms/fee.
 
 1.15	“Submission” is as defined in Clause 8.1 of these Terms of Use.
 
-1.16	“Terms & Conditions of Sale” means the terms and conditions governing a Customer’s purchase of the Products and are set out at https://aboutus.emarineonline.com/docs/terms/tsa
+1.16	“Terms & Conditions of Sale” means the terms and conditions governing a Customer’s purchase of the Products and are set out at https://aboutus.marineonline.com/docs/terms/tsa
 
 1.17	“Terms of Use” means the recitals, Clauses 1 to 11 and any Schedules to these terms and conditions.
 
