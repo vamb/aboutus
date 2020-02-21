@@ -14,7 +14,7 @@ name: 隐私政策
 
 本隐私政策与您目前给予Marine Online收集或使用或透露您的个人数据，只有补充但并不取代您之前给与Marine Online类似的同意，并且您目前的同意是对任何公司可能依法收取的任何权利的补充，使用或披露您的个人资料。
 
-Marine Online可能不时更新本隐私声明，以确保本隐私声明符合我们未来的发展，行业趋势和/或法律或法规要求的任何变化。根据您的法律权利，您同意受我们网站 https://aboutus.emarineonline.com/docs/terms/policy 不时更新的本隐私声明的现行条款的约束。请定期查看有关处理您的个人数据的最新信息。
+Marine Online可能不时更新本隐私声明，以确保本隐私声明符合我们未来的发展，行业趋势和/或法律或法规要求的任何变化。根据您的法律权利，您同意受我们网站 https://aboutus.marineonline.com/docs/terms/policy 不时更新的本隐私声明的现行条款的约束。请定期查看有关处理您的个人数据的最新信息。
 
 ### 1.  个人资料
 
@@ -202,7 +202,7 @@ Marine Online可能不时更新本隐私声明，以确保本隐私声明符合�
 
 ### 7.  反垃圾邮件
 
-7.1如果您收到垃圾邮件并希望向我们报告，请将您收到的邮件转发至 [customercare@emarineonline.com](mailto:customercare@emarineonline.com).
+7.1如果您收到垃圾邮件并希望向我们报告，请将您收到的邮件转发至 [customercare@marineonline.com](mailto:customercare@marineonline.com).
 
 ### 8.  第三方网站
 
@@ -222,7 +222,7 @@ Marine Online可能不时更新本隐私声明，以确保本隐私声明符合�
 
 **Marine Online Pte. Ltd.联系方式：**
 
-电子邮件: [customercare@emarineonline.com](mailto:customercare@emarineonline.com)
+电子邮件: [customercare@marineonline.com](mailto:customercare@marineonline.com)
 
 电话：+65 6571 5888（客户服务热线）
 
