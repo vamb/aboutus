@@ -15,7 +15,7 @@ Instead of using your cash account solely for all business transaction in Marine
   2. Additional Payment Option for Convenience
   3. Confirm Quotation Without Transferring Fund To Cash Account
 
-At any time, members may send credit application to [credit@emarineonline.com](mailto:credit@emarineonline.com) including member’s login email and the required documents. Marine Online will notify you of your approved credit within 5 working days.
+At any time, members may send credit application to [credit@marineonline.com](mailto:credit@marineonline.com) including member’s login email and the required documents. Marine Online will notify you of your approved credit within 5 working days.
 
 **Documents**
 
