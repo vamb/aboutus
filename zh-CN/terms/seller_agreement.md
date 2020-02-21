@@ -6,7 +6,7 @@ name: Seller's Agreement
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/seller_agreement.jpg)
 
-Welcome to the www.emarineonline.com website and/or the Marine Online mobile app. 
+Welcome to the www.marineonline.com website and/or the Marine Online mobile app. 
 
 **Please read these terms and conditions carefully.**
 
@@ -53,9 +53,9 @@ Unless otherwise defined, the definitions and provisions in respect of interpret
 
 (d) to request any information and data from you in connection with your use of the Services and/or access of the Platform at any time and to exercise our right under this paragraph if you refuse to divulge such information and/or data or if you provide or if we have reasonable grounds to suspect that you have provided inaccurate, misleading or fraudulent information and/or data.
 
-2.5 Privacy Policy: Your use of the Services and/or access to the Platform is also subject to the Privacy Policy as set out at http://www.Marine Onlinemarine.com/privacy-policy/
+2.5 Privacy Policy: Your use of the Services and/or access to the Platform is also subject to the Privacy Policy as set out at http://www.marineonline.com/privacy-policy/
 
-2.6 Terms & Conditions of Sale and Voucher Terms & Conditions: Purchases of any Product would be subject to the Terms & Conditions of Sale as set out at http://www.Marine Onlinemarine.com/terms-of-sale.
+2.6 Terms & Conditions of Sale and Voucher Terms & Conditions: Purchases of any Product would be subject to the Terms & Conditions of Sale as set out at http://www.marineonline.com/terms-of-sale.
 
 2.7 Additional terms: In addition to these Terms of Use, the use of specific aspects of the Materials and Services, more comprehensive or updated versions of the Materials offered by us or our designated sub-contractors, may be subject to additional terms and conditions, which will apply in full force and effect.
 
@@ -132,7 +132,7 @@ You agree to be bound by any access of the Platform and/or use of any Services (
 
 8.2 Consent to receive e-mails: You consent to and authorize the use by us of any information provided by you (including Personal Data) for the purposes of sending informational and promotional e-mails to you. Your agreement to the provisions of this Clause 8.2 shall constitute your consent for the purpose of the provisions of any spam control laws (whether in Singapore or elsewhere). You may subsequently opt out of receiving promotional e-mails by clicking on the appropriate hyperlink in any promotional e-mail.
 
-8.3 Privacy Policy: You acknowledge that you have read and agree to the Privacy Policy at http://www.Marine Online.sg/privacy-policy/ and consent to our collection, use and disclosure of your Personal Data for the purposes as set out in the Privacy Policy.
+8.3 Privacy Policy: You acknowledge that you have read and agree to the Privacy Policy at http://www.marineonline.com/privacy-policy/ and consent to our collection, use and disclosure of your Personal Data for the purposes as set out in the Privacy Policy.
 
 
 ### 9. Termination 
@@ -211,9 +211,9 @@ You agree to be bound by any access of the Platform and/or use of any Services (
 
 1.10 “Personal Data” means data, whether true or not, that can be used to identify, contact or locate you. Personal Data can include your name, e-mail address, billing address, shipping address, phone number and credit card information. “Personal Data” shall be deemed to include any data that you have provided to us when placing an Order, regardless of whether you have an account with us.
 
-1.11 “Platform” means (a) both the web and mobile versions of the website operated and/or owned by Marine Online which is presently located at the following URL: www.Marine Onlinemarine.com; and (b) the mobile applications made available from time to time by Marine Online, including the iOS and Android versions.
+1.11 “Platform” means (a) both the web and mobile versions of the website operated and/or owned by Marine Online which is presently located at the following URL: www.marineonline.com; and (b) the mobile applications made available from time to time by Marine Online, including the iOS and Android versions.
 
-1.12 “Privacy Policy” means the privacy policy set out at http://www.emarineonline.con/privacy-policy/.
+1.12 “Privacy Policy” means the privacy policy set out at http://www.marineonline.con/privacy-policy/.
 
 1.13 “Product” means a product or service (including any installment of the product or any parts thereof) available for sale to Customers on the Platform.
 
@@ -228,7 +228,7 @@ You agree to be bound by any access of the Platform and/or use of any Services (
 
 1.16 “Submission” is as defined in Clause 8.1 of these Terms of Use.
 
-1.17 “Terms & Conditions of Sale” means the terms and conditions governing a Customer’s purchase of the Products and are set out at http://www.emarineonline.com/terms-of-use/.
+1.17 “Terms & Conditions of Sale” means the terms and conditions governing a Customer’s purchase of the Products and are set out at http://www.marineonline.com/terms-of-use/.
 
 1.18 “Terms of Use” means the recitals, Clauses 1 to 11 and any Schedules to these terms and conditions.
 
