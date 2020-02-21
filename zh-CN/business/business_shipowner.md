@@ -14,7 +14,7 @@ MOL’s platform uses high technology in matching the Cargoes and Vessels togeth
 
 As a Shipowner or Ship manager, you will need to purchase the Products/ Services for your Vessel(s). MOL provides the innovative e-commerce’s maritime solutions, and at the same time helps to safeguard the Products/ Services to be of good quality and reasonable costs. Whether it is providing Bunkering, Spare Parts, Port Agency, Crewing, Insurances or selling of second-hand Vessels, you will be able to send enquiry for it. MOL’s platform will auto matched the Suppliers which fulfilled the conditions, and at the stipulated time frame send the Quotations to you. You will be able to compare the Quotations based on the Price, Payment Terms, Supplier’s ratings etc and ultimately select the best Supplier. This helps to reduce operational costs and save money.
 
-To learn more about the questions on how the Shipowner uses the MOL’s platform, please access [Help Centre](http://docs.emarineonline.com/docs).
+To learn more about the questions on how the Shipowner uses the MOL’s platform, please access [Help Centre](http://docs.marineonline.com/docs).
 
 
 
