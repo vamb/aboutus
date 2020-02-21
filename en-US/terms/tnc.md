@@ -59,7 +59,7 @@ Unless otherwise defined, the definitions and provisions in respect of interpret
 
 3.2 Restrictions: Use of the Services is limited to authorized Customers that are of legal age and who have the legal capacity to enter into and form contracts under any applicable law. Customers who have breached or are in breach of the terms and conditions contained herein and Customers who have been permanently or temporarily suspended from use of any of the Services may not use the Services even if they satisfy the requirements of this Clause 3.2.
 
-### 3.3 General terms of use: You agree:
+3.3 General terms of use: You agree:
 
 (a) to access and/or use the Services only for lawful purposes and in a lawful manner at all times and further agree to conduct any activity relating to the Services in good faith; and
 
