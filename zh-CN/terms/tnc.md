@@ -6,7 +6,7 @@ name: 使用条款
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/terms_of_use)
 
-欢迎登录 www.emarineonline.com 网站和/或 Marine Online 移动应用程序。
+欢迎登录 www.marineonline.com 网站和/或 Marine Online 移动应用程序。
 
 **请仔细阅读此条款和条件。**
 
@@ -43,11 +43,11 @@ name: 使用条款
 （c）向有关当局报告其怀疑违反任何适用法律，法规或条例的任何活动，并与当局合作; 和/或
 （d）在任何时候要求您提供有关您使用服务和/或登录平台有关的任何信息和数据。如果您拒绝透露此类信息和/或数据或者我们有合理的理由怀疑您提供了不准确，误导性或欺诈性的信息和/或数据，我们将根据本条款强制性要求您提供其信息与数据。
 
-2.5隐私政策：您对服务的使用和/或对平台的登录也受 https://aboutus.emarineonline.com/docs/terms/policy 中规定的隐私政策的约束。
+2.5隐私政策：您对服务的使用和/或对平台的登录也受 https://aboutus.marineonline.com/docs/terms/policy 中规定的隐私政策的约束。
 
-2.6交易服务协议：注册账户持有人将遵守 https://aboutus.emarineonline.com/docs/terms/agreement 中规定的交易服务协议。
+2.6交易服务协议：注册账户持有人将遵守 https://aboutus.marineonline.com/docs/terms/agreement 中规定的交易服务协议。
 
-2.7服务费用表：各项服务各项交易的费用将按照 https://aboutus.emarineonline.com/docs/terms/fee 中规定的服务费用表进行。
+2.7服务费用表：各项服务各项交易的费用将按照 https://aboutus.marineonline.com/docs/terms/fee 中规定的服务费用表进行。
 
  [回到顶部](使用条款#)
 
@@ -127,7 +127,7 @@ name: 使用条款
 
 8.2同意接收电子邮件：您同意并授权我们使用您提供的任何信息（包括个人数据），以便向您发送信息和促销电子邮件。您同意本第8.2条的规定即表示您同意任何垃圾邮件控制法（无论是在新加坡还是其他地方）的规定。您可以随后通过点击任何促销电子邮件中的相应超链接选择不接收促销电子邮件。
 
-8.3隐私政策：您承认您已阅读并同意隐私政策，网址为 https://aboutus.emarineonline.com/docs/terms/policy ，并同意我们收集，使用和披露您的个人数据以达到目的在隐私政策中。
+8.3隐私政策：您承认您已阅读并同意隐私政策，网址为 https://aboutus.marineonline.com/docs/terms/policy ，并同意我们收集，使用和披露您的个人数据以达到目的在隐私政策中。
 
  [回到顶部](使用条款#)
 
@@ -209,9 +209,9 @@ name: 使用条款
 
 1.11“个人数据”， 无论是否真实，是指可用于识别，联系或定位您的数据，。个人数据可以包括您的姓名，电子邮件地址，账单地址，送货地址，电话号码和信用卡信息。“个人资料”应被视为包括您在下订单时向我们提供的任何数据，无论您是否拥有我们的账户。
 
-1.12“平台”是指（a）Marine Online运营和/或拥有的网站和移动版本，目前位于以下网址：www.emarineonline.com ; （b）Marine Online不时提供的移动应用程序，包括iOS和Android版本。
+1.12“平台”是指（a）Marine Online运营和/或拥有的网站和移动版本，目前位于以下网址：www.marineonline.com ; （b）Marine Online不时提供的移动应用程序，包括iOS和Android版本。
 
-1.13“隐私政策”是指 https://aboutus.emarineonline.com/docs/terms/policy 中规定的隐私政策。
+1.13“隐私政策”是指 https://aboutus.marineonline.com/docs/terms/policy 中规定的隐私政策。
 
 1.14“产品”指可在平台上销售给客户的产品或服务（包括产品的任何部分或其任何部分）。
 
@@ -221,7 +221,7 @@ name: 使用条款
 
 1.17“提交的材料”如本使用条款第8.1条所定义。
 
-1.18“销售条款和条件”指管理客户购买产品的条款和条件，详见 https://aboutus.emarineonline.com/docs/terms/agreement 。
+1.18“销售条款和条件”指管理客户购买产品的条款和条件，详见 https://aboutus.marineonline.com/docs/terms/agreement 。
 
 1.19“使用条款”指的是前提，第1至11条以及此条款和条件的任何附表（Schedule）。
 
