@@ -8,7 +8,7 @@ name: Terms of Use
 
 Welcome to the https://www.marineonline.com website and/or the mobile app.
 
-### read these terms and conditions carefully.
+### Read these terms and conditions carefully.
 
 The following Terms of Use govern your use and access of the Platform (defined below) and the use of the Services. By accessing the Platform and/or using the Services, you agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, do not access and/or use this Platform or the Services.
 
