@@ -6,7 +6,7 @@ name: Terms of Use
 
 [Last updated on 10th February 2020]
 
-Welcome to the https://www.marineonline.com website and/or the mobile app.
+Welcome to the www.marineonline.com website and/or the mobile app.
 
 ### Read these terms and conditions carefully.
 
