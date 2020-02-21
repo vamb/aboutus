@@ -16,7 +16,7 @@ By interacting with us, submitting information to us, enrolling or signing up fo
 
 This Privacy Policy supplements but does not supersede nor replace any other consent you may have previously provided to Marine Online in respect of your Personal Data, and your consents herein are additional to any rights which to any of the Companies may have at law to collect, use or disclose your Personal Data.
 
-Marine Online may from time to time update this Privacy Statement to ensure that this Privacy Statement is consistent with our future developments, industry trends and/or any changes in legal or regulatory requirements. Subject to your rights at law, you agree to be bound by the prevailing terms of this Privacy Statement as updated from time to time on our website https://aboutus.emarineonline.com/docs/terms/policy. Please check back regularly for updated information on the handling of your Personal Data.
+Marine Online may from time to time update this Privacy Statement to ensure that this Privacy Statement is consistent with our future developments, industry trends and/or any changes in legal or regulatory requirements. Subject to your rights at law, you agree to be bound by the prevailing terms of this Privacy Statement as updated from time to time on our website https://aboutus.marineonline.com/docs/terms/policy. Please check back regularly for updated information on the handling of your Personal Data.
 
 ### 1.  Personal Data
 
@@ -204,7 +204,7 @@ xi.	any other party to whom you authorise us to disclose your Personal Data to.
 
 ### 7.  Anti-Spam
 
-7.1 If you receive spam messages and want to report it to us, please forward the message you have received to [customercare@emarineonline.com](mailto:customercare@emarineonline.com).
+7.1 If you receive spam messages and want to report it to us, please forward the message you have received to [customercare@marineonline.com](mailto:customercare@marineonline.com).
 
 ### 8.  Third-Party Sites
 
@@ -224,7 +224,7 @@ iii.	would like to obtain access and make corrections to your Personal Data reco
 
 Please contact **Marine Online Pte. Ltd.** as follows:
 
-Email: [customercare@emarineonline.com](mailto:customercare@emarineonline.com)
+Email: [customercare@marineonline.com](mailto:customercare@marineonline.com)
 
 Call: +65 6571 5888 (Customer Service Hotline)
 
