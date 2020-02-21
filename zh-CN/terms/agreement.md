@@ -119,7 +119,7 @@ MARINE ONLINE不保证任何经过验证的会员的身份，也不保证买方�
 
 MARINE ONLINE有权根据MARINE ONLINE在平台上公布的费用表以及可能源自平台但在平台之外签订的任何具有法律约束力的交易收取各种在线交易的服务费。MARINE ONLINE保留对其他类型的在线交易收取额外服务费的权利，并在平台上公布此类费用的合理事先通知。如果在线交易采用MARINE ONLINE平台支付服务，经验证的会员授权MARINE ONLINE扣除任何已完成的在线交易到期和应付的MARINE ONLINE的服务费。MARINE ONLINE不能控制对使用MARINE ONLINE平台支付服务购买的任何产品的品质或对其品质负责，MARINE ONLINE也不负责确保买方或卖方履行其与任何交易相关的义务。对于不采用MARINE ONLINE平台支付服务的在线交易，MARINE ONLINE将在每个日历结束时或由MARINE ONLINE确定的其他日期向已验证会员发送服务费发票月。本发票应在发票中规定的日期之前按照发票中所述的说明全额结算，不得抵消或反索赔。MARINE ONLINE有权根据在到期日或之前尚未支付的任何付款的发票金额，收取每月1％的滞纳金（或法律允许的其他利率）。
 
-请参阅 [https://aboutus.emarineonline.com/docs/terms/fee](https://aboutus.emarineonline.com/docs/terms/fee). 上的服务费表。
+请参阅 [https://aboutus.marineonline.com/docs/terms/fee](https://aboutus.marineonline.com/docs/terms/fee). 上的服务费表。
 
 ### 4.2 免收服务费。
 
@@ -294,19 +294,19 @@ MARINE ONLINE有权将本协议作为一个整体或部分转让给任何关联�
 
 “**人**” 的涵义与“释义法”（第1章）中的涵义相同
 
-“**平台**” 指www.emarineonline.com。
+“**平台**” 指www.marineonline.com。
 
-“**隐私政策**” 可在 https://aboutus.emarineonline.com/docs/terms/policy 上找到
+“**隐私政策**” 可在 https://aboutus.marineonline.com/docs/terms/policy 上找到
 
 “**产品**” 指通过本平台提供的商品和/或服务。
 
 “**卖方**” 是指产品供应商以及产品与船舶租赁相关的，是指（发行方）船东。
 
-“**服务费用表**”: 可在 https://aboutus.emarineonline.com/docs/terms/fee 找到。
+“**服务费用表**”: 可在 https://aboutus.marineonline.com/docs/terms/fee 找到。
 
 “**SIAC**” 指新加坡国际仲裁中心。
 
-“**使用条款**” 可在 https://aboutus.emarineonline.com/docs/terms/tnc 找到。
+“**使用条款**” 可在 https://aboutus.marineonline.com/docs/terms/tnc 找到。
 
 “**美元**” 是指美利坚合众国的合法货币。
 
