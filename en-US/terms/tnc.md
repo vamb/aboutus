@@ -2,18 +2,15 @@
 name: Terms of Use 
 ---
 
-## Terms of Use
-
-
-Terms of Use
+### Terms of Use
 
 [Last updated on 10th February 2020]
 
-Welcome to the www.marineonline.com website and/or the mobile app.
+Welcome to the https://www.marineonline.com website and/or the mobile app.
 
-Please read these terms and conditions carefully.
+### read these terms and conditions carefully.
 
-The following Terms of Use govern your use and access of the Platform (defined below) and the use of the Services. By accessing the Platform and/or using the Services, you agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, do not access and/or use this Platform or the Services.
+### The following Terms of Use govern your use and access of the Platform (defined below) and the use of the Services. By accessing the Platform and/or using the Services, you agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, do not access and/or use this Platform or the Services.
 
 Access to and use of password protected and/or secure areas of the Platform and/or use of the Services are restricted to Customers with accounts only. You may not obtain or attempt to obtain unauthorized access to such parts of this Platform and/or Services, or to any other protected information, through any means not intentionally made available by us for your specific use. A breach of this provision may be an offence under the Computer Misuse Act (Chapter 50A) of Singapore.
 
@@ -23,7 +20,7 @@ Unless otherwise defined, the definitions and provisions in respect of interpret
 
 2.1 Guidelines to the use of Platform and/or Services: You agree to comply with any and all the guidelines, notices, operating rules and policies and instructions pertaining to the use of the Services and/or access to the Platform, as well as any amendments to the aforementioned, issued by us, from time to time. We reserve the right to revise these guidelines, notices, operating rules and policies and instructions at any time and you are deemed to be aware of and bound by any changes to the foregoing upon their publication on the Platform.
 
-2.2 Restricted activities: You agree and undertake NOT to:
+### 2.2 Restricted activities: You agree and undertake NOT to:
 (a) impersonate any person or entity or to falsely state or otherwise misrepresent your affiliation with any person or entity;
 
 (b) use the Platform or Services for illegal purposes;
@@ -56,13 +53,13 @@ Unless otherwise defined, the definitions and provisions in respect of interpret
 
 2.7 Additional terms: In addition to these Terms of Use, the use of specific aspects of the Materials and Services, more comprehensive or updated versions of the Materials offered by us or our designated sub-contractors, may be subject to additional terms and conditions, which will apply in full force and effect. All Services and transactions shall be subject to fees payable to us as set out at https://aboutus.marineonline.com/docs/terms/fee   
 
-3. Use of Services
+### 3. Use of Services
 
 3.1 Application of this Clause: In addition to all other terms and conditions of these Terms of Use, the provisions in this Clause 3 are the additional specific terms and conditions governing your use of the Services.
 
 3.2 Restrictions: Use of the Services is limited to authorized Customers that are of legal age and who have the legal capacity to enter into and form contracts under any applicable law. Customers who have breached or are in breach of the terms and conditions contained herein and Customers who have been permanently or temporarily suspended from use of any of the Services may not use the Services even if they satisfy the requirements of this Clause 3.2.
 
-3.3 General terms of use: You agree:
+### 3.3 General terms of use: You agree:
 
 (a) to access and/or use the Services only for lawful purposes and in a lawful manner at all times and further agree to conduct any activity relating to the Services in good faith; and
 
@@ -74,7 +71,7 @@ Unless otherwise defined, the definitions and provisions in respect of interpret
 
 3.6 Third Party Vendors: You acknowledge that parties other than Marine Online (i.e. Third Party Vendors) list and sell Products on the Platform. Whether a particular Product is listed for sale on the Platform by Marine Online or a Third Party Vendor may be stated on the webpage listing that Product. For the avoidance of doubt, each agreement entered into for the sale of a Third Party Vendor’s Products to a Customer shall be an agreement entered into directly and only between the Third Party Vendor and the Customer.
 
-4. Customers’ accounts
+### 4. Customers’ accounts
 
 4.1 Username/Password: Certain Services that may be made available on the Platform may require creation of an account with us or for you to provide Personal Data. If you request to create an account with us, a Username and Password may either be: (i) determined and issued to you by us; or (ii) provided by you and accepted by us in our sole and absolute discretion in connection with the use of the Services and/or access to the relevant Platform. We may at any time in our sole and absolute discretion, request that you update your Personal Data or forthwith invalidate the Username and/or Password without giving any reason or prior notice and shall not be liable or responsible for any Losses suffered by or caused by you or arising out of or in connection with or by reason of such request or invalidation. You hereby agree to change your Password from time to time and to keep the Username and Password confidential and shall be responsible for the security of your account and liable for any disclosure or use (whether such use is authorized or not) of the Username and/or Password. You are to notify us immediately if you have knowledge that or have reason for suspecting that the confidentiality of the Username and/or Password has been compromised or if there has been any unauthorized use of the Username and/or Password or if your Personal Data requires updating.
 
@@ -86,7 +83,7 @@ Unless otherwise defined, the definitions and provisions in respect of interpret
 
 You agree to be bound by any access of the Platform and/or use of any Services (whether such access or use are authorized by you or not) and you agree that we shall be entitled (but not obliged) to act upon, rely on or hold you solely responsible and liable in respect thereof as if the same were carried out or transmitted by you. You further agree and acknowledge that you shall be bound by and agree to fully indemnify us against any and all Losses attributable to any use of any Services and/or or access to the Platform referable to your Username and Password.
 
-5. Intellectual property
+### 5. Intellectual property
 
 5.1 Ownership: The Intellectual Property in and to the Platform and the Materials are owned, licensed to or controlled by us, our licensors or our service providers. We reserve the right to enforce its Intellectual Property to the fullest extent of the law.
 
@@ -94,7 +91,7 @@ You agree to be bound by any access of the Platform and/or use of any Services (
 
 5.3 Trademarks: The Trademarks are registered and unregistered trademarks of us or third parties. Nothing on the Platform and in these Terms of Use shall be construed as granting, by implication, estoppel, or otherwise, any license or right to use (including as a meta tag or as a “hot” link to any other website) any Trademarks displayed on the Services, without our written permission or any other applicable trademark owner.
 
-6. Our limitation of responsibility and liability
+### 6. Our limitation of responsibility and liability
 
 6.1 No representations or warranties: The Services, the Platform and the Materials are provided on an “as is” and “as available” basis. All data and/or information contained in the Platform, the Services or the Materials are provided for informational purposes only. No representations or warranties of any kind, implied, express or statutory, including the warranties of non-infringement of third party rights, title, merchantability, satisfactory quality or fitness for a particular purpose, are given in conjunction with the Platform, the Services or the Materials. Without prejudice to the generality of the foregoing, we do not warrant:
 
@@ -118,13 +115,13 @@ You agree to be bound by any access of the Platform and/or use of any Services (
 
 6.3 At your own risk: Any risk of misunderstanding, error, damage, expense or Losses resulting from the use of the Platform is entirely at your own risk and we shall not be liable therefor.
 
-7. Hyperlinks, alerts and advertising
+### 7. Hyperlinks, alerts and advertising
 
 7.1 Hyperlinks: For your convenience, we may include hyperlinks to other websites or content on the Internet that are owned or operated by third parties. Such linked websites or  content are not under our control and we are not liable for any errors, omissions, delays, defamation, libel, slander, falsehood, obscenity, pornography, profanity, inaccuracy or any other objectionable material contained in the contents, or the consequences of accessing, any linked website. Any hyperlinks to any other websites or content are not an endorsement or verification of such websites or content and you agree that your access to or use of such linked websites or content is entirely at your own risk.
 
 7.2 Advertising: We may attach banners, java applets and/or such other materials to the Platform for the purposes of advertising our or our Third Party Vendors’ products and/or services. For the avoidance of doubt, you shall not be entitled to receive any payment, fee and/or commission in respect of any such advertising or other promotional materials.
 
-8. Your submissions and information
+### 8. Your submissions and information
 
 8.1 Submissions by you: You grant us a non-exclusive licence to use the materials or information that you submit to the Platform and/or provide to us, including but not limited to, questions, reviews, comments, and suggestions (collectively, “Submissions”). When you post comments or reviews to the Platform, you also grant us the right to use the name that you submit or your Username in connection with such review, comment, or other content. You shall not use a false e-mail address, pretend to be someone other than yourself or otherwise mislead us or third parties as to the origin of any Submissions. We may, but shall not be obligated to, publish, remove or edit your Submissions.
 
@@ -155,13 +152,13 @@ c. To refuse or disallow the registration of any User, including the de-registra
 d. To remove any information or material provided by any User, which the Site, in its absolute and unfettered discretion, considers to be undesirable or in breach of any of the prohibitions stated above;
 e. To amend and/or supplement the Terms and Conditions herein.
 
-9. Termination
+### 9. Termination
 
 9.1 Termination by us: In our sole and absolute discretion, we may with immediate effect upon giving you notice, terminate your use of the Platform and/or Services and/or disable your Username and Password. We may bar access to the Platform and/or Services (or any part thereof) for any reason whatsoever, including a breach of any of these Terms of Use or where if we believe that you have violated or acted inconsistently with any terms or conditions set out herein, or if in our opinion or the opinion of any regulatory authority, it is not suitable to continue providing the services relating to the Platform.
 
 9.2 Termination by you: You may terminate these Terms of Use by giving seven days’ notice in writing to us.
 
-10. Notices
+### 10. Notices
 
 10.1 Notices from us: All notices or other communications given to you if:
 
@@ -173,7 +170,7 @@ e. To amend and/or supplement the Terms and Conditions herein.
 
 10.3 Other modes: Notwithstanding Clauses 10.1 and 10.2, we may from time to time designate other acceptable modes of giving notices (including but not limited to e-mail or other forms of electronic communication) and the time or event by which such notice shall be deemed given.
 
-11. General
+### 11. General
 
 11.1 Cumulative rights and remedies: Unless otherwise provided under these Terms of Use, the provisions of these Terms of Use and our rights and remedies under these Terms of Use are cumulative and are without prejudice and in addition to any rights or remedies we may have in law or in equity.
 
@@ -203,7 +200,7 @@ e. To amend and/or supplement the Terms and Conditions herein.
 
 11.14 Force Majeure: We shall not be liable for non-performance, error, interruption or delay in the performance of its obligations under these Terms of Use (or any part thereof) or for any inaccuracy, unreliability or unsuitability of the Platform’s and/or Services’ contents if this is due, in whole or in part, directly or indirectly to an event or failure which is beyond our reasonable control.
 
-Schedule 1
+### Schedule 1
 
 Definitions and Interpretation
 
