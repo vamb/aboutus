@@ -83,11 +83,11 @@ name: 平台服务费
     </tbody>
 </table>
 
-如果您有兴趣与向海运在线投放广告或想查询更多信息，请点击 [这里](https://aboutus.emarineonline.com/docs/connect/contactus).联系我们。
+如果您有兴趣与向海运在线投放广告或想查询更多信息，请点击 [这里](https://aboutus.marineonline.com/docs/connect/contactus).联系我们。
 
 交易费用信息仅供参考，有效期至2019年12月31日。* 请查阅服务协议。
 
-**服务协议：** Marine Online（“Marine Online Pte Ltd”）保留根据经济条件/行为修改服务细节和交易费用/费率的权利。有关特定关税的详细信息，请参阅您所同意遵守的Marine Online [服务使用条款](https://aboutus.emarineonline.com/docs/terms/tnc)和其他类型的协议。
+**服务协议：** Marine Online（“Marine Online Pte Ltd”）保留根据经济条件/行为修改服务细节和交易费用/费率的权利。有关特定关税的详细信息，请参阅您所同意遵守的Marine Online [服务使用条款](https://aboutus.marineonline.com/docs/terms/tnc)和其他类型的协议。
 
  [回到顶部](平台服务费#)
  
