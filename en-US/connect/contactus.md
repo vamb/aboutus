@@ -2,7 +2,7 @@
 name: Contact Us 
 ---
 
-## Contact Us 
+## Contact Us
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/contact.jpg)
 
