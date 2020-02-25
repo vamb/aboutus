@@ -10,6 +10,8 @@ name: Contact Us
 
 **Customer Service Hotline: +65 6571 5888**
 
+WhatsApp: +65 9111 8388
+
 Email: [customercare@marineonline.com](mailto:customercare@marineonline.com)
 
 Operating hours: 9am to 5.30pm, Monday to Friday (Closed on Saturday, Sunday and <a href="https://www.mom.gov.sg/employment-practices/public-holidays/">Public Holidays</a>).
