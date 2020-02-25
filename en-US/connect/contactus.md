@@ -20,7 +20,7 @@ Operating hours: 9am to 5.30pm, Monday to Friday (Closed on Saturday, Sunday and
 
 **Address:**
 
-10 Pasir Panjang Road #15&#47;16-01/02
+10 Pasir Panjang Road #15&#47;16-01/02 ddddd
 
 Mapletree Business City Singapore 117438
 
